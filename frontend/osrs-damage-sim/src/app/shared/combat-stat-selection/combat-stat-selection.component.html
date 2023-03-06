@@ -1,0 +1,17 @@
+<div class="d-flex justify-content-between flex-wrap">
+  <div class="d-flex align-items-center" *ngFor="let skill of allSkills">
+    <img src="assets/img/skills/{{ skill }}.png" />
+    <div class="ms-2">
+      <input
+        style="width: 45px"
+        class="form-control"
+        type="number"
+        inputmode="numeric"
+        [(ngModel)]="combatStats[skill]"
+        (change)="onCombatStatsChanged()"
+        max="99"
+        min="1"
+      />
+    </div>
+  </div>
+</div>

@@ -1,0 +1,285 @@
+{
+  "Performance test setup 1": {
+    "globalSettings": {
+      "npc": {
+        "att": 250,
+        "dcrush": 200,
+        "def": 150,
+        "dmagic": 200,
+        "drange": 50,
+        "dslash": 200,
+        "dstab": 200,
+        "hitpoints": 800,
+        "id": "7551",
+        "isDragon": true,
+        "isXerician": true,
+        "mage": 250,
+        "name": "Great Olm Head",
+        "range": 250,
+        "size": 5,
+        "str": 250
+      },
+      "iterations": 10000,
+      "teamSize": 1,
+      "raidLevel": 0,
+      "pathLevel": 0
+    },
+    "inputGearSetups": [
+      {
+        "gearSetupSettings": {
+          "statDrains": [],
+          "boosts": ["overload_plus"],
+          "combatStats": {
+            "attack": 99,
+            "strength": 99,
+            "ranged": 99,
+            "magic": 99,
+            "hitpoints": 99
+          }
+        },
+        "mainGearSetup": {
+          "setupName": "Max Tbow",
+          "presetName": "Max Tbow",
+          "gear": {
+            "0": {
+              "id": 27235
+            },
+            "1": {
+              "id": 27363
+            },
+            "2": {
+              "id": 19547
+            },
+            "3": {
+              "id": 20997
+            },
+            "4": {
+              "id": 27238
+            },
+            "5": null,
+            "7": {
+              "id": 27241
+            },
+            "9": {
+              "id": 26235
+            },
+            "10": {
+              "id": 13237
+            },
+            "12": {
+              "id": 11771
+            },
+            "13": {
+              "id": 11212
+            }
+          },
+          "blowpipeDarts": {
+            "id": 11230
+          },
+          "attackStyle": "Rapid (Ranged/Rapid)",
+          "spell": null,
+          "isSpecial": false,
+          "prayers": ["rigour"],
+          "conditions": [],
+          "statDrain": [],
+          "isOnSlayerTask": true,
+          "isInWilderness": true,
+          "currentHp": 1,
+          "miningLvl": 99,
+          "isKandarinDiary": true
+        },
+        "fillGearSetups": []
+      },
+      {
+        "gearSetupSettings": {
+          "statDrains": [],
+          "boosts": ["overload_plus"],
+          "combatStats": {
+            "attack": 99,
+            "strength": 99,
+            "ranged": 99,
+            "magic": 99,
+            "hitpoints": 99
+          }
+        },
+        "mainGearSetup": {
+          "setupName": "Max Void Tbow",
+          "presetName": "Max Void Tbow",
+          "gear": {
+            "0": {
+              "id": 11664
+            },
+            "1": {
+              "id": 27363
+            },
+            "2": {
+              "id": 19547
+            },
+            "3": {
+              "id": 20997
+            },
+            "4": {
+              "id": 13072
+            },
+            "5": null,
+            "7": {
+              "id": 13073
+            },
+            "9": {
+              "id": 8842
+            },
+            "10": {
+              "id": 13237
+            },
+            "12": {
+              "id": 11771
+            },
+            "13": {
+              "id": 11212
+            }
+          },
+          "blowpipeDarts": {
+            "id": 11230
+          },
+          "attackStyle": "Rapid (Ranged/Rapid)",
+          "spell": null,
+          "isSpecial": false,
+          "prayers": ["rigour"],
+          "conditions": [],
+          "statDrain": [],
+          "isOnSlayerTask": true,
+          "isInWilderness": true,
+          "currentHp": 1,
+          "miningLvl": 99,
+          "isKandarinDiary": true
+        },
+        "fillGearSetups": []
+      },
+      {
+        "gearSetupSettings": {
+          "statDrains": [],
+          "boosts": ["overload_plus"],
+          "combatStats": {
+            "attack": 99,
+            "strength": 99,
+            "ranged": 99,
+            "magic": 99,
+            "hitpoints": 99
+          }
+        },
+        "mainGearSetup": {
+          "setupName": "Max Blowpipe",
+          "presetName": "Max Blowpipe",
+          "gear": {
+            "0": {
+              "id": 27235
+            },
+            "1": {
+              "id": 27363
+            },
+            "2": {
+              "id": 19547
+            },
+            "3": {
+              "id": 12926
+            },
+            "4": {
+              "id": 27238
+            },
+            "5": null,
+            "7": {
+              "id": 27241
+            },
+            "9": {
+              "id": 26235
+            },
+            "10": {
+              "id": 13237
+            },
+            "12": {
+              "id": 11771
+            },
+            "13": null
+          },
+          "blowpipeDarts": {
+            "id": 11230
+          },
+          "attackStyle": "Rapid (Ranged/Rapid)",
+          "spell": null,
+          "isSpecial": false,
+          "prayers": ["rigour"],
+          "conditions": [],
+          "statDrain": [],
+          "isOnSlayerTask": true,
+          "isInWilderness": true,
+          "currentHp": 1,
+          "miningLvl": 99,
+          "isKandarinDiary": true
+        },
+        "fillGearSetups": []
+      },
+      {
+        "gearSetupSettings": {
+          "statDrains": [],
+          "boosts": ["overload_plus"],
+          "combatStats": {
+            "attack": 99,
+            "strength": 99,
+            "ranged": 99,
+            "magic": 99,
+            "hitpoints": 99
+          }
+        },
+        "mainGearSetup": {
+          "setupName": "Bow of faerdhinen",
+          "presetName": null,
+          "gear": {
+            "0": {
+              "id": 23971
+            },
+            "1": {
+              "id": 27363
+            },
+            "2": {
+              "id": 19547
+            },
+            "3": {
+              "id": 25865
+            },
+            "4": {
+              "id": 23975
+            },
+            "5": null,
+            "7": {
+              "id": 23979
+            },
+            "9": {
+              "id": 26235
+            },
+            "10": {
+              "id": 13237
+            },
+            "12": {
+              "id": 11771
+            }
+          },
+          "blowpipeDarts": {
+            "id": 11230
+          },
+          "attackStyle": "Rapid (Ranged/Rapid)",
+          "spell": null,
+          "isSpecial": false,
+          "prayers": ["rigour"],
+          "conditions": [],
+          "statDrain": [],
+          "isOnSlayerTask": true,
+          "isInWilderness": true,
+          "currentHp": 1,
+          "miningLvl": 99,
+          "isKandarinDiary": true
+        },
+        "fillGearSetups": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+<div class="row d-flex">
+  <div class="col flex-grow-1">
+    <div class="row">
+      <div class="col-auto px-2" *ngFor="let boost of quickBoostSelected ? quickBoosts : selectedBoosts">
+        <div [class.boost-active]="selectedBoosts.has(boost)" class="img-cell text-center" (click)="toggleBoost(boost)">
+          <img class="mt-1" src="assets/img/boosts/{{ boost }}.png" />
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-auto">
+    <button class="btn btn-primary" (click)="open()">All boosts <i class="bi bi-box-arrow-in-up-right"></i></button>
+  </div>
+</div>

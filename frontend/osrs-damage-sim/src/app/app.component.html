@@ -1,0 +1,65 @@
+<div class="container">
+  <div class="row align-items-center justify-content-center mb-5">
+    <div class="col-2 text-end mt-3"><img class="img-fluid w-50" src="assets/img/dragon_claws_detail.png" /></div>
+    <div class="col-auto"><h1 class="display-1">Damage Simulator</h1></div>
+  </div>
+
+  <app-sim-results [damageSimResults]="damageSimResults"></app-sim-results>
+
+  <hr class="row mb-5" />
+
+  <app-share-input-setup
+    [globalSettingsComponent]="globalSettingsComponent"
+    [gearSetupTabsComponent]="gearSetupTabsComponent"
+  ></app-share-input-setup>
+
+  <app-global-settings></app-global-settings>
+
+  <div class="mb-4 px-3">
+    <div class="row mb-1">
+      <button class="btn btn-primary w-100" type="button" (click)="runDamageSim()" [disabled]="loading">
+        <span *ngIf="loading" class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+        <span *ngIf="!loading" class="sr-only"> Run Damage Simulator</span>
+        <span *ngIf="loading" class="sr-only"> Loading...</span>
+      </button>
+    </div>
+    <div class="row text-danger" *ngIf="damageSimResults?.error">Error: {{ damageSimResults.error }}</div>
+  </div>
+
+  <app-gear-setup-tabs></app-gear-setup-tabs>
+
+  <hr class="row my-4" />
+
+  <footer class="text-center">
+    <div class="row align-items-center justify-content-center">
+      <div class="col-auto px-0">Created by Maurits825</div>
+      <div class="col-auto px-0">
+        <a class="btn btn-link btn-lg text-dark" target="_blank" href="https://github.com/Maurits825/osrs-damage-sim">
+          <i class="bi bi-github"></i
+        ></a>
+      </div>
+      <div class="col-auto">
+        <i class="bi bi-three-dots-vertical"></i>
+      </div>
+      <div class="col-auto">
+        osrs-dmg-sim:
+        <ng-container *ngIf="isDamageSimActive">
+          Active <i class="bi bi-check-circle-fill text-success"></i>
+        </ng-container>
+        <ng-container *ngIf="!isDamageSimActive">
+          Inactive <i class="bi bi-x-circle-fill text-danger"></i>
+        </ng-container>
+      </div>
+    </div>
+
+    <div class="text-center">
+      <p>
+        <small>
+          <em>RuneScape</em> and <em>OSRS</em> are registered trademarks of Jagex Limited. <br />
+          This website is in no way affiliated with, authorised, maintained, sponsored or endorsed by Jagex Limited or
+          any of its affiliates or subsidiaries.
+        </small>
+      </p>
+    </div>
+  </footer>
+</div>

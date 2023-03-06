@@ -1,0 +1,38 @@
+<div class="row justify-content-center">
+  <div class="col col-lg-8 col-xl-6">
+    <div class="row mb-2">
+      <div class="col"><h5 class="text-center">Gear Setup Settings</h5></div>
+    </div>
+
+    <div class="row mb-3 align-items-center">
+      <div class="col-2">Combat Stats</div>
+      <div class="col">
+        <app-combat-stat-selection
+          [combatStats]="gearSetupSettings.combatStats"
+          (combatStatsChanged)="combatStatsChanged($event)"
+        ></app-combat-stat-selection>
+      </div>
+    </div>
+
+    <div class="row mb-3 align-items-center">
+      <div class="col-2">Boosts</div>
+      <div class="col">
+        <app-boost-selection
+          [selectedBoosts]="gearSetupSettings.boosts"
+          (boostToggle)="toggleBoost($event)"
+        ></app-boost-selection>
+      </div>
+    </div>
+
+    <div class="row mb-3">
+      <div class="col-2">Stat Drain</div>
+      <div class="col">
+        <app-stat-drain-selection
+          [statDrains]="gearSetupSettings.statDrains"
+          (statDrainsChanged)="statDrainsChanged($event)"
+        ></app-stat-drain-selection>
+      </div>
+    </div>
+    <hr class="row mx-0" />
+  </div>
+</div>

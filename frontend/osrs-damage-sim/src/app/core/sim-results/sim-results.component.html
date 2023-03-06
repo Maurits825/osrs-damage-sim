@@ -1,0 +1,120 @@
+<div *ngIf="damageSimResults && !damageSimResults?.error">
+  <div class="row mb-1" *ngIf="damageSimResults?.ttk_stats">
+    <h2 class="mb-1 ps-0">Time Results</h2>
+    <table class="table table-striped table-bordered mb-4">
+      <thead>
+        <tr class="text-end">
+          <th scope="col" style="width: 30%" class="text-start">Setup Name</th>
+          <th scope="col" style="width: 10%">Average</th>
+          <th scope="col" style="width: 10%">Frequent</th>
+          <th scope="col" style="width: 10%">Min</th>
+          <th scope="col" style="width: 10%">Max</th>
+          <th scope="col" style="width: 10%">50% Kill time</th>
+        </tr>
+      </thead>
+      <tbody>
+        <ng-container *ngFor="let labels of damageSimResults.labels; let setupIndex = index">
+          <tr class="text-end">
+            <th scope="row" class="text-start">{{ labels.input_gear_setup_label }}</th>
+            <td>{{ damageSimResults.ttk_stats[setupIndex].average }}</td>
+            <td>{{ damageSimResults.ttk_stats[setupIndex].most_frequent }}</td>
+            <td>{{ damageSimResults.ttk_stats[setupIndex].minimum }}</td>
+            <td>{{ damageSimResults.ttk_stats[setupIndex].maximum }}</td>
+            <td>{{ damageSimResults.ttk_stats[setupIndex].chance_to_kill[1] }}</td>
+          </tr>
+        </ng-container>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="row mb-3" *ngIf="damageSimResults?.sim_dps_stats">
+    <h2 class="mb-1 ps-0">Sim Damage & DPS Results</h2>
+    <table class="table table-bordered mb-4">
+      <thead>
+        <tr class="text-center">
+          <th colspan="1"></th>
+          <th colspan="3">Theoretical</th>
+          <th colspan="3">Sim Average</th>
+        </tr>
+        <tr class="text-end">
+          <th scope="col" style="width: 30%" class="text-start">Setup Name</th>
+          <th scope="col" style="width: 10%">DPS</th>
+          <th scope="col" style="width: 10%">Max hit</th>
+          <th scope="col" style="width: 10%">Accuracy</th>
+          <th scope="col" style="width: 10%">DPS</th>
+          <th scope="col" style="width: 10%">Damage</th>
+          <th scope="col" style="width: 10%">Attack Count</th>
+        </tr>
+      </thead>
+      <tbody>
+        <ng-container *ngFor="let labels of damageSimResults.labels; let setupIndex = index">
+          <tr>
+            <td colspan="7" class="table-active">
+              {{ labels.gear_setup_settings_label }}
+            </td>
+          </tr>
+          <ng-container *ngFor="let allWeaponLabels of labels.all_weapon_labels; let gearIndex = index">
+            <tr class="text-end">
+              <th scope="row" class="text-start">{{ allWeaponLabels }}</th>
+              <td>{{ damageSimResults.theoretical_dps[setupIndex][gearIndex] | number : "1.2-2" }}</td>
+              <td>{{ damageSimResults.max_hit[setupIndex][gearIndex] }}</td>
+              <td>{{ damageSimResults.accuracy[setupIndex][gearIndex] | number : "1.2-2" }}%</td>
+              <td>{{ damageSimResults.sim_dps_stats[setupIndex][gearIndex].average | number : "1.2-2" }}</td>
+              <td>{{ damageSimResults.total_damage_stats[setupIndex][gearIndex].average | number : "1.2-2" }}</td>
+              <td>{{ damageSimResults.attack_count_stats[setupIndex][gearIndex].average | number : "1.2-2" }}</td>
+            </tr>
+          </ng-container>
+        </ng-container>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="row mb-3" *ngIf="damageSimResults?.cumulative_chances">
+    <div class="col">
+      <div class="row mb-1 align-items-center">
+        <h2 class="col-auto me-auto ps-0">Chance to kill under target time</h2>
+        <label class="col-auto">Target Time</label>
+        <div class="col-auto pe-0">
+          <input
+            class="form-control"
+            type="text"
+            #targetTimeInput
+            (change)="targetTimeChanged(targetTimeInput.value)"
+            placeholder="mm:ss.m"
+          />
+        </div>
+      </div>
+    </div>
+    <table class="table table-striped table-bordered mb-4">
+      <thead>
+        <tr>
+          <th scope="col">Setup Name</th>
+          <th scope="col">Chance</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let labels of damageSimResults.labels; let setupIndex = index">
+          <th scope="row">{{ labels.input_gear_setup_label }}</th>
+          <td *ngIf="targetTimeChance; else timeEmpty">{{ targetTimeChance[setupIndex] * 100 | number : "1.2-2" }}%</td>
+          <ng-template #timeEmpty><td>-</td></ng-template>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="row mb-5 px-0 justify-content-around">
+    <h2 class="col-auto me-auto ps-0">Graphs</h2>
+    <div class="row px-0">
+      <div class="col-6 ps-0" *ngIf="damageSimResults.graphs.time_to_kill_cumulative | base64Image as cumulative_url">
+        <a [href]="cumulative_url" target="_blank">
+          <img class="img-fluid" [src]="cumulative_url" />
+        </a>
+      </div>
+      <div class="col-6 pe-0" *ngIf="damageSimResults.graphs.time_to_kill_probability | base64Image as probability_url">
+        <a [href]="probability_url" target="_blank">
+          <img class="img-fluid" [src]="probability_url" />
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,22 @@
+{
+  "min_defence": {
+    "Zebak": 50,
+    "Kephri": 60,
+    "Ba-Ba": 60,
+    "Akkha": 70,
+    "Obelisk": 60,
+    "Tumeken's Warden": 120,
+    "Elidinis' Warden": 120,
+    "Sotetseg": 100
+  },
+  "locations": {
+    "Zebak": "TOMBS_OF_AMASCUT",
+    "Kephri": "TOMBS_OF_AMASCUT",
+    "Ba-Ba": "TOMBS_OF_AMASCUT",
+    "Akkha": "TOMBS_OF_AMASCUT",
+    "Obelisk": "TOMBS_OF_AMASCUT",
+    "Tumeken's Warden": "TOMBS_OF_AMASCUT",
+    "Elidinis' Warden": "TOMBS_OF_AMASCUT",
+    "Akkha's Shadow": "TOMBS_OF_AMASCUT"
+  }
+}

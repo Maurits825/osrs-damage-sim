@@ -1,0 +1,100 @@
+<div class="mb-4">
+  <div class="row mb-1 align-items-center">
+    <div class="col-2">Npc Settings</div>
+    <app-npc-input
+      class="col-10 col-xxl-6"
+      [selectedNpc]="globalSettings.npc"
+      (npcChanged)="npcChanged($event)"
+    ></app-npc-input>
+  </div>
+
+  <div class="row align-items-center" *ngIf="showRaidLevel || showPathLevel">
+    <div class="col-2">Other Settings</div>
+    <div class="col-5 col-xxl-3">
+      <div class="row align-items-center" *ngIf="showRaidLevel">
+        <div class="col-auto pe-0"><label>Raid Level</label></div>
+        <div class="col pe-0">
+          <input class="form-control" type="number" [(ngModel)]="globalSettings.raidLevel" min="0" />
+        </div>
+      </div>
+    </div>
+
+    <div class="col-5 col-xxl-3">
+      <div class="row align-items-center" *ngIf="showPathLevel">
+        <div class="col-auto pe-0"><label>Path Level</label></div>
+        <div class="col pe-0">
+          <input class="form-control" type="number" [(ngModel)]="globalSettings.pathLevel" min="0" max="6" />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row mb-4 align-items-center">
+  <div class="col-2">Global Settings</div>
+
+  <div class="col col-sm-5 col-lg-3">
+    <div class="row align-items-center">
+      <div class="col-auto pe-0"><label>Team size</label></div>
+      <div class="col pe-0">
+        <input class="form-control" type="number" [(ngModel)]="globalSettings.teamSize" min="1" />
+      </div>
+    </div>
+  </div>
+
+  <div class="col col-sm-5 col-lg-3">
+    <div class="row align-items-center">
+      <div class="col-auto pe-0"><label>Iterations</label></div>
+      <div class="col pe-0">
+        <input class="form-control" type="number" [(ngModel)]="globalSettings.iterations" min="1" max="10000" />
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row mb-4 align-items-center">
+  <div class="col-2">Global Prayers</div>
+  <div class="col">
+    <div class="row">
+      <div class="col-auto" *ngFor="let attackType of allAttackTypes">
+        <div class="row align-items-center">
+          <div class="col-auto"><img src="assets/img/skills/{{ attackType }}.png" /></div>
+          <div class="col-auto me-4">
+            <app-prayer-selection
+              [quickPrayers]="quickPrayers[attackType]"
+              [selectedPrayers]="selectedPrayers[attackType]"
+              (prayerToggle)="toggleAttackTypePrayer($event, attackType)"
+            ></app-prayer-selection>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row mb-4 align-items-center">
+  <div class="col-2">Global Boost</div>
+  <div class="col-auto">
+    <app-boost-selection [selectedBoosts]="selectedBoosts" (boostToggle)="toggleBoost($event)"></app-boost-selection>
+  </div>
+</div>
+
+<div class="row mb-4 align-items-center">
+  <div class="col-2">Global Combat Stats</div>
+  <div class="col col-lg-6 col-xl-6">
+    <app-combat-stat-selection
+      [combatStats]="combatStats"
+      (combatStatsChanged)="combatStatsChanged($event)"
+    ></app-combat-stat-selection>
+  </div>
+</div>
+
+<div class="row mb-4">
+  <div class="col-2">Global Stat Drain</div>
+  <div class="col col-lg-5 col-xl-6">
+    <app-stat-drain-selection
+      [statDrains]="statDrains"
+      (statDrainsChanged)="statDrainChanged($event)"
+    ></app-stat-drain-selection>
+  </div>
+</div>

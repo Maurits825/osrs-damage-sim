@@ -1,0 +1,15 @@
+<div class="row d-flex">
+  <div class="col flex-grow-1">
+    <div class="row">
+      <div class="col-auto px-2" *ngFor="let prayer of quickPrayerSelected ? quickPrayers : selectedPrayers">
+        <div [class.prayer-active]="selectedPrayers.has(prayer)">
+          <img src="assets/img/prayer/{{ prayer }}.png" (click)="togglePrayer(prayer)" />
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-auto">
+    <button class="btn btn-primary" (click)="open()">All prayers <i class="bi bi-box-arrow-in-up-right"></i></button>
+  </div>
+</div>
