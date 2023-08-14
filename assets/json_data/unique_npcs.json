@@ -6095,6 +6095,11 @@
   "strbns": 38,
   "amagic": 150,
   "mbns": 32,
+  "dstab": 255,
+  "dslash": 65,
+  "dcrush": 190,
+  "dmagic": 440,
+  "drange": 320,
   "combat": 758,
   "size": 7,
   "id": "12166"
@@ -8035,6 +8040,7 @@
  },
  {
   "name": "Giant Scarab",
+  "isKalphite": true,
   "hitpoints": 130,
   "att": 169,
   "str": 190,
@@ -8052,6 +8058,7 @@
  },
  {
   "name": "Giant Scarab (hard)",
+  "isKalphite": true,
   "hitpoints": 255,
   "att": 305,
   "str": 342,
@@ -12389,6 +12396,19 @@
   "id": "7865"
  },
  {
+  "name": "Lesser demon",
+  "isDemon": true,
+  "hitpoints": 40,
+  "att": 1,
+  "str": 1,
+  "def": 30,
+  "mage": 1,
+  "range": 1,
+  "combat": 39,
+  "size": 2,
+  "id": "12376"
+ },
+ {
   "name": "Lev",
   "hitpoints": 60,
   "att": 10,
@@ -12590,6 +12610,7 @@
  },
  {
   "name": "Locust rider",
+  "isKalphite": true,
   "hitpoints": 90,
   "att": 100,
   "str": 90,
@@ -12606,6 +12627,7 @@
  },
  {
   "name": "Locust rider",
+  "isKalphite": true,
   "hitpoints": 90,
   "att": 105,
   "str": 90,
@@ -12625,6 +12647,7 @@
  },
  {
   "name": "Locust rider",
+  "isKalphite": true,
   "hitpoints": 90,
   "att": 100,
   "str": 90,
@@ -12640,6 +12663,7 @@
  },
  {
   "name": "Locust rider",
+  "isKalphite": true,
   "hitpoints": 90,
   "att": 105,
   "str": 90,
@@ -21170,6 +21194,11 @@
   "mbns": 58,
   "arange": 300,
   "rngbns": 26,
+  "dstab": 260,
+  "dslash": 190,
+  "dcrush": 230,
+  "dmagic": 280,
+  "drange": 50,
   "combat": 798,
   "size": 7,
   "id": "12214"
@@ -21188,6 +21217,11 @@
   "mbns": 58,
   "arange": 300,
   "rngbns": 26,
+  "dstab": 260,
+  "dslash": 190,
+  "dcrush": 230,
+  "dmagic": 280,
+  "drange": 50,
   "combat": 577,
   "size": 7,
   "id": "12215"
@@ -21330,6 +21364,11 @@
   "mbns": 58,
   "arange": 160,
   "rngbns": 70,
+  "dstab": 180,
+  "dslash": 300,
+  "dcrush": 220,
+  "dmagic": 10,
+  "drange": 300,
   "combat": 791,
   "size": 3,
   "id": "12204"
@@ -21348,6 +21387,11 @@
   "mbns": 54,
   "arange": 140,
   "rngbns": 66,
+  "dstab": 180,
+  "dslash": 300,
+  "dcrush": 220,
+  "dmagic": 10,
+  "drange": 300,
   "combat": 568,
   "size": 3,
   "id": "12206"
@@ -23032,8 +23076,14 @@
   "mage": 215,
   "attbns": 190,
   "strbns": 10,
+  "dstab": 215,
+  "dslash": 65,
+  "dcrush": 85,
+  "dmagic": 580,
+  "drange": 580,
   "combat": 784,
   "size": 2,
+  "def": 215,
   "id": "12223"
  },
  {
@@ -23044,6 +23094,11 @@
   "def": 180,
   "mage": 180,
   "attbns": 185,
+  "dstab": 215,
+  "dslash": 65,
+  "dcrush": 85,
+  "dmagic": 580,
+  "drange": 580,
   "combat": 553,
   "size": 2,
   "id": "12224"
