@@ -8054,6 +8054,87 @@
    ],
    "attackType": "melee",
    "icon": "iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAMAAADHso01AAAAq1BMVEUAAACSkp2Dg42BgYt9fYd7fIV6eoR4eIF2dn90dH1ycntwcHlVgklsbXVra3NpaXBRfEZmZm5kZGxiYmpgYGdkWINdXWVbW2NNYldeUntMXlVJXFI5ZExSUlg3YUlUSm5FVk1AUUhKSlFISE5MQmJGRkwuVD9JQF4sUEJGPVxFPFhAQEUqTD8qTDlCOlYoSDw/N1IoSDU8NU46MkwkPzU0LkMyKkAaGCQAAAH+bsixAAAAAXRSTlMAQObYZgAAAMtJREFUeNp9ktlWAjEQRIOIkBlJyIDgBih7BpQBt/v/X8ZBfQJS9XrT1V2dNuZfACYpsuZ1XTzA3jRaeZITXMgSGAwuc861L3FmkcLbaQiX8fjODukWweWeM2Og/QW9buHtaTk137jKBw829HuFP5+dP01+gOBsIhrfGEOeSk5Z/Q6RWgz7ahmjWCtQim85dlhqPh5q/qrx6lOdhWFTVpJvN9p/+6L9nx4H6izvw1yWs9ftP941j1GPN4t9yd36VvLO80LFG73tdDzMAevbIJclG+b4AAAAAElFTkSuQmCC"
+  },
+  {
+   "name": "Corrupted voidwaker",
+   "id": 28531,
+   "attackStyles": [
+    "Chop (Slash/Accurate)",
+    "Slash (Slash/Aggressive)",
+    "Lunge (Stab/Controlled)",
+    "Block (Slash/Defensive)"
+   ],
+   "attackType": "melee",
+   "icon": "iVBORw0KGgoAAAANSUhEUgAAAB0AAAAeCAYAAADQBxWhAAABy0lEQVR4Xr3W30/TUBjG8e/RrtNQmQsSlRvDQIWxcIOJMfGC+J97bcKFu/HGBSISsSGYSaBrX3q8KKeT9efKDk+yZGvf7bPnrDsb3FuU3uz1NCj9oGp0MVF6s7eORBEA94AmIMDhj2NAK8voFDQtwWpTpbfevM49YwlVerX7NH0kUZQuLVhBE/D9SrdwYsHo7YaFU1UD9TMF97odDh0XEcksLSwMnYK7HY+f7uNCEOBh3kvMl5mLZrlTCsKdP9PboH/+pxKEOy1vFjRbXRkIjZtmQch+H4vSAE3ATxuvZo5rVQcEcKoGkiht7hlwEgpgWhqoGoRaqNKD/jY7xAA4Sx5rk0uGEs+A9VN7ea/jGGfJY9//zlBirm6aNkmNpklG7iMOvpxy1utAEPB5dESTljAHGoow6D/ht+Nw8HVYNV6aineq9Ie1l5x7HuPxmGgySc+02m1Ofp3SpG3JE5TeXX1GKEIowujvRc7M/CAUogl4EQQEIpxcBTQF8pJz9Sr97sVzQhErIGR+ZZJNYLnVYhwEVkBIr94EM3+kznwf3xII4IDSH7fepgfarsu3hjvNnFHa3PYHff3/XmsjNxeSVqaZSFw2byt2WwL8A0yY6Q2DRjdNAAAAAElFTkSuQmCC"
+  },
+  {
+   "name": "Corrupted dragon claws",
+   "id": 28534,
+   "attackStyles": [
+    "Chop (Slash/Accurate)",
+    "Slash (Slash/Aggressive)",
+    "Lunge (Stab/Controlled)",
+    "Block (Slash/Defensive)"
+   ],
+   "attackType": "melee",
+   "icon": "iVBORw0KGgoAAAANSUhEUgAAAB8AAAAbCAYAAACEP1QvAAADIUlEQVR4Xr2WX2vbVhiHH1mRFDmqK2EOsUONnTRz9wlaNgaD7WYfeTA2VhgLW9PRrqXd0pBcGEKCGfI6xUY6MtqFco4kW47TJd1zY0l+dX6/9885yODWGFn1PjPq45a5ceAyuehOZ1s/kXHMOJxwUwMb6wLqMTIR+EAuaDkOgP7Nja030FgXsIyR7e/tAtAWAsgN2JaFbVkMeg/IjS22Y5n/IA6dK1EoDFxGEYmUJFKy5XklA6tNrBFXL1cXMU2T/YcPdVRbCNpCIOOYs/MLEim5HwRrq3BNz4u+KsbhJAOwbRvbtknTlFmS4Np2HnBVhbPzC3Y627RarYV3q3NQMxS5y0VhRT7NOV9+/hn/RBGj0YhHwyHz+Zzw/Xv+Go913P7eLqmUXEbR0k5YyLzI1nIcZBwDsOV5XEYRluMgAl8v7Lou8/mcQb/Pn0dHjMMJXzx5XFnx+OSU/b1dtjwPqFZgIfNcXG0ZGcdseR4blsXfYQgURpSBb77+iiRJmM1mxEnCaDRiHE74dPjJ2gqUBq7aY9uytLDifhCQSFkqX2Z8+/0P2LaN67qYjWK5oNWiLYRu3/HJaWUtuGbaL6MIgFRKptPpqjCUAdM0cRyH7W4XEfgcHD7nXrNZMbCxUe3ylXi13DteE8gNdF2Xs/ML2kIwnU45O79g+fTKjO9+fIppmsXkA89evORes6kN/XH0DkBvv0rm6mw+PD7Vzw6O3iECnzRN9QDWkxlPfz7A930tBrkB17b1YVTeLY26/bxIr9cjrfR6FXkFXr95y6PhEBH4iMDXFVDHsmJlz5VTRSLlishF8kH86ZdfGYcTfRI+e/GSoNVi0HtQN+0FqszqOknTFb2+jtzEweHzSgs2XVdH1Iq3hSiV+bZkRrldzc1N/c+SeDlrxeL9h6Mqlhm//f5K31fEy5mWe3x78TJF6xpQ/gIpSi7jGBH4DPr9mgXuBp25MpCmaSXrWZJwfHLKhw3bzWhAfrioA0RlPQ4nDPp9Xr95y8cQvsLIRBDor5WdTicTQVB69vFYmnaV9Xa3Wxd/11QzL1+ve/OOKAv9b6L8C6sjkB0i0NuKAAAAAElFTkSuQmCC"
+  },
+  {
+   "name": "Corrupted armadyl godsword",
+   "id": 28537,
+   "attackStyles": [
+    "Chop (Slash/Accurate)",
+    "Slash (Slash/Aggressive)",
+    "Smash (Crush/Aggressive)",
+    "Block (Slash/Defensive)"
+   ],
+   "attackType": "melee",
+   "icon": "iVBORw0KGgoAAAANSUhEUgAAAB4AAAAdCAYAAAC9pNwMAAACGklEQVR4Xr1WXUsbQRQ9N6QKeXIDS9fgQh7UxtCuW2ERROiDP8NX38Qf4D/rfyiUfryKNLX0gxQ3KKEmTXN9mOzMjs5kPxh7XjJfe8+ce+8ZQvhvIFZjJrIfdAli31uTs2E6QmPJaUfQSZ+trgIAmrbj1aCnMb9uIgUAB6km7oYbcvbl6hsE+WPS7z9/LWbOaiwUd8ONBTFgJlXZcFRj1gQUkQLOiBV621tybCMFnNQ4D1XXZaSAM2JRY99b0zoXwFMq1lX+nUwwTEe5fbPiCj7OexV4GDBTKkjNZHkUEBNnnkziXW3n3YeP1vTqyC5cfJkFiPeiiMWHxEkca78ixR53goB9z5NrD2N0w5C7YWjYW4rssE6YrWXE9qBkJS3wsTnNAHEneA7A3rUCTOoJrQWh9M3BASdxzJ0gkEpVJqqhZFcL5f+ur3E7nwNQSrMmq4qSTybxYe8Fbu7uME5TtNttiPQLpflxWZRQrEjT8RhXw9/w19cBZITOkL858VEUcT/scOj7WkcDut3MsUqD+PhlXwY73N/nTWkXU/D6pI9qPJnNcJa8RhLv4nIwwIW0i9kSe9Er1CE3NtftZIo/0ylarRaEX22Bmd5/+ow6Pl0Q6ylrY4befIZ4pVnwQKBgzw4CiM/jHfyYN7DSbODr6AZvLwe5I/UCl4RQfNrf5pPeZu2GqQJZ49P+FkaNErZ2BO3Ptxo/aXoBAPf56/VKFaN/kQAAAABJRU5ErkJggg=="
+  },
+  {
+   "name": "Corrupted twisted bow",
+   "id": 28540,
+   "attackStyles": [
+    "Accurate (Ranged/Accurate)",
+    "Rapid (Ranged/Rapid)",
+    "Longrange (Ranged/Longrange)"
+   ],
+   "attackType": "ranged",
+   "icon": "iVBORw0KGgoAAAANSUhEUgAAAB0AAAAeCAYAAADQBxWhAAACZUlEQVR4Xr2Wz2oTURSHv1tvJmmahox16CQlJE6nbRiKlBKVQoVSdKMuulC6keKi4KILwedw61P4CG7ryo2C1GpfQHDRmo0wRI6LyfxJM7HGmfYHl8C9596P37nnnglcmZQEA9RFodkUQAAsswbAj9Mz9Nj4TApgllmjUCxSrVY5/nYSgS8BquRhs45xDd7//DUChNzTqwREgZJkOsO5IEbU1PgDJpWSV7dWCA+fsyzarVZiXVQwICeokperS2zMWwB03ZtorSmXy6nROUCVHHhLbNbnefruEICSNjC0xvd9Nu/eIVnFkLmQlLzoLLK1EANde56iYYDvc9bvM20YI7syOFWy31nkfrM+AAb35bWaLNy4zuHxV/r9/gVnTCQlz5cdefvgnpxPXdh5LNMU13FS1v/LqZJnbotHrYUhh+cPn6lUKJVKKfsnlpJdp53iUMnj7nrkcNXz5PbaWqrLCaXkidM8BwxSudnpSMO2xTJN6SwvSzg/7qR/rF4lO+06u4vtRErjrvPd94M3WS7T6/UGeyRLt1Oy026MOLRMc2jE7nJI6SgwmLdMUza63bxAocYBg7XYXW4a7zD8XfW8PKHpdwhK9ra3BFRUqa831vMApwO9ZiMCuo4jruOIZZrSsO2s0HSga9tDDoeLJxMQQCXSFY+97a3oWcQPP5uivnngLfHm6AQAe7YSBfzWmkKxiFEoUJmd5fPRFzI+/LgjrdSq0Z+nmmWhtWbaMDgddBitdS5AgKF2NlOpYM3N8eHjpzHh2YEDJd9cLsVxoTSQ+MLn5uSvmgLo9XqD+7x8lwldTVpD/QGIaw4vrPIlvAAAAABJRU5ErkJggg=="
+  },
+  {
+   "name": "Corrupted scythe of vitur",
+   "id": 28543,
+   "attackStyles": [
+    "Reap (Slash/Accurate)",
+    "Chop (Slash/Aggressive)",
+    "Jab (Crush/Aggressive)",
+    "Block (Slash/Defensive)"
+   ],
+   "attackType": "melee",
+   "icon": "iVBORw0KGgoAAAANSUhEUgAAAB8AAAAbCAYAAACEP1QvAAABgklEQVR4Xs2WzWrCQBDH/+NnpWINJTRIpVY0FZEcpJe+UB+ib9R7n6XU1oNF6SUUS1GSIDIeVpOo0SbZqP3BkmR3Zv8z+xkgFsSiyJEKrl51HlyM2g1aShmyAWS2q0TnuUwKn9/j7WYAv/M5poEt0dgQJ75v3ALATuEk8YkTP+hN9E0TAHCpqmuGb+8f7vuFoiCbz0OWtcz7pumK+sUETOJJ/NS5Qzadxkuvj+fXHnttsSBWFYVbuu5bWPvtVz4VTQthvxPRSTjRTYRvrVqN4esS19EfeHSW+1xqzk4BcaNeZ9nsJSCuaBo/dg02VDVyAJLDTVzRrgAAM8dB1rbxZdkIO42hjPZDrCpl98sc/yCseEKIbdo1DO6025GHPyEokviOKzU+uUzARXk8omV/AE4m/G/YPwKJLzgP4pbexF8BHJCga9r7PmDmAi97UWrVa6wCOMIxKM7/mePgvFjEWaEA27IwGI6Cfp2Tp1QqwbYsTCcTDIajZS3TETIH1ufdu3QWy2SRjg24zhoAAAAASUVORK5CYII="
+  },
+  {
+   "name": "Corrupted tumeken's shadow",
+   "id": 28547,
+   "attackStyles": [
+    "Accurate (Magic/Accurate)",
+    "Accurate (Magic/Accurate)",
+    "Longrange (Magic/Longrange)"
+   ],
+   "attackType": "magic",
+   "icon": "iVBORw0KGgoAAAANSUhEUgAAAB4AAAAcCAYAAAB2+A+pAAAB70lEQVR4XsWWQWvUQBiG308myWR3E5to2nUhsoYY1iWNEFaWSgvSiyAIHryJv0Ev3or4J7wL4t/otZ48aFH8C162jYfsIfbzkO7iWmkInY4vDGHCl++ZN3kzDOHSRFxfmVbn9b0rZx+4qIgB4tiRyLPN5dwRjNd3b+LxQAIgFk1t2ol4YEuEPYlr0sbMNAEAcXQLm9UR0qsWjssaSee1aS/isdeDb0nEroPvro9ZUaCqKri9Hj59/nJadwmv2hECrmHgIwRmRYGXGx4C3z+FsmKjAADiOIo48DyOHZvzLOO32/d48Y0XNXmWMUCqVlCHqVq7DmnbcDod/Do5+cslcTq+g8Ov36DIOfGg3+dhGHIcRX84XB1xFPH73ftL90pS7bou5mWJaUfi2FsDABiWBdMw8LBroWsKdITA8/0DLNwqARdFgWfrPoZuFx8Oj/BkeAOp72NdSvyYz+EYAr5pNbVpI+LA8/jNJDsTon8PJaqhL9JEZdMm1dDdnR290EVKLwJtuXMRD/obGCW30Q+CpmJVIh6GIafjseqwnCfiUZIst7umakWqnY4Szendy1N+92BLJxQAiLenU53QOjzaoY/CAe/lqV7o6i+jRcRPo5BfZZqh/8XpKEl4azLRCa0PAvOyxE+h5EzQVtr23qV+A+U2voTvwJ72AAAAAElFTkSuQmCC"
+  },
+  {
+   "name": "Warped sceptre",
+   "id": 28583,
+   "attackStyles": [
+    "Accurate (Magic/Accurate)",
+    "Accurate (Magic/Accurate)",
+    "Longrange (Magic/Longrange)"
+   ],
+   "attackType": "magic",
+   "icon": "iVBORw0KGgoAAAANSUhEUgAAABwAAAAZCAYAAAAiwE4nAAACgklEQVR4Xr2W3UtTYRzHP49Tc06RAnu7lP6CiLqri27rriIiQkovlkKtuqgUiWwThdTSoDd0iFApdRl0IWQ1tRVqi8zpXJpu7s0X1Lk1zaeLjeV8t3PsA+fiPOd3ns/ve87Dcw5sCUJGj+UkrTT470RFdWUvKDx7hdWkKiFkQ8UrefrYOQlCmh/ckmslVYiQLU3tMnt7dlxSU3ZNgpD6M4YEsVhvqvURsrakDsdPO9XmcgDeNN9nbGIKa9s0Rw4eJWN3P4NDLvINJnXeoUaTTFKSJn7e5xiizfqFanM5OfujTzTfYAKkUEUIkKxJBuDu7UsEQ2GyMjMozDvJXCREl633b91qE2yGBfkbnVaHsfgix3OaSEsF28AckR1w4HBzQq0qCbXb0tGm6ZgNhgDwji+gv+FnYGQeANPVKs6f0ANCqpIwNSUFXboOlzuI5WtUeiE3E/twmLxTBezNmSTEL0DxKhWy6d5rInNhLJ3vcAzaSdFNslPTxWwYukd20ecYWlQvheKEWl0anz920NNvIxia5dC+LFqte4jML8RkMiGUgoRCNlS8xGqz8NbawszMFMHQNP6JwKIaqWD+ONFd41Fpo7ycez1hd9nINrbJDoQ0lzfjG/PiCbiprDPFxlVJspho97Ul9bK4wLjhNCuxgc6EfGp8hm/cg9s7TG1jJUoSrXFjNEFV0WNGfSO8/9RCe7cFJTJYVShkVdFjvP5RPAEXHd0Wep3fUCqDFYVCGg2VeAOj/HA56ehqjS115TJYJhTypr4Uj99Nn7OHD52tsXF1ZEsQsvFhqTQWFyhahesR+1oI+fzJHby+Mb7bnbFLW5IKQMj6mpL4P8hWJVvCfxPxB9K/H6gmCKHOAAAAAElFTkSuQmCC"
   }
  ],
  "0": [
