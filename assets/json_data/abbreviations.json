@@ -1,0 +1,2732 @@
+{
+ "Abyssal": [
+  "Abby",
+  "Whip"
+ ],
+ "Aberrant spectre": [
+  "Abby",
+  "Whip"
+ ],
+ "Abyssal whip": [
+  "Abby",
+  "Whip"
+ ],
+ "Abyssal demon": [
+  "Abby",
+  "Whip"
+ ],
+ "Anti-crash": [
+  "AC",
+  "BK",
+  "GH",
+  "Wildy",
+  "Wild",
+  "PK",
+  "PKer",
+  "PKing"
+ ],
+ "bosses": [
+  "AC",
+  "BK",
+  "GH",
+  "Wildy",
+  "Wild",
+  "PK",
+  "PKer",
+  "PKing"
+ ],
+ "Wilderness": [
+  "AC",
+  "BK",
+  "GH",
+  "Wildy",
+  "Wild",
+  "PK",
+  "PKer",
+  "PKing"
+ ],
+ "Armadyl crossbow": [
+  "ACB"
+ ],
+ "Account": [
+  "Acc"
+ ],
+ "Accuracy": [
+  "Acc"
+ ],
+ "Armadyl chestplate": [
+  "ACP"
+ ],
+ "Armadyl chainskirt": [
+  "ACS"
+ ],
+ "Adamant": [
+  "Addy"
+ ],
+ "Anti-dragon shield": [
+  "ADS",
+  "Anti",
+  "AntiD (shield)",
+  "DFS"
+ ],
+ "Abyssal dagger (p++)": [
+  "ADS",
+  "Anti",
+  "AntiD (shield)",
+  "DFS"
+ ],
+ "account": [
+  "AFK(ing)",
+  "Alt",
+  "Alt"
+ ],
+ "Aggressiveness": [
+  "Aggro"
+ ],
+ "Agility": [
+  "Agi",
+  "Agil"
+ ],
+ "Armadyl godsword": [
+  "AGS",
+  "Prod",
+  "Rush",
+  "Rusher"
+ ],
+ "Ancient godsword": [
+  "AGS2"
+ ],
+ "Air rune": [
+  "Air(s)"
+ ],
+ "A Kingdom Divided": [
+  "AKD"
+ ],
+ "Low Level Alchemy": [
+  "Alch(ing)",
+  "HA",
+  "High Alch",
+  "LA",
+  "Low Alch"
+ ],
+ "Low": [
+  "Alch(ing)",
+  "HA",
+  "High Alch",
+  "LA",
+  "Low Alch"
+ ],
+ "High Level Alchemy": [
+  "Alch(ing)",
+  "HA",
+  "High Alch",
+  "LA",
+  "Low Alch"
+ ],
+ "Amulet": [
+  "Ammy"
+ ],
+ "Ancestral robes": [
+  "Anc(es)",
+  "Ancy"
+ ],
+ "Ancient Magicks": [
+  "Ancients",
+  "Barrage",
+  "Blitz",
+  "Farcaster"
+ ],
+ "Necklace of anguish": [
+  "Ang"
+ ],
+ "Antipoison": [
+  "Anti",
+  "AntiP",
+  "AP"
+ ],
+ "Antifire": [
+  "Anti",
+  "AntiP",
+  "AP"
+ ],
+ "Multicombat area#Multi-hitting attacks": [
+  "AoE"
+ ],
+ "Area of effect": [
+  "AoE"
+ ],
+ "chinchompa": [
+  "AoE"
+ ],
+ "Burst spells": [
+  "AoE"
+ ],
+ "Burst": [
+  "AoE"
+ ],
+ "Barrage spells": [
+  "AoE"
+ ],
+ "area effects": [
+  "AoE"
+ ],
+ "darkness": [
+  "AoE"
+ ],
+ "desert heat": [
+  "AoE"
+ ],
+ "Amulet of the damned": [
+  "AotD"
+ ],
+ "Arcane spirit shield": [
+  "Arc"
+ ],
+ "Arceuus": [
+  "Arc"
+ ],
+ "Arceuus spellbook": [
+  "Arc"
+ ],
+ "spellbook": [
+  "Arc"
+ ],
+ "Arclight": [
+  "Arc"
+ ],
+ "Ardougne": [
+  "Ardy",
+  "Ard"
+ ],
+ "Armadyl": [
+  "Arma",
+  "Arm"
+ ],
+ "Kree'arra": [
+  "Arma",
+  "Arm"
+ ],
+ "Asgarnia": [
+  "Asg"
+ ],
+ "Attack": [
+  "Atk",
+  "Att",
+  "BA",
+  "Col",
+  "GC",
+  "Obby mauler",
+  "Obby pure",
+  "QS"
+ ],
+ "Barbarian Assault/Gameplay#Attacker": [
+  "Atk",
+  "Att",
+  "BA",
+  "Col",
+  "GC",
+  "Obby mauler",
+  "Obby pure",
+  "QS"
+ ],
+ "Attacker role": [
+  "Atk",
+  "Att",
+  "BA",
+  "Col",
+  "GC",
+  "Obby mauler",
+  "Obby pure",
+  "QS"
+ ],
+ "Barbarian Assault": [
+  "Atk",
+  "Att",
+  "BA",
+  "Col",
+  "GC",
+  "Obby mauler",
+  "Obby pure",
+  "QS"
+ ],
+ "Augury": [
+  "Aug"
+ ],
+ "bot": [
+  "Autoer",
+  "autoing"
+ ],
+ "Auto Retaliate": [
+  "Auto",
+  "AA"
+ ],
+ "Ava's attractor": [
+  "Ava's"
+ ],
+ "Ava's accumulator": [
+  "Ava's"
+ ],
+ "accumulator": [
+  "Ava's"
+ ],
+ "Ava's assembler": [
+  "Ava's"
+ ],
+ "assembler": [
+  "Ava's"
+ ],
+ "Avernic defender": [
+  "Avernic"
+ ],
+ "Aviansie": [
+  "Avs",
+  "Avies",
+  "Avys"
+ ],
+ "Ancient wyvern shield": [
+  "AWS"
+ ],
+ "coins": [
+  "B",
+  "bil",
+  "GP",
+  "Green cash stack",
+  "K"
+ ],
+ "Bones to Bananas": [
+  "B2B",
+  "BTB"
+ ],
+ "Bones to Peaches": [
+  "B2P",
+  "BTP"
+ ],
+ "Ballista": [
+  "Bally"
+ ],
+ "dragon boots": [
+  "Bank made"
+ ],
+ "AFKing": [
+  "Bankstanding",
+  "GE",
+  "G/E",
+  "Spam"
+ ],
+ "bank": [
+  "Bankstanding",
+  "GE",
+  "G/E",
+  "Spam"
+ ],
+ "Grand Exchange": [
+  "Bankstanding",
+  "GE",
+  "G/E",
+  "Spam"
+ ],
+ "Barbarian": [
+  "Barb",
+  "Barb Village",
+  "Barb Vil"
+ ],
+ "Barb-tail harpoon": [
+  "Barb",
+  "Barb Village",
+  "Barb Vil"
+ ],
+ "Barbarian Village": [
+  "Barb",
+  "Barb Village",
+  "Barb Vil"
+ ],
+ "Ice Barrage": [
+  "Barrage"
+ ],
+ "Barrage spell": [
+  "Barrage"
+ ],
+ "Battleaxe": [
+  "Baxe"
+ ],
+ "Brutal black dragons": [
+  "BBD"
+ ],
+ "Big bones": [
+  "Bbones"
+ ],
+ "Bandos chestplate": [
+  "BCP"
+ ],
+ "Beneath Cursed Sands": [
+  "BCS"
+ ],
+ "Blast Furnace": [
+  "BF"
+ ],
+ "Amulet of blood fury": [
+  "BF"
+ ],
+ "Barrows gloves": [
+  "Bgloves",
+  "RFD"
+ ],
+ "Recipe for Disaster": [
+  "Bgloves",
+  "RFD"
+ ],
+ "Bandos godsword": [
+  "BGS"
+ ],
+ "Bird house trapping": [
+  "BH"
+ ],
+ "Bird house": [
+  "BH"
+ ],
+ "Bounty Hunter": [
+  "BH"
+ ],
+ "Best-in-slot": [
+  "BiS"
+ ],
+ "Blackjack": [
+  "BJ(ing)"
+ ],
+ "Blackjacking": [
+  "BJ(ing)"
+ ],
+ "Thieving": [
+  "BJ(ing)"
+ ],
+ "Bot": [
+  "BK"
+ ],
+ "Player killing": [
+  "BK"
+ ],
+ "Ice Blitz": [
+  "Blitz"
+ ],
+ "Jal-Ak": [
+  "Blobs"
+ ],
+ "Tz-Kek": [
+  "Blobs"
+ ],
+ "Blood runes": [
+  "Blood(s)",
+  "Velds"
+ ],
+ "Bloodvelds": [
+  "Blood(s)",
+  "Velds"
+ ],
+ "Ancient blood ornament kit": [
+  "Blorva"
+ ],
+ "Blast Mine": [
+  "BM"
+ ],
+ "Boss kill count": [
+  "Boss kc"
+ ],
+ "Bow of faerdhinen": [
+  "Bowfa",
+  "Bofa",
+  "FBow"
+ ],
+ "single combat": [
+  "Box"
+ ],
+ "PKer": [
+  "Box"
+ ],
+ "Toxic blowpipe": [
+  "BP",
+  "Bpipe",
+  "TBP"
+ ],
+ "Bracelet": [
+  "Brace"
+ ],
+ "Verac's brassard": [
+  "Brassy",
+  "Ver",
+  "V (Armour)"
+ ],
+ "Brutal red dragons": [
+  "BRD"
+ ],
+ "Saradomin brew": [
+  "Brew(s)"
+ ],
+ "Zamorak brews": [
+  "Brew(s)"
+ ],
+ "player": [
+  "Brid",
+  "Hybrid",
+  "Hybrid"
+ ],
+ "Combat Triangle": [
+  "Brid",
+  "Hybrid",
+  "Hybrid"
+ ],
+ "hybridding": [
+  "Brid",
+  "Hybrid",
+  "Hybrid"
+ ],
+ "Brimhaven": [
+  "Brim"
+ ],
+ "Brimstone": [
+  "Brim"
+ ],
+ "Berserker ring": [
+  "B ring"
+ ],
+ "Broad-tipped bolts": [
+  "Broads",
+  "Jad phase",
+  "Mage",
+  "Mager",
+  "Range tank"
+ ],
+ "Ranged": [
+  "Broads",
+  "Jad phase",
+  "Mage",
+  "Mager",
+  "Range tank"
+ ],
+ "Bryophyta": [
+  "Bryo"
+ ],
+ "Bow string": [
+  "BS",
+  "Welfare",
+  "Safer",
+  "NH",
+  "PK",
+  "PKer",
+  "PKing"
+ ],
+ "Bow strings": [
+  "BS",
+  "Welfare",
+  "Safer",
+  "NH",
+  "PK",
+  "PKer",
+  "PKing"
+ ],
+ "PvP": [
+  "BS",
+  "Welfare",
+  "Safer",
+  "NH",
+  "PK",
+  "PKer",
+  "PKing"
+ ],
+ "Bank": [
+  "B sale",
+  "Bsale"
+ ],
+ "Berserker (Account build)": [
+  "Bsk",
+  "Bskr",
+  "Berz",
+  "Zerk",
+  "Zerker(s)",
+  "Zerk",
+  "Zerker(s)"
+ ],
+ "Berserker": [
+  "Bsk",
+  "Bskr",
+  "Berz",
+  "Zerk",
+  "Zerker(s)",
+  "Zerk",
+  "Zerker(s)"
+ ],
+ "Blessed spirit shield": [
+  "BSS",
+  "SBS"
+ ],
+ "Saradomin's blessed sword": [
+  "BSS",
+  "SBS"
+ ],
+ "Battlestaves": [
+  "B staff"
+ ],
+ "Battlestaff": [
+  "B staff"
+ ],
+ "Ironman mode": [
+  "Btw"
+ ],
+ "Ironmen": [
+  "Btw"
+ ],
+ "Twisted buckler": [
+  "Buckler",
+  "TBuck"
+ ],
+ "Dinh's bulwark": [
+  "Bulwark",
+  "Dinh's",
+  "Dinny B",
+  "Dinny",
+  "Door"
+ ],
+ "Burgh de Rott": [
+  "Burgh",
+  "Burg",
+  "BDR"
+ ],
+ "Karambwan": [
+  "Bwan",
+  "Karam"
+ ],
+ "Combat Achievements": [
+  "CA(s)"
+ ],
+ "Camelot": [
+  "Cammy",
+  "Cam"
+ ],
+ "Dwarf multicannon": [
+  "Cannon",
+  "Cann"
+ ],
+ "Catacombs of Kourend": [
+  "Cata",
+  "GotR",
+  "Ele"
+ ],
+ "Guardians of the Rift": [
+  "Cata",
+  "GotR",
+  "Ele"
+ ],
+ "Catherby": [
+  "Cath",
+  "Cathy"
+ ],
+ "Cavalier": [
+  "Cav"
+ ],
+ "Combat level": [
+  "Cb/Cmb/Cbt/Cmbt (lvl)",
+  "Cl",
+  "Combat",
+  "Skiller"
+ ],
+ "Combat": [
+  "Cb/Cmb/Cbt/Cmbt (lvl)",
+  "Cl",
+  "Combat",
+  "Skiller"
+ ],
+ "Cannonball": [
+  "Cball"
+ ],
+ "Crossbow (weapon)": [
+  "Cbow",
+  "CB",
+  "Xbow",
+  "X-bow"
+ ],
+ "Crossbow": [
+  "Cbow",
+  "CB",
+  "Xbow",
+  "X-bow"
+ ],
+ "Crystal bow": [
+  "Cbow",
+  "CB",
+  "Xbow",
+  "X-bow"
+ ],
+ "Craw's bow": [
+  "Cbow",
+  "CB",
+  "Xbow",
+  "X-bow"
+ ],
+ "Chat-channel": [
+  "CC"
+ ],
+ "Cerberus": [
+  "Cerb"
+ ],
+ "Corrupted Gauntlet": [
+  "CG",
+  "CGaunt"
+ ],
+ "Crystal halberd": [
+  "Chally"
+ ],
+ "Chainbody": [
+  "Chain",
+  "CB"
+ ],
+ "max hit": [
+  "Chanced"
+ ],
+ "Fire cape": [
+  "Cheese cape",
+  "FCape"
+ ],
+ "Chestplate": [
+  "Chest",
+  "CP"
+ ],
+ "Chinchompas": [
+  "Chins",
+  "Chinning"
+ ],
+ "noob": [
+  "Choob",
+  "Froob"
+ ],
+ "Clue scroll": [
+  "Clue",
+  "Clueing",
+  "TT"
+ ],
+ "Treasure Trails": [
+  "Clue",
+  "Clueing",
+  "TT"
+ ],
+ "Chambers of Xeric": [
+  "CM",
+  "Challenge Mode",
+  "CoX",
+  "Chambers",
+  "Mass(ing)",
+  "Purple",
+  "Purp",
+  "Raids 1",
+  "Raids 2",
+  "Raids 3"
+ ],
+ "Chambers_of_Xeric/Challenge_Mode": [
+  "CM",
+  "Challenge Mode",
+  "CoX",
+  "Chambers",
+  "Mass(ing)",
+  "Purple",
+  "Purp",
+  "Raids 1",
+  "Raids 2",
+  "Raids 3"
+ ],
+ "Challenge Mode": [
+  "CM",
+  "Challenge Mode",
+  "CoX",
+  "Chambers",
+  "Mass(ing)",
+  "Purple",
+  "Purp",
+  "Raids 1",
+  "Raids 2",
+  "Raids 3"
+ ],
+ "Collection Log": [
+  "Col log",
+  "CLog",
+  "CL",
+  "GLog"
+ ],
+ "Construction": [
+  "Con",
+  "Cons"
+ ],
+ "Corporeal Beast": [
+  "Corp",
+  "Mass(ing)"
+ ],
+ "multicombat": [
+  "Crash",
+  "Death dot",
+  "DD",
+  "DK",
+  "DKs",
+  "GWD",
+  "GW",
+  "Jad phase",
+  "EHB"
+ ],
+ "boss": [
+  "Crash",
+  "Death dot",
+  "DD",
+  "DK",
+  "DKs",
+  "GWD",
+  "GW",
+  "Jad phase",
+  "EHB"
+ ],
+ "God Wars Dungeon": [
+  "Crash",
+  "Death dot",
+  "DD",
+  "DK",
+  "DKs",
+  "GWD",
+  "GW",
+  "Jad phase",
+  "EHB"
+ ],
+ "Dagannoth Kings": [
+  "Crash",
+  "Death dot",
+  "DD",
+  "DK",
+  "DKs",
+  "GWD",
+  "GW",
+  "Jad phase",
+  "EHB"
+ ],
+ "crashing": [
+  "Crash",
+  "Death dot",
+  "DD",
+  "DK",
+  "DKs",
+  "GWD",
+  "GW",
+  "Jad phase",
+  "EHB"
+ ],
+ "Castle Wars": [
+  "CW",
+  "CWA",
+  "CWars"
+ ],
+ "Clan Wars": [
+  "CW",
+  "CWA",
+  "CWars"
+ ],
+ "Dragon (race)": [
+  "D/Drag (weapon/armour name)"
+ ],
+ "Dragons": [
+  "D/Drag (weapon/armour name)"
+ ],
+ "Dragon equipment": [
+  "D/Drag (weapon/armour name)"
+ ],
+ "Dragon 2h sword": [
+  "D2H"
+ ],
+ "Duel Arena": [
+  "DA",
+  "Duel",
+  "Funning",
+  "Sand casino"
+ ],
+ "Desert amulet": [
+  "DA",
+  "Duel",
+  "Funning",
+  "Sand casino"
+ ],
+ "Desert amulets": [
+  "DA",
+  "Duel",
+  "Funning",
+  "Sand casino"
+ ],
+ "Desert amulet 4": [
+  "DA",
+  "Duel",
+  "Funning",
+  "Sand casino"
+ ],
+ "DA4": [
+  "DA",
+  "Duel",
+  "Funning",
+  "Sand casino"
+ ],
+ "Dagannoth": [
+  "Dag",
+  "Dagg"
+ ],
+ "dagger": [
+  "Dag",
+  "Dagg"
+ ],
+ "Item Retrieval Service": [
+  "DB",
+  "UIM"
+ ],
+ "Ultimate Ironman": [
+  "DB",
+  "UIM"
+ ],
+ "Dragon bolts": [
+  "Dbolts",
+  "D bolts"
+ ],
+ "Dragon bones": [
+  "Dbones",
+  "D bones"
+ ],
+ "Dark bow": [
+  "Dbow"
+ ],
+ "Death Charge": [
+  "DC"
+ ],
+ "Dragon crossbow": [
+  "DCB"
+ ],
+ "Dragon chainbody": [
+  "Dchain"
+ ],
+ "Dragon claws": [
+  "Dclaws",
+  "Rush",
+  "Rusher"
+ ],
+ "Dragon dagger": [
+  "DD",
+  "Ddef"
+ ],
+ "Dragon defender": [
+  "DD",
+  "Ddef"
+ ],
+ "Dragon darts": [
+  "Ddarts"
+ ],
+ "Dragon dagger (p)": [
+  "DDP"
+ ],
+ "Dragon dagger (p+)": [
+  "DDP+"
+ ],
+ "Dragon dagger (p++)": [
+  "DDP++",
+  "DDS"
+ ],
+ "player killing": [
+  "Death dot",
+  "DD",
+  "GH"
+ ],
+ "minimap": [
+  "Death dot",
+  "DD",
+  "GH"
+ ],
+ "Defence": [
+  "Def",
+  "Def tank",
+  "Defence tank",
+  "Mage tank",
+  "Range tank"
+ ],
+ "Defender": [
+  "Def",
+  "Def tank",
+  "Defence tank",
+  "Mage tank",
+  "Range tank"
+ ],
+ "Defence Pure": [
+  "Def tank",
+  "Defence tank",
+  "Skiller",
+  "Mage",
+  "Mager",
+  "Pure"
+ ],
+ "pure": [
+  "Def tank",
+  "Defence tank",
+  "Skiller",
+  "Mage",
+  "Mager",
+  "Pure"
+ ],
+ "combat": [
+  "Def tank",
+  "Defence tank",
+  "Skiller",
+  "Mage",
+  "Mager",
+  "Pure"
+ ],
+ "tanking": [
+  "Def tank",
+  "Defence tank",
+  "Skiller",
+  "Mage",
+  "Mager",
+  "Pure"
+ ],
+ "Dexterous prayer scroll": [
+  "Dex"
+ ],
+ "Dragon full helm": [
+  "DFH"
+ ],
+ "Dragonfire shield": [
+  "DFS"
+ ],
+ "Dragonfire ward": [
+  "DFW",
+  "DFWard"
+ ],
+ "Dharok the Wretched's equipment": [
+  "Dh",
+  "Dharok'ing",
+  "Dh'ing"
+ ],
+ "Dragon halberd": [
+  "Dhally"
+ ],
+ "Hitpoints": [
+  "Dharok'ing",
+  "Dh'ing",
+  "HP",
+  "Safer",
+  "Red barred"
+ ],
+ "protection prayers": [
+  "Dharok'ing",
+  "Dh'ing",
+  "HP",
+  "Safer",
+  "Red barred"
+ ],
+ "Dharok's greataxe": [
+  "Dh axe"
+ ],
+ "Dragon hunter crossbow": [
+  "DHCB",
+  "DHC"
+ ],
+ "Dragonhide": [
+  "Dhide",
+  "D hide",
+  "D'hide"
+ ],
+ "Dragon hunter lance": [
+  "DHL",
+  "Lance"
+ ],
+ "Dragon platelegs": [
+  "Dlegs"
+ ],
+ "Dragon med helm": [
+  "Dmed"
+ ],
+ "Deadman Mode": [
+  "DMM"
+ ],
+ "Drop party": [
+  "DP"
+ ],
+ "Waterbirth Island Dungeon": [
+  "DP"
+ ],
+ "Death Plateau": [
+  "DP"
+ ],
+ "Dragon platebody": [
+  "Dplate"
+ ],
+ "Slang dictionary/S": [
+  "Dry",
+  "FFA"
+ ],
+ "spooned": [
+  "Dry",
+  "FFA"
+ ],
+ "Dragon spear": [
+  "DS"
+ ],
+ "dark bow": [
+  "DS"
+ ],
+ "magic shortbow": [
+  "DS"
+ ],
+ "dragon scimitar": [
+  "DS"
+ ],
+ "Dragon Slayer I": [
+  "DS1/DS",
+  "DS2"
+ ],
+ "Dragon Slayer II": [
+  "DS1/DS",
+  "DS2"
+ ],
+ "Dragon plateskirt": [
+  "Dskirt"
+ ],
+ "Desert Treasure I": [
+  "DT1/DT",
+  "DT2"
+ ],
+ "Desert Treasure II - The Fallen Empire": [
+  "DT1/DT",
+  "DT2"
+ ],
+ "Ring of dueling": [
+  "Duel"
+ ],
+ "Duke Sucellus": [
+  "Duke"
+ ],
+ "Dust devil": [
+  "Dusts",
+  "Dusties"
+ ],
+ "Dust devils": [
+  "Dusts",
+  "Dusties"
+ ],
+ "Dragon warhammer": [
+  "DWH",
+  "DWar"
+ ],
+ "Yanille": [
+  "Yan"
+ ],
+ "Zamorak": [
+  "Z (weapon/armour name)",
+  "Zammy"
+ ],
+ "Zaryte": [
+  "Z (weapon/armour name)",
+  "Zammy"
+ ],
+ "Zalcano": [
+  "Zalc"
+ ],
+ "K'ril Tsutsaroth": [
+  "Zammy"
+ ],
+ "Unholy book": [
+  "Z book",
+  "Zammy book"
+ ],
+ "Zaryte crossbow": [
+  "ZCB",
+  "ZBow"
+ ],
+ "Zenyte": [
+  "Zenny",
+  "Zenn"
+ ],
+ "Zenyte shard": [
+  "Zenny",
+  "Zenn"
+ ],
+ "Zenyte shards": [
+  "Zenny",
+  "Zenn"
+ ],
+ "Zamorak godsword": [
+  "ZGS"
+ ],
+ "Verzik Vitur": [
+  "Zik"
+ ],
+ "Commander Zilyana": [
+  "Zily",
+  "Zilly",
+  "Zilya",
+  "Sara"
+ ],
+ "Ourania altar": [
+  "ZMI"
+ ],
+ "Zamorakian spear": [
+  "Z spear",
+  "Zammy spear",
+  "ZS"
+ ],
+ "TzKal-Zuk": [
+  "Zuk"
+ ],
+ "Zulrah": [
+  "Zul",
+  "Zully",
+  "Jad phase",
+  "Money snake",
+  "Money dragon"
+ ],
+ "Zaryte vambraces": [
+  "ZVambs",
+  "ZVams",
+  "Vambs",
+  "Vams"
+ ],
+ "Experience": [
+  "XP/H",
+  "XPH"
+ ],
+ "Free-to-play": [
+  "F2P(ers)",
+  "FTP",
+  "Froob"
+ ],
+ "Falador": [
+  "Fally"
+ ],
+ "Osmumten's fang": [
+  "Fang"
+ ],
+ "spell": [
+  "Farcaster"
+ ],
+ "freeze spells": [
+  "Farcaster"
+ ],
+ "Friends chat": [
+  "FC",
+  "FCC"
+ ],
+ "ironman": [
+  "Fe"
+ ],
+ "Ferocious gloves": [
+  "Fero(s)"
+ ],
+ "splitting": [
+  "FFA"
+ ],
+ "Neitiznot faceguard": [
+  "FG",
+  "Faceguard"
+ ],
+ "Flesh Crawler": [
+  "Fleshies"
+ ],
+ "Firemaking": [
+  "FM",
+  "FMod"
+ ],
+ "Farming": [
+  "FM",
+  "FMod"
+ ],
+ "Forum moderator": [
+  "FM",
+  "FMod"
+ ],
+ "Fremennik": [
+  "Frem",
+  "Fremmy"
+ ],
+ "Fresh Start Worlds": [
+  "FSW"
+ ],
+ "Fighter torso": [
+  "FT",
+  "Torso"
+ ],
+ "Fairy Tale quest series": [
+  "FT",
+  "Torso"
+ ],
+ "Fairy Tale quests": [
+  "FT",
+  "Torso"
+ ],
+ "Fairytale II - Cure a Queen": [
+  "FT",
+  "Torso"
+ ],
+ "FT2": [
+  "FT",
+  "Torso"
+ ],
+ "Fishing Trawler": [
+  "FT",
+  "Torso"
+ ],
+ "helm": [
+  "Full",
+  "Legs",
+  "Pl8",
+  "Plate"
+ ],
+ "shield": [
+  "Full",
+  "Legs",
+  "Pl8",
+  "Plate"
+ ],
+ "Platebody": [
+  "Full",
+  "Legs",
+  "Pl8",
+  "Plate"
+ ],
+ "body piece": [
+  "Full",
+  "Legs",
+  "Pl8",
+  "Plate"
+ ],
+ "Platelegs": [
+  "Full",
+  "Legs",
+  "Pl8",
+  "Plate"
+ ],
+ "leg piece": [
+  "Full",
+  "Legs",
+  "Pl8",
+  "Plate"
+ ],
+ "rune armour": [
+  "Full",
+  "Legs",
+  "Pl8",
+  "Plate"
+ ],
+ "inventory": [
+  "Full",
+  "Legs",
+  "Pl8",
+  "Plate"
+ ],
+ "flax": [
+  "Full",
+  "Legs",
+  "Pl8",
+  "Plate"
+ ],
+ "Duelling": [
+  "Funning"
+ ],
+ "Amulet of fury": [
+  "Fury"
+ ],
+ "Granite equipment": [
+  "G (weapon/armour name)"
+ ],
+ "Granite": [
+  "G (weapon/armour name)"
+ ],
+ "granite maul": [
+  "G (weapon/armour name)"
+ ],
+ "gmaul": [
+  "G (weapon/armour name)"
+ ],
+ "Guthan the Infested's equipment": [
+  "G (weapon/armour name)"
+ ],
+ "guthan's spear": [
+  "G (weapon/armour name)"
+ ],
+ "g spear": [
+  "G (weapon/armour name)"
+ ],
+ "Gargoyles": [
+  "Gargs"
+ ],
+ "The Gauntlet": [
+  "Gaunt"
+ ],
+ "God book": [
+  "GB"
+ ],
+ "Green dragons": [
+  "GD"
+ ],
+ "Greater demons": [
+  "GD"
+ ],
+ "Rare drop table#Gem Drop Table": [
+  "GDT"
+ ],
+ "Gem Drop Table": [
+  "GDT"
+ ],
+ "Demonic ruins": [
+  "GDZ"
+ ],
+ "Giants' Foundry": [
+  "GF"
+ ],
+ "Grotesque Guardians": [
+  "GG"
+ ],
+ "General Graardor": [
+  "GG"
+ ],
+ "Group Ironman Mode": [
+  "GIM",
+  "GIMp",
+  "GI"
+ ],
+ "Amulet of glory": [
+  "Glory"
+ ],
+ "Granite maul": [
+  "Gmaul",
+  "Maul",
+  "Mauler"
+ ],
+ "Prayer": [
+  "Gold sink",
+  "PP"
+ ],
+ "gilded altar": [
+  "Gold sink",
+  "PP"
+ ],
+ "gold sink": [
+  "Gold sink",
+  "PP"
+ ],
+ "Old School RuneScape": [
+  "GP",
+  "OSRS"
+ ],
+ "Godsword": [
+  "GS"
+ ],
+ "Guthix": [
+  "Guth",
+  "Gth"
+ ],
+ "Guthan's": [
+  "Guth",
+  "Gth"
+ ],
+ "Halberd": [
+  "Hally"
+ ],
+ "Harmonised nightmare staff": [
+  "Harm",
+  "Harmo"
+ ],
+ "Heavy ballista": [
+  "HB"
+ ],
+ "Ironman Mode#Hardcore": [
+  "HC",
+  "HCIM"
+ ],
+ "Hardcore Ironman": [
+  "HC",
+  "HCIM"
+ ],
+ "Hardcore Group Ironman": [
+  "HCGIM"
+ ],
+ "Hellhound": [
+  "Hells",
+  "HH",
+  "Hellies"
+ ],
+ "Herblore": [
+  "Herb"
+ ],
+ "Herbiboar": [
+  "Herby"
+ ],
+ "Godsword hilt": [
+  "Hilt"
+ ],
+ "Hill giants": [
+  "Hills",
+  "Hillies"
+ ],
+ "Theatre of Blood/Hard Mode": [
+  "HMT"
+ ],
+ "world switching": [
+  "Hop"
+ ],
+ "PKing": [
+  "HPK",
+  "Tb",
+  "Tb'd",
+  "Rags",
+  "Ragging",
+  "Raggers",
+  "Rush",
+  "Rusher"
+ ],
+ "Hallowed Sepulchre": [
+  "HS",
+  "Sep",
+  "Sepul",
+  "Sepu"
+ ],
+ "Home teleport": [
+  "HT"
+ ],
+ "Ignore list": [
+  "Ignore"
+ ],
+ "Ironman Mode": [
+  "IM",
+  "Iron"
+ ],
+ "Ironman": [
+  "IM",
+  "Iron"
+ ],
+ "Infernal cape": [
+  "Inf"
+ ],
+ "Inferno": [
+  "Inf"
+ ],
+ "Infernal tool": [
+  "Inf"
+ ],
+ "Infernal tools": [
+  "Inf"
+ ],
+ "Infinity robes": [
+  "Inf"
+ ],
+ "Inquisitor's armour": [
+  "Inq",
+  "Inquis"
+ ],
+ "Inventory": [
+  "Inv",
+  "Invent",
+  "Invy",
+  "Inven"
+ ],
+ "Tombs of Amascut": [
+  "Invoc(s)",
+  "Invo",
+  "ToA",
+  "Raids 1",
+  "Raids 2",
+  "Raids 3"
+ ],
+ "invocations": [
+  "Invoc(s)",
+  "Invo",
+  "ToA",
+  "Raids 1",
+  "Raids 2",
+  "Raids 3"
+ ],
+ "Elidinis' ward": [
+  "Ward"
+ ],
+ "Woodcutting": [
+  "WC(ing)"
+ ],
+ "Ring of wealth": [
+  "Wealth",
+  "RoW"
+ ],
+ "Weapons": [
+  "Wep(s)"
+ ],
+ "Wilderness God Wars Dungeon": [
+  "WGWD"
+ ],
+ "Warhammer": [
+  "WH",
+  "War"
+ ],
+ "Wizard": [
+  "Wizzy"
+ ],
+ "Wizard robes": [
+  "Wizzy"
+ ],
+ "Wintertodt": [
+  "WT",
+  "Todt"
+ ],
+ "World": [
+  "W#"
+ ],
+ "Vambraces": [
+  "Vambs",
+  "Vams"
+ ],
+ "Vanguards": [
+  "Vang(s)"
+ ],
+ "Vardorvis": [
+  "Vard",
+  "Vardo"
+ ],
+ "Varrock": [
+  "Varr"
+ ],
+ "Venator bow": [
+  "Vbow",
+  "V bow"
+ ],
+ "Venenatis": [
+  "Vene"
+ ],
+ "Vengeance": [
+  "Veng(e)"
+ ],
+ "Vengeance Other": [
+  "Veng(e)"
+ ],
+ "Verac the Defiled's equipment": [
+  "Ver",
+  "V (Armour)"
+ ],
+ "V Brassy": [
+  "Ver",
+  "V (Armour)"
+ ],
+ "Vespula": [
+  "Vesp"
+ ],
+ "Visage": [
+  "Vis(sy)"
+ ],
+ "Draconic Visage": [
+  "Vis(sy)"
+ ],
+ "Vesta's longsword": [
+  "VLS"
+ ],
+ "Volcanic Mine": [
+  "VM"
+ ],
+ "Account builds": [
+  "Void",
+  "Voider",
+  "RC Pker",
+  "EVoid"
+ ],
+ "account build": [
+  "Void",
+  "Voider",
+  "RC Pker",
+  "EVoid"
+ ],
+ "player killer": [
+  "Void",
+  "Voider",
+  "RC Pker",
+  "EVoid"
+ ],
+ "Void Knight equipment": [
+  "Void",
+  "Voider",
+  "RC Pker",
+  "EVoid"
+ ],
+ "Void Knight": [
+  "Void",
+  "Voider",
+  "RC Pker",
+  "EVoid"
+ ],
+ "Elite Void Knight equipment": [
+  "Void",
+  "Voider",
+  "RC Pker",
+  "EVoid"
+ ],
+ "Volatile nightmare staff": [
+  "Voli",
+  "Volly",
+  "Vola"
+ ],
+ "Vorkath": [
+  "Vork",
+  "Money snake",
+  "Money dragon"
+ ],
+ "Verac's plateskirt": [
+  "VSkirt"
+ ],
+ "Vulnerability": [
+  "Vuln"
+ ],
+ "Voidwaker": [
+  "VW",
+  "Korasi"
+ ],
+ "Group Ironman Mode#Unranked Group Ironman": [
+  "UGIM"
+ ],
+ "Unranked Group Ironman": [
+  "UGIM"
+ ],
+ "Unidentified minerals": [
+  "Unid(s)"
+ ],
+ "Grimy herbs": [
+  "Unid(s)"
+ ],
+ "Magic tablet": [
+  "Tab"
+ ],
+ "tablet": [
+  "Tab"
+ ],
+ "Talisman": [
+  "Tali"
+ ],
+ "Tanzanite fang": [
+  "Tanz"
+ ],
+ "Bandos tassets": [
+  "Tass",
+  "Tassets",
+  "Tassy",
+  "Tassies"
+ ],
+ "Tele Block": [
+  "Tb",
+  "Tb'd"
+ ],
+ "Trouble Brewing": [
+  "Tb",
+  "Tb'd"
+ ],
+ "Trailblazer League": [
+  "TB",
+  "TBL",
+  "TBZ"
+ ],
+ "Twisted bow": [
+  "TBow"
+ ],
+ "Tears of Guthix": [
+  "Tears",
+  "ToG"
+ ],
+ "Tekton": [
+  "Tek"
+ ],
+ "Abyssal tentacle": [
+  "Tent"
+ ],
+ "Kraken tentacle": [
+  "Tent"
+ ],
+ "Thermonuclear smoke devil": [
+  "Thermy"
+ ],
+ "Twisted League": [
+  "TL"
+ ],
+ "Theatre of Blood": [
+  "ToB",
+  "Purple",
+  "Purp",
+  "Raids 1",
+  "Raids 2",
+  "Raids 3"
+ ],
+ "Tome of fire": [
+  "Tome",
+  "ToF"
+ ],
+ "Tormented bracelet": [
+  "Torm",
+  "Tor"
+ ],
+ "Amulet of torture": [
+  "Tort",
+  "Torture"
+ ],
+ "Total level": [
+  "Total",
+  "TL"
+ ],
+ "Teleport": [
+  "TP",
+  "Tele"
+ ],
+ "Toxic staff of the dead": [
+  "TSotD",
+  "TSoD"
+ ],
+ "multi-way combat": [
+  "Safer"
+ ],
+ "Blade of saeldor": [
+  "Salad blade"
+ ],
+ "Xerician robes": [
+  "Salad robes"
+ ],
+ "Salve amulet": [
+  "Salve"
+ ],
+ "Sanguinesti staff": [
+  "Sang"
+ ],
+ "Santa hat": [
+  "Santa"
+ ],
+ "Sapphire": [
+  "Saph"
+ ],
+ "Saradomin": [
+  "Sara"
+ ],
+ "Sarachnis": [
+  "Sarach",
+  "Sarac"
+ ],
+ "Spellbook Swap": [
+  "SBS"
+ ],
+ "Skill capes": [
+  "SC"
+ ],
+ "Scavenger": [
+  "Scav"
+ ],
+ "Super combat potion": [
+  "SCB",
+  "SCP"
+ ],
+ "Scimitar": [
+  "Scimmy",
+  "Scim",
+  "Skim",
+  "Skimmy"
+ ],
+ "Scythe (weapon)": [
+  "Scy"
+ ],
+ "Scythe": [
+  "Scy"
+ ],
+ "Scythe of vitur": [
+  "Scy"
+ ],
+ "Seers' Village": [
+  "Seers"
+ ],
+ "Seers ring": [
+  "Seers"
+ ],
+ "Serpentine helm": [
+  "Serp"
+ ],
+ "Saradomin godsword": [
+  "SGS"
+ ],
+ "Tumeken's shadow": [
+  "Shadow",
+  "SoT",
+  "ShaT",
+  "Staff"
+ ],
+ "Shilo Village (location)": [
+  "Shilo"
+ ],
+ "Shilo Village": [
+  "Shilo"
+ ],
+ "Shortsword": [
+  "Short"
+ ],
+ "Shortbow": [
+  "Short"
+ ],
+ "Plateskirt": [
+  "Skirt"
+ ],
+ "skills": [
+  "Skiller",
+  "Pure"
+ ],
+ "Skill pure": [
+  "Skiller",
+  "Pure"
+ ],
+ "Sniping": [
+  "Snipe"
+ ],
+ "Shield of Arrav": [
+  "SoA"
+ ],
+ "Staff of light": [
+  "SoL"
+ ],
+ "Stronghold of Security": [
+  "SoS",
+  "Stronghold"
+ ],
+ "Sotetseg": [
+  "Sot",
+  "Sote"
+ ],
+ "Staff of the dead": [
+  "SotD"
+ ],
+ "Song of the Elves": [
+  "SotE"
+ ],
+ "Sins of the Father": [
+  "SotF"
+ ],
+ "Secrets of the North": [
+  "SotN"
+ ],
+ "Clan": [
+  "Spam"
+ ],
+ "Special attack": [
+  "Spec"
+ ],
+ "Spectral spirit shield": [
+  "Spec"
+ ],
+ "Slang dictionary/F": [
+  "Split(ting)",
+  "Mass(ing)"
+ ],
+ "free-for-all": [
+  "Split(ting)",
+  "Mass(ing)"
+ ],
+ "Slang dictionary/D": [
+  "Spoon",
+  "Spooned",
+  "Spoonfed"
+ ],
+ "dry": [
+  "Spoon",
+  "Spooned",
+  "Spoonfed"
+ ],
+ "Square shield": [
+  "Sq"
+ ],
+ "Saradomin sword": [
+  "SS"
+ ],
+ "Stronghold Slayer Cave": [
+  "SSC"
+ ],
+ "Stamina potion": [
+  "Stam (pot)"
+ ],
+ "Strength": [
+  "Str",
+  "Obby mauler",
+  "Obby pure"
+ ],
+ "Ring of suffering": [
+  "Suff",
+  "Suffering",
+  "RoS"
+ ],
+ "Sulliuscep": [
+  "Sulli(s)",
+  "Sully",
+  "Sullies"
+ ],
+ "Superantipoison": [
+  "Super AP"
+ ],
+ "Super attack potion": [
+  "Super sets (Sup att/atk",
+  "Sup def",
+  "Sup str)"
+ ],
+ "Super defence potion": [
+  "Super sets (Sup att/atk",
+  "Sup def",
+  "Sup str)"
+ ],
+ "Super strength potion": [
+  "Super sets (Sup att/atk",
+  "Sup def",
+  "Sup str)"
+ ],
+ "Soul Wars": [
+  "SW"
+ ],
+ "Trident of the swamp": [
+  "Swamp"
+ ],
+ "Swordfish": [
+  "Sword",
+  "Swordy"
+ ],
+ "sword": [
+  "Sword",
+  "Swordy"
+ ],
+ "longsword": [
+  "Sword",
+  "Swordy"
+ ],
+ "Karil the Tainted's equipment": [
+  "K"
+ ],
+ "Karil's": [
+  "K"
+ ],
+ "Kandarin": [
+  "Kand",
+  "Kanda",
+  "Kan"
+ ],
+ "Karamja": [
+  "Karam"
+ ],
+ "King Black Dragon": [
+  "KBD"
+ ],
+ "Kill count": [
+  "KC"
+ ],
+ "Karil's crossbow": [
+  "KCB",
+  "Kbow",
+  "KXB"
+ ],
+ "Keldagrim": [
+  "Kelda",
+  "Keld"
+ ],
+ "Weight": [
+  "KG"
+ ],
+ "Kiteshield": [
+  "Kite"
+ ],
+ "Kodai wand": [
+  "Kodai"
+ ],
+ "Kalphite Queen": [
+  "KQ"
+ ],
+ "Karil's leatherskirt": [
+  "KSkirt"
+ ],
+ "Karil's leathertop": [
+  "KTop"
+ ],
+ "TzTok-Jad": [
+  "Jad"
+ ],
+ "Tzrek-jad": [
+  "Jad"
+ ],
+ "JalTok-Jad": [
+  "Jad"
+ ],
+ "Magic": [
+  "Jad phase",
+  "Mage",
+  "Mager",
+  "Mage tank"
+ ],
+ "Alchemical Hydra": [
+  "Jad phase",
+  "Mage",
+  "Mager",
+  "Mage tank"
+ ],
+ "Olm": [
+  "Jadding"
+ ],
+ "Jagex": [
+  "Jamflex"
+ ],
+ "Jagex moderator": [
+  "JMod"
+ ],
+ "Primordial boots": [
+  "Jordans",
+  "Prims"
+ ],
+ "Justiciar armour": [
+  "Justi"
+ ],
+ "Nature rune": [
+  "Nat(s)"
+ ],
+ "Nechryael": [
+  "Nech"
+ ],
+ "Neitiznot": [
+  "Nezzy",
+  "Nez",
+  "Neit",
+  "Neitz"
+ ],
+ "Helm of neitiznot": [
+  "Nezzy",
+  "Nez",
+  "Neit",
+  "Neitz"
+ ],
+ "Jal-Nib": [
+  "Nibbler(s)"
+ ],
+ "Nitroglycerin": [
+  "Nitro"
+ ],
+ "The Nightmare": [
+  "NM"
+ ],
+ "Nightmare Zone": [
+  "NMZ",
+  "NZ"
+ ],
+ "armour": [
+  "No arm(ing)"
+ ],
+ "newbie": [
+  "Noob"
+ ],
+ "Nylocas": [
+  "Nylo"
+ ],
+ "Mage Arena": [
+  "MA",
+  "Mage bank",
+  "MB",
+  "MTA"
+ ],
+ "Mage Training Arena": [
+  "MA",
+  "Mage bank",
+  "MB",
+  "MTA"
+ ],
+ "Mage Arena I": [
+  "MA1",
+  "MA2"
+ ],
+ "Mage Arena II": [
+  "MA1",
+  "MA2"
+ ],
+ "god capes": [
+  "MA1",
+  "MA2"
+ ],
+ "Melee": [
+  "Mage",
+  "Mager",
+  "MD"
+ ],
+ "NPC": [
+  "Mage",
+  "Mager",
+  "MD"
+ ],
+ "wizard": [
+  "Mage",
+  "Mager",
+  "MD"
+ ],
+ "Deep Wilderness": [
+  "Mage bank"
+ ],
+ "Ket-Zek": [
+  "Mager"
+ ],
+ "Jal-Zek": [
+  "Mager"
+ ],
+ "main": [
+  "Main"
+ ],
+ "free for all": [
+  "Mass(ing)"
+ ],
+ "Obsidian maul": [
+  "Maul",
+  "Mauler"
+ ],
+ "Medium helmet": [
+  "Med (helm)",
+  "MH"
+ ],
+ "Member": [
+  "Mem",
+  "Memb"
+ ],
+ "Mourning's End Part I": [
+  "MEP1/ME1",
+  "MEP2/ME2"
+ ],
+ "Mourning's End Part II": [
+  "MEP1/ME1",
+  "MEP2/ME2"
+ ],
+ "strategy": [
+  "Meta"
+ ],
+ "Skill training": [
+  "Meta"
+ ],
+ "Bossing": [
+  "Meta"
+ ],
+ "Mahogany Homes": [
+  "MH"
+ ],
+ "Mithril": [
+  "Mith"
+ ],
+ "Motherlode Mine": [
+  "MLM"
+ ],
+ "Monkey Madness I": [
+  "MM1/MM",
+  "MM2"
+ ],
+ "Monkey Madness II": [
+  "MM1/MM",
+  "MM2"
+ ],
+ "Morytania": [
+  "Mory"
+ ],
+ "Moss giants": [
+  "Mossies"
+ ],
+ "Magic shortbow": [
+  "MSB",
+  "MSBi"
+ ],
+ "Magic shortbow (i)": [
+  "MSB",
+  "MSBi"
+ ],
+ "Emir's Arena": [
+  "MTA"
+ ],
+ "Mud runes": [
+  "Mud(s)"
+ ],
+ "Multicombat area": [
+  "Multi"
+ ],
+ "Muttadiles": [
+  "Muta",
+  "Mutta",
+  "Mut"
+ ],
+ "Mutagen": [
+  "Muta",
+  "Mutta",
+  "Mut"
+ ],
+ "Law rune": [
+  "Law(s)"
+ ],
+ "Lightbearer": [
+  "LB"
+ ],
+ "Leaf-bladed battleaxe": [
+  "LBA",
+  "LBBA",
+  "LBB"
+ ],
+ "Leaf-bladed sword": [
+  "LBS"
+ ],
+ "Lunar Diplomacy": [
+  "LD"
+ ],
+ "Woodcutting Leprechaun": [
+  "Leppy",
+  "Lepper"
+ ],
+ "Lesser demons": [
+  "Lesser"
+ ],
+ "Leviathan": [
+  "Levi",
+  "Lev"
+ ],
+ "Raid": [
+  "LFR"
+ ],
+ "Ring of life": [
+  "Life",
+  "RoL"
+ ],
+ "Limpwurt root": [
+  "Limp"
+ ],
+ "Last Man Standing": [
+  "LMS"
+ ],
+ "Lobster": [
+  "Lob",
+  "Lobs",
+  "Lobby"
+ ],
+ "Longsword": [
+  "Long"
+ ],
+ "longbow": [
+  "Long"
+ ],
+ "Lovakengj": [
+  "Lova"
+ ],
+ "Lovakite": [
+  "Lova"
+ ],
+ "Lumbridge": [
+  "Lumb",
+  "Lumby",
+  "Lummy"
+ ],
+ "Obsidian": [
+  "Obby",
+  "Obi",
+  "Oby"
+ ],
+ "TzHaar": [
+  "Obby",
+  "Obi",
+  "Oby"
+ ],
+ "Wilderness Obelisk": [
+  "Obby",
+  "Obi",
+  "Oby"
+ ],
+ "Wilderness Obelisks": [
+  "Obby",
+  "Obi",
+  "Oby"
+ ],
+ "Obsidian mauler": [
+  "Obby mauler",
+  "Obby pure"
+ ],
+ "combat pure": [
+  "Obby mauler",
+  "Obby pure"
+ ],
+ "Occult necklace": [
+  "Occult",
+  "Occ"
+ ],
+ "Ogress": [
+  "Oggies"
+ ],
+ "player-killing": [
+  "One-iteming (1-iteming)"
+ ],
+ "Ornament kit": [
+  "Orn"
+ ],
+ "Ornamented": [
+  "Orn"
+ ],
+ "OSBuddy": [
+  "OSB"
+ ],
+ "Overload": [
+  "Ovl(s)"
+ ],
+ "Members": [
+  "P2P(er)"
+ ],
+ "Password": [
+  "Pass",
+  "PW",
+  "Pass"
+ ],
+ "Shantay Pass": [
+  "Pass",
+  "PW",
+  "Pass"
+ ],
+ "Underground Pass (dungeon)": [
+  "Pass",
+  "PW",
+  "Pass"
+ ],
+ "Underground Pass": [
+  "Pass",
+  "PW",
+  "Pass"
+ ],
+ "platebody": [
+  "PB"
+ ],
+ "platebodies": [
+  "PB"
+ ],
+ "Pest Control": [
+  "PC"
+ ],
+ "Private chat": [
+  "PC"
+ ],
+ "Price check": [
+  "PC"
+ ],
+ "Pegasian boots": [
+  "Pegs",
+  "Peggies"
+ ],
+ "Pure essence": [
+  "P Ess"
+ ],
+ "Partyhat": [
+  "Ph",
+  "Phat"
+ ],
+ "Port Phasmatys": [
+  "Phas"
+ ],
+ "Pickaxe": [
+  "Pick"
+ ],
+ "Player identification number": [
+  "PID"
+ ],
+ "Piscarilius": [
+  "Pisc"
+ ],
+ "Piscatoris Fishing Colony": [
+  "Pisc"
+ ],
+ "Pile jumping": [
+  "PJ",
+  "PJer",
+  "PJing"
+ ],
+ "Player killer": [
+  "PK",
+  "PKer",
+  "PKing"
+ ],
+ "Private message": [
+  "PM"
+ ],
+ "Player Moderator": [
+  "PMod"
+ ],
+ "Phoenix necklace": [
+  "PNeck"
+ ],
+ "Phosani's Nightmare": [
+  "PNM"
+ ],
+ "Player-owned house": [
+  "POH"
+ ],
+ "Potions": [
+  "Pot",
+  "Pots"
+ ],
+ "Potion": [
+  "Pot",
+  "Pots"
+ ],
+ "lobster pot": [
+  "Pot",
+  "Pots"
+ ],
+ "pot": [
+  "Pot",
+  "Pots"
+ ],
+ "Slang dictionary/T": [
+  "Pot",
+  "Pots"
+ ],
+ "tob": [
+  "Pot",
+  "Pots"
+ ],
+ "Prayer potion": [
+  "PPot",
+  "Pray Pot"
+ ],
+ "Pyramid Plunder": [
+  "PP"
+ ],
+ "Thieving#Pickpocketing": [
+  "PP"
+ ],
+ "Pickpocketing": [
+  "PP"
+ ],
+ "Prifddinas": [
+  "Prif",
+  "Priff"
+ ],
+ "drops": [
+  "Proc"
+ ],
+ "drop": [
+  "Proc"
+ ],
+ "status effect": [
+  "Proc"
+ ],
+ "poison": [
+  "Proc"
+ ],
+ "infernal pickaxe": [
+  "Proc"
+ ],
+ "AGS": [
+  "Prod"
+ ],
+ "Proselyte armour": [
+  "Prossy"
+ ],
+ "Protection prayers": [
+  "Prot"
+ ],
+ "Protect Item": [
+  "Prot"
+ ],
+ "Boost Potion Share": [
+  "PS"
+ ],
+ "Potion share": [
+  "PS"
+ ],
+ "skill": [
+  "Pure"
+ ],
+ "Combat pure": [
+  "Pure"
+ ],
+ "Defence pure": [
+  "Pure"
+ ],
+ "Super attack": [
+  "Pure set"
+ ],
+ "Super strength": [
+  "Pure set"
+ ],
+ "Super defence": [
+  "Pure set"
+ ],
+ "dragonhide armour": [
+  "Pure set"
+ ],
+ "D'hide body": [
+  "Pure set"
+ ],
+ "body": [
+  "Pure set"
+ ],
+ "raids": [
+  "Purple",
+  "Purp"
+ ],
+ "Quest points": [
+  "QP(s)"
+ ],
+ "Quick prayers": [
+  "QP(s)"
+ ],
+ "Quest point cape": [
+  "QC",
+  "QPC"
+ ],
+ "Rune 2h sword": [
+  "R2H"
+ ],
+ "griefing": [
+  "Rags",
+  "Ragging",
+  "Raggers"
+ ],
+ "special attack": [
+  "Rambo",
+  "Rambo spec",
+  "Rambo special"
+ ],
+ "Ranger boots": [
+  "Rangers",
+  "Rngrs"
+ ],
+ "Tok-Xil": [
+  "Rangers",
+  "Rngrs"
+ ],
+ "Jal-Xil": [
+  "Rangers",
+  "Rngrs"
+ ],
+ "Ghrazi rapier": [
+  "Rapier",
+  "Rap"
+ ],
+ "Runecraft": [
+  "RC(ing)"
+ ],
+ "Rune crossbow": [
+  "RCB"
+ ],
+ "Abyss": [
+  "RC Pker"
+ ],
+ "runecraft": [
+  "RC Pker"
+ ],
+ "Rune dragons": [
+  "RD",
+  "R drag"
+ ],
+ "Rare drop table": [
+  "RDT"
+ ],
+ "Ring of recoil": [
+  "Recoil"
+ ],
+ "RuneScape 2": [
+  "Red barred",
+  "RS2"
+ ],
+ "Revenants": [
+  "Rev(s)"
+ ],
+ "Dagannoth Rex": [
+  "Rex"
+ ],
+ "Rune full helm": [
+  "RFH"
+ ],
+ "Rigour": [
+  "Rig",
+  "Rigo"
+ ],
+ "Rimmington": [
+  "Rimmy"
+ ],
+ "RuneLite": [
+  "RL",
+  "RSHD"
+ ],
+ "Rune med helm": [
+  "RMH",
+  "Rmed"
+ ],
+ "random number generator": [
+  "RNG"
+ ],
+ "Robin Hood hat": [
+  "Robin"
+ ],
+ "Ring of the gods": [
+  "RotG"
+ ],
+ "RuneScape": [
+  "RS"
+ ],
+ "RuneScape Classic": [
+  "RSC",
+  "RS1"
+ ],
+ "HDOS": [
+  "RSHD"
+ ],
+ "Username#Character_names": [
+  "RSN"
+ ],
+ "character name": [
+  "RSN"
+ ],
+ "RuneScape Forums": [
+  "RSOF"
+ ],
+ "RuneScape Official Forums": [
+  "RSOF"
+ ],
+ "spec": [
+  "Rush",
+  "Rusher"
+ ],
+ "rushing": [
+  "Rush",
+  "Rusher"
+ ],
+ "Rune warhammer": [
+  "RWH"
+ ],
+ "Real world trading": [
+  "RWT"
+ ],
+ "Ectofuntus": [
+  "Ecto"
+ ],
+ "Ectophial": [
+  "Ecto"
+ ],
+ "Edgeville": [
+  "Edge"
+ ],
+ "bossed": [
+  "EHB"
+ ],
+ "Experience rate": [
+  "EHP"
+ ],
+ "Eldritch nightmare staff": [
+  "Eldritch",
+  "Eld"
+ ],
+ "Chaos Elemental": [
+  "Ele"
+ ],
+ "Elysian spirit shield": [
+  "Ely"
+ ],
+ "Rune essence": [
+  "Ess",
+  "essence"
+ ],
+ "Rune": [
+  "Ess",
+  "essence"
+ ],
+ "pure essence": [
+  "Ess",
+  "essence"
+ ],
+ "Etceteria": [
+  "Etc.",
+  "etce"
+ ]
+}

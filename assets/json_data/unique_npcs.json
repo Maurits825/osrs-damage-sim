@@ -76,7 +76,27 @@
   "drange": 60,
   "combat": 350,
   "size": 6,
+  "respawn": 1,
   "id": "5886"
+ },
+ {
+  "name": "Abyssal Sire",
+  "isDemon": true,
+  "hitpoints": 400,
+  "att": 180,
+  "str": 136,
+  "def": 250,
+  "mage": 200,
+  "range": 1,
+  "attbns": 65,
+  "dstab": 40,
+  "dslash": 60,
+  "dcrush": 50,
+  "dmagic": 20,
+  "drange": 60,
+  "combat": 350,
+  "size": 6,
+  "id": "5889"
  },
  {
   "name": "Abyssal antibody",
@@ -105,7 +125,25 @@
   "drange": 20,
   "combat": 124,
   "size": 1,
+  "respawn": 5,
   "id": "415"
+ },
+ {
+  "name": "Abyssal demon",
+  "isDemon": true,
+  "hitpoints": 150,
+  "att": 97,
+  "str": 67,
+  "def": 135,
+  "mage": 1,
+  "range": 1,
+  "dstab": 20,
+  "dslash": 20,
+  "dcrush": 20,
+  "drange": 20,
+  "combat": 124,
+  "size": 1,
+  "id": "11239"
  },
  {
   "name": "Abyssal guardian",
@@ -124,6 +162,7 @@
   "drange": 70,
   "combat": 59,
   "size": 1,
+  "respawn": 5,
   "id": "2585"
  },
  {
@@ -143,6 +182,7 @@
   "drange": 10,
   "combat": 41,
   "size": 1,
+  "respawn": 5,
   "id": "2584"
  },
  {
@@ -226,6 +266,7 @@
   "drange": 75,
   "combat": 81,
   "size": 1,
+  "respawn": 5,
   "id": "2586"
  },
  {
@@ -280,6 +321,7 @@
   "drange": 95,
   "combat": 338,
   "size": 5,
+  "respawn": 22,
   "id": "8030"
  },
  {
@@ -292,6 +334,7 @@
   "range": 1,
   "combat": 37,
   "size": 1,
+  "respawn": 25,
   "id": "1293"
  },
  {
@@ -304,6 +347,7 @@
   "range": 1,
   "combat": 34,
   "size": 1,
+  "respawn": 25,
   "id": "1294"
  },
  {
@@ -316,6 +360,7 @@
   "range": 1,
   "combat": 32,
   "size": 1,
+  "respawn": 25,
   "id": "1297"
  },
  {
@@ -328,6 +373,7 @@
   "range": 1,
   "combat": 30,
   "size": 1,
+  "respawn": 25,
   "id": "1298"
  },
  {
@@ -437,6 +483,7 @@
   "range": 20,
   "combat": 34,
   "size": 1,
+  "respawn": 50,
   "id": "1369"
  },
  {
@@ -449,6 +496,7 @@
   "dmagic": 15,
   "combat": 13,
   "size": 1,
+  "respawn": 50,
   "id": "1559"
  },
  {
@@ -514,6 +562,7 @@
   "drange": 12,
   "combat": 9,
   "size": 1,
+  "respawn": 25,
   "id": "3292"
  },
  {
@@ -526,6 +575,7 @@
   "range": 1,
   "combat": 52,
   "size": 2,
+  "respawn": 35,
   "id": "1039"
  },
  {
@@ -548,6 +598,7 @@
   "drange": 45,
   "combat": 426,
   "size": 6,
+  "respawn": 43,
   "id": "8615"
  },
  {
@@ -565,6 +616,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2623"
  },
  {
@@ -580,6 +632,7 @@
   "dcrush": 8,
   "combat": 13,
   "size": 1,
+  "respawn": 50,
   "id": "12092"
  },
  {
@@ -592,6 +645,7 @@
   "range": 1,
   "combat": 1,
   "size": 1,
+  "respawn": 50,
   "id": "3676"
  },
  {
@@ -604,6 +658,7 @@
   "range": 1,
   "combat": 25,
   "size": 2,
+  "respawn": 50,
   "id": "7799"
  },
  {
@@ -696,6 +751,7 @@
   "drange": 120,
   "combat": 210,
   "size": 5,
+  "respawn": 15,
   "id": "7795"
  },
  {
@@ -714,6 +770,7 @@
   "drange": 30,
   "combat": 109,
   "size": 2,
+  "respawn": 30,
   "id": "7797"
  },
  {
@@ -733,6 +790,7 @@
   "drange": 2,
   "combat": 166,
   "size": 1,
+  "respawn": 50,
   "id": "5563"
  },
  {
@@ -959,6 +1017,7 @@
   "drange": 10,
   "combat": 50,
   "size": 1,
+  "respawn": 30,
   "id": "6470"
  },
  {
@@ -995,6 +1054,7 @@
   "drange": -21,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3285"
  },
  {
@@ -1009,6 +1069,7 @@
   "range": 1,
   "combat": 75,
   "size": 1,
+  "respawn": 50,
   "id": "2514"
  },
  {
@@ -1051,6 +1112,7 @@
   "range": 1,
   "combat": 95,
   "size": 1,
+  "respawn": 50,
   "id": "7257"
  },
  {
@@ -1065,6 +1127,7 @@
   "range": 1,
   "combat": 98,
   "size": 1,
+  "respawn": 50,
   "id": "7864"
  },
  {
@@ -1166,6 +1229,7 @@
   "drange": 19,
   "combat": 37,
   "size": 1,
+  "respawn": 25,
   "id": "3301"
  },
  {
@@ -1182,6 +1246,7 @@
   "drange": 45,
   "combat": 42,
   "size": 1,
+  "respawn": 25,
   "id": "4096"
  },
  {
@@ -1270,7 +1335,7 @@
   "att": 250,
   "str": 270,
   "def": 150,
-  "mage": 1,
+  "mage": 90,
   "range": 120,
   "arange": 60,
   "rngbns": 18,
@@ -1280,6 +1345,7 @@
   "drange": 40,
   "combat": 320,
   "size": 3,
+  "respawn": 26,
   "id": "11992"
  },
  {
@@ -1439,6 +1505,7 @@
   "def": 70,
   "combat": 100,
   "size": 1,
+  "respawn": 50,
   "id": "1283"
  },
  {
@@ -1501,6 +1568,7 @@
   "range": 71,
   "combat": 69,
   "size": 2,
+  "respawn": 25,
   "id": "3169"
  },
  {
@@ -1513,6 +1581,7 @@
   "range": 85,
   "combat": 79,
   "size": 2,
+  "respawn": 25,
   "id": "3170"
  },
  {
@@ -1525,6 +1594,7 @@
   "range": 93,
   "combat": 84,
   "size": 2,
+  "respawn": 25,
   "id": "3171"
  },
  {
@@ -1537,6 +1607,7 @@
   "range": 76,
   "combat": 83,
   "size": 2,
+  "respawn": 25,
   "id": "3172"
  },
  {
@@ -1549,6 +1620,7 @@
   "range": 90,
   "combat": 92,
   "size": 2,
+  "respawn": 25,
   "id": "3173"
  },
  {
@@ -1561,6 +1633,7 @@
   "range": 99,
   "combat": 97,
   "size": 2,
+  "respawn": 25,
   "id": "3174"
  },
  {
@@ -1573,6 +1646,7 @@
   "range": 136,
   "combat": 137,
   "size": 2,
+  "respawn": 25,
   "id": "3175"
  },
  {
@@ -1585,6 +1659,7 @@
   "range": 151,
   "combat": 148,
   "size": 2,
+  "respawn": 25,
   "id": "3176"
  },
  {
@@ -1597,6 +1672,7 @@
   "range": 86,
   "combat": 71,
   "size": 2,
+  "respawn": 25,
   "id": "3177"
  },
  {
@@ -1609,6 +1685,7 @@
   "range": 89,
   "combat": 73,
   "size": 2,
+  "respawn": 25,
   "id": "3178"
  },
  {
@@ -1621,6 +1698,7 @@
   "range": 96,
   "combat": 79,
   "size": 2,
+  "respawn": 25,
   "id": "3179"
  },
  {
@@ -1633,6 +1711,7 @@
   "range": 89,
   "combat": 89,
   "size": 2,
+  "respawn": 25,
   "id": "3180"
  },
  {
@@ -1645,6 +1724,7 @@
   "range": 96,
   "combat": 94,
   "size": 2,
+  "respawn": 25,
   "id": "3181"
  },
  {
@@ -1657,6 +1737,7 @@
   "range": 101,
   "combat": 97,
   "size": 2,
+  "respawn": 25,
   "id": "3182"
  },
  {
@@ -1669,6 +1750,7 @@
   "range": 143,
   "combat": 131,
   "size": 2,
+  "respawn": 25,
   "id": "3183"
  },
  {
@@ -1913,6 +1995,7 @@
   "drange": 30,
   "combat": 48,
   "size": 2,
+  "respawn": 30,
   "id": "241"
  },
  {
@@ -1931,6 +2014,7 @@
   "drange": 30,
   "combat": 48,
   "size": 2,
+  "respawn": 30,
   "id": "5194"
  },
  {
@@ -1966,6 +2050,7 @@
   "drange": 30,
   "combat": 48,
   "size": 2,
+  "respawn": 30,
   "id": "244"
  },
  {
@@ -2004,6 +2089,7 @@
   "range": 1,
   "combat": 74,
   "size": 1,
+  "respawn": 15,
   "id": "690"
  },
  {
@@ -2016,6 +2102,7 @@
   "range": 1,
   "combat": 57,
   "size": 1,
+  "respawn": 15,
   "id": "695"
  },
  {
@@ -2033,6 +2120,7 @@
   "dmagic": 10,
   "combat": 56,
   "size": 1,
+  "respawn": 50,
   "id": "734"
  },
  {
@@ -2050,6 +2138,7 @@
   "dmagic": 10,
   "combat": 41,
   "size": 1,
+  "respawn": 50,
   "id": "736"
  },
  {
@@ -2066,6 +2155,7 @@
   "dcrush": 2,
   "combat": 22,
   "size": 1,
+  "respawn": 100,
   "id": "1026"
  },
  {
@@ -2082,6 +2172,7 @@
   "dcrush": 22,
   "combat": 130,
   "size": 1,
+  "respawn": 100,
   "id": "6605"
  },
  {
@@ -2101,6 +2192,7 @@
   "drange": 4,
   "combat": 22,
   "size": 1,
+  "respawn": 100,
   "id": "11063"
  },
  {
@@ -2153,6 +2245,7 @@
   "drange": 5,
   "combat": 23,
   "size": 2,
+  "respawn": 15,
   "id": "414"
  },
  {
@@ -2171,6 +2264,7 @@
   "drange": 2,
   "combat": 17,
   "size": 1,
+  "respawn": 50,
   "id": "3055"
  },
  {
@@ -2189,6 +2283,7 @@
   "drange": 2,
   "combat": 10,
   "size": 1,
+  "respawn": 50,
   "id": "3056"
  },
  {
@@ -2207,6 +2302,7 @@
   "drange": 2,
   "combat": 15,
   "size": 1,
+  "respawn": 50,
   "id": "3068"
  },
  {
@@ -2226,6 +2322,7 @@
   "drange": 5,
   "combat": 9,
   "size": 1,
+  "respawn": 50,
   "id": "3072"
  },
  {
@@ -2242,6 +2339,7 @@
   "dslash": 1,
   "combat": 8,
   "size": 1,
+  "respawn": 25,
   "id": "3262"
  },
  {
@@ -2260,6 +2358,7 @@
   "drange": 5,
   "combat": 9,
   "size": 1,
+  "respawn": 50,
   "id": "10988"
  },
  {
@@ -2275,6 +2374,7 @@
   "dcrush": 15,
   "drange": 10,
   "combat": 91,
+  "size": 1,
   "id": "10989"
  },
  {
@@ -2292,6 +2392,7 @@
   "drange": 30,
   "combat": 15,
   "size": 1,
+  "respawn": 50,
   "id": "2648"
  },
  {
@@ -2335,6 +2436,7 @@
   "dmagic": 20,
   "combat": 61,
   "size": 2,
+  "respawn": 15,
   "id": "417"
  },
  {
@@ -2350,6 +2452,7 @@
   "dmagic": 30,
   "combat": 204,
   "size": 3,
+  "respawn": 50,
   "id": "9293"
  },
  {
@@ -2400,6 +2503,7 @@
   "dmagic": 2,
   "combat": 6,
   "size": 1,
+  "respawn": 35,
   "id": "2827"
  },
  {
@@ -2412,6 +2516,7 @@
   "range": 1,
   "combat": 54,
   "size": 1,
+  "respawn": 150,
   "id": "1610"
  },
  {
@@ -2424,6 +2529,7 @@
   "range": 1,
   "combat": 15,
   "size": 2,
+  "respawn": 50,
   "id": "3908"
  },
  {
@@ -2436,6 +2542,7 @@
   "strbns": 14,
   "combat": 56,
   "size": 1,
+  "respawn": 50,
   "id": "4655"
  },
  {
@@ -2454,6 +2561,22 @@
   "id": "4132"
  },
  {
+  "name": "Berry",
+  "hitpoints": 90,
+  "att": 40,
+  "str": 90,
+  "def": 25,
+  "attbns": 20,
+  "strbns": 20,
+  "dcrush": 10,
+  "dmagic": 200,
+  "drange": 200,
+  "combat": 71,
+  "size": 2,
+  "respawn": 50,
+  "id": "4134"
+ },
+ {
   "name": "Berserk barbarian spirit",
   "isSpectral": true,
   "hitpoints": 190,
@@ -2470,6 +2593,7 @@
   "drange": 2,
   "combat": 166,
   "size": 1,
+  "respawn": 50,
   "id": "5565"
  },
  {
@@ -2496,6 +2620,7 @@
   "range": 1,
   "combat": 73,
   "size": 2,
+  "respawn": 90,
   "id": "109"
  },
  {
@@ -2508,6 +2633,7 @@
   "range": 1,
   "combat": 24,
   "size": 1,
+  "respawn": 50,
   "id": "478"
  },
  {
@@ -2520,6 +2646,7 @@
   "range": 1,
   "combat": 10,
   "size": 1,
+  "respawn": 50,
   "id": "8701"
  },
  {
@@ -2537,6 +2664,7 @@
   "drange": 10,
   "combat": 33,
   "size": 1,
+  "respawn": 50,
   "id": "1794"
  },
  {
@@ -2549,6 +2677,7 @@
   "range": 1,
   "combat": 11,
   "size": 1,
+  "respawn": 5,
   "id": "5240"
  },
  {
@@ -2561,6 +2690,7 @@
   "range": 1,
   "combat": 5,
   "size": 1,
+  "respawn": 5,
   "id": "5241"
  },
  {
@@ -2580,6 +2710,7 @@
   "drange": 3,
   "combat": 25,
   "size": 1,
+  "respawn": 25,
   "id": "1409"
  },
  {
@@ -2598,6 +2729,7 @@
   "drange": 40,
   "combat": 48,
   "size": 1,
+  "respawn": 30,
   "id": "6046"
  },
  {
@@ -2616,6 +2748,7 @@
   "drange": 60,
   "combat": 66,
   "size": 1,
+  "respawn": 30,
   "id": "2232"
  },
  {
@@ -2633,6 +2766,7 @@
   "dcrush": 10,
   "combat": 34,
   "size": 1,
+  "respawn": 50,
   "id": "301"
  },
  {
@@ -2652,11 +2786,24 @@
   "drange": 72,
   "combat": 33,
   "size": 1,
+  "respawn": 25,
   "id": "516"
  },
  {
   "name": "Black Knight",
   "hitpoints": 42,
+  "att": 25,
+  "str": 25,
+  "def": 25,
+  "mage": 1,
+  "range": 1,
+  "attbns": 18,
+  "strbns": 16,
+  "dstab": 73,
+  "dslash": 76,
+  "dcrush": 70,
+  "dmagic": -11,
+  "drange": 72,
   "combat": 32,
   "size": 1,
   "id": "4934"
@@ -2678,7 +2825,27 @@
   "drange": 1000,
   "combat": 120,
   "size": 1,
+  "respawn": 5,
   "id": "4067"
+ },
+ {
+  "name": "Black Knight Titan",
+  "hitpoints": 142,
+  "att": 91,
+  "str": 100,
+  "def": 91,
+  "mage": 1,
+  "range": 1,
+  "attbns": 27,
+  "strbns": 22,
+  "dstab": 18,
+  "dslash": 27,
+  "dcrush": 18,
+  "dmagic": 1000,
+  "drange": 1000,
+  "combat": 120,
+  "size": 1,
+  "id": "6360"
  },
  {
   "name": "Black Knight Titan (hard)",
@@ -2709,6 +2876,7 @@
   "range": 1,
   "combat": 19,
   "size": 2,
+  "respawn": 50,
   "id": "2839"
  },
  {
@@ -2720,6 +2888,7 @@
   "mage": 2,
   "range": 2,
   "combat": 2,
+  "respawn": 7,
   "id": "2912"
  },
  {
@@ -2734,7 +2903,22 @@
   "dmagic": -10,
   "combat": 172,
   "size": 3,
+  "respawn": 30,
   "id": "240"
+ },
+ {
+  "name": "Black demon",
+  "isDemon": true,
+  "hitpoints": 157,
+  "att": 145,
+  "str": 148,
+  "def": 152,
+  "mage": 1,
+  "range": 1,
+  "dmagic": -10,
+  "combat": 172,
+  "size": 3,
+  "id": "1432"
  },
  {
   "name": "Black demon",
@@ -2748,6 +2932,7 @@
   "dmagic": -10,
   "combat": 184,
   "size": 3,
+  "respawn": 30,
   "id": "7242"
  },
  {
@@ -2762,6 +2947,7 @@
   "dmagic": -5,
   "combat": 178,
   "size": 3,
+  "respawn": 30,
   "id": "7243"
  },
  {
@@ -2776,6 +2962,7 @@
   "dmagic": -10,
   "combat": 188,
   "size": 3,
+  "respawn": 30,
   "id": "7874"
  },
  {
@@ -2828,6 +3015,7 @@
   "drange": 50,
   "combat": 247,
   "size": 4,
+  "respawn": 30,
   "id": "7861"
  },
  {
@@ -2865,6 +3053,7 @@
   "drange": 72,
   "combat": 33,
   "size": 1,
+  "respawn": 25,
   "id": "1545"
  },
  {
@@ -2877,6 +3066,7 @@
   "range": 1,
   "combat": 27,
   "size": 2,
+  "respawn": 90,
   "id": "2849"
  },
  {
@@ -2889,6 +3079,7 @@
   "range": 1,
   "combat": 22,
   "size": 2,
+  "respawn": 20,
   "id": "3911"
  },
  {
@@ -2907,6 +3098,7 @@
   "drange": -24,
   "combat": 9,
   "size": 2,
+  "respawn": 300,
   "id": "4534"
  },
  {
@@ -2924,6 +3116,7 @@
   "drange": 16,
   "combat": 39,
   "size": 1,
+  "respawn": 300,
   "id": "4533"
  },
  {
@@ -2941,6 +3134,7 @@
   "drange": 50,
   "combat": 20,
   "size": 1,
+  "respawn": 50,
   "id": "2645"
  },
  {
@@ -2958,6 +3152,7 @@
   "drange": 50,
   "combat": 20,
   "size": 1,
+  "respawn": 50,
   "id": "2650"
  },
  {
@@ -2976,6 +3171,7 @@
   "drange": 55,
   "combat": 174,
   "size": 2,
+  "respawn": 25,
   "id": "11293"
  },
  {
@@ -2994,6 +3190,7 @@
   "drange": 55,
   "combat": 161,
   "size": 2,
+  "respawn": 25,
   "id": "11294"
  },
  {
@@ -3018,6 +3215,7 @@
   "range": 1,
   "combat": 76,
   "size": 2,
+  "respawn": 21,
   "id": "484"
  },
  {
@@ -3031,6 +3229,7 @@
   "range": 1,
   "combat": 81,
   "size": 2,
+  "respawn": 25,
   "id": "3138"
  },
  {
@@ -3043,6 +3242,7 @@
   "range": 1,
   "combat": 52,
   "size": 1,
+  "respawn": 50,
   "id": "1678"
  },
  {
@@ -3062,6 +3262,7 @@
   "drange": 50,
   "combat": 111,
   "size": 4,
+  "respawn": 30,
   "id": "265"
  },
  {
@@ -3074,6 +3275,7 @@
   "range": 1,
   "combat": 5,
   "size": 1,
+  "respawn": 50,
   "id": "11066"
  },
  {
@@ -3086,6 +3288,7 @@
   "range": 1,
   "combat": 7,
   "size": 2,
+  "respawn": 50,
   "id": "11067"
  },
  {
@@ -3121,6 +3324,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2613"
  },
  {
@@ -3134,6 +3338,7 @@
   "strbns": 20,
   "combat": 48,
   "size": 1,
+  "respawn": 30,
   "id": "3939"
  },
  {
@@ -3147,6 +3352,7 @@
   "range": 1,
   "combat": 137,
   "size": 2,
+  "respawn": 50,
   "id": "1224"
  },
  {
@@ -3160,6 +3366,19 @@
   "combat": 160,
   "size": 2,
   "id": "3508"
+ },
+ {
+  "name": "Bouncer",
+  "isDemon": true,
+  "hitpoints": 116,
+  "att": 120,
+  "str": 120,
+  "def": 120,
+  "mage": 1,
+  "range": 1,
+  "combat": 137,
+  "size": 2,
+  "id": "6355"
  },
  {
   "name": "Bouncer (hard)",
@@ -3260,6 +3479,7 @@
   "drange": -12,
   "combat": 5,
   "size": 1,
+  "respawn": 25,
   "id": "4107"
  },
  {
@@ -3272,6 +3492,7 @@
   "range": 1,
   "combat": 70,
   "size": 1,
+  "respawn": 30,
   "id": "4501"
  },
  {
@@ -3289,6 +3510,7 @@
   "drange": -12,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3685"
  },
  {
@@ -3308,6 +3530,7 @@
   "drange": 90,
   "combat": 131,
   "size": 4,
+  "respawn": 30,
   "id": "270"
  },
  {
@@ -3327,6 +3550,7 @@
   "drange": 90,
   "combat": 143,
   "size": 4,
+  "respawn": 30,
   "id": "7253"
  },
  {
@@ -3358,6 +3582,7 @@
   "drange": 50,
   "combat": 20,
   "size": 1,
+  "respawn": 50,
   "id": "2647"
  },
  {
@@ -3375,6 +3600,7 @@
   "drange": 50,
   "combat": 20,
   "size": 1,
+  "respawn": 50,
   "id": "2652"
  },
  {
@@ -3394,6 +3620,7 @@
   "drange": 50,
   "combat": 318,
   "size": 4,
+  "respawn": 30,
   "id": "7275"
  },
  {
@@ -3412,6 +3639,7 @@
   "drange": 50,
   "combat": 271,
   "size": 4,
+  "respawn": 30,
   "id": "7273"
  },
  {
@@ -3430,6 +3658,7 @@
   "drange": 50,
   "combat": 227,
   "size": 4,
+  "respawn": 30,
   "id": "2918"
  },
  {
@@ -3448,6 +3677,7 @@
   "drange": 50,
   "combat": 289,
   "size": 4,
+  "respawn": 30,
   "id": "7274"
  },
  {
@@ -3481,6 +3711,7 @@
   "drange": -42,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3902"
  },
  {
@@ -3510,6 +3741,7 @@
   "drange": 230,
   "combat": 470,
   "size": 5,
+  "respawn": 50,
   "id": "6503"
  },
  {
@@ -3518,7 +3750,7 @@
   "att": 350,
   "str": 300,
   "def": 225,
-  "mage": 1,
+  "mage": 140,
   "range": 200,
   "arange": 100,
   "rngbns": 30,
@@ -3528,6 +3760,7 @@
   "drange": 50,
   "combat": 470,
   "size": 5,
+  "respawn": 29,
   "id": "6609"
  },
  {
@@ -3546,6 +3779,7 @@
   "drange": 211,
   "combat": 264,
   "size": 3,
+  "respawn": 30,
   "id": "11993"
  },
  {
@@ -3559,6 +3793,7 @@
   "strbns": 20,
   "combat": 31,
   "size": 1,
+  "respawn": 50,
   "id": "1379"
  },
  {
@@ -3572,6 +3807,7 @@
   "strbns": 20,
   "combat": 25,
   "size": 1,
+  "respawn": 50,
   "id": "1383"
  },
  {
@@ -3583,6 +3819,7 @@
   "mage": 2,
   "range": 2,
   "combat": 2,
+  "respawn": 7,
   "id": "2911"
  },
  {
@@ -3600,6 +3837,7 @@
   "drange": 40,
   "combat": 49,
   "size": 2,
+  "respawn": 20,
   "id": "2474"
  },
  {
@@ -3617,6 +3855,7 @@
   "drange": 50,
   "combat": 64,
   "size": 2,
+  "respawn": 20,
   "id": "2475"
  },
  {
@@ -3634,6 +3873,7 @@
   "drange": 50,
   "combat": 68,
   "size": 2,
+  "respawn": 20,
   "id": "2476"
  },
  {
@@ -3663,6 +3903,7 @@
   "drange": 10,
   "combat": 6,
   "size": 1,
+  "respawn": 35,
   "id": "481"
  },
  {
@@ -3680,6 +3921,7 @@
   "drange": 95,
   "combat": 96,
   "size": 2,
+  "respawn": 15,
   "id": "483"
  },
  {
@@ -3697,6 +3939,7 @@
   "drange": 10,
   "combat": 23,
   "size": 2,
+  "respawn": 15,
   "id": "406"
  },
  {
@@ -3709,6 +3952,7 @@
   "range": 1,
   "combat": 3,
   "size": 1,
+  "respawn": 50,
   "id": "6434"
  },
  {
@@ -3726,6 +3970,7 @@
   "drange": 12,
   "combat": 26,
   "size": 1,
+  "respawn": 50,
   "id": "5334"
  },
  {
@@ -3743,6 +3988,7 @@
   "drange": 12,
   "combat": 24,
   "size": 1,
+  "respawn": 50,
   "id": "5335"
  },
  {
@@ -3755,7 +4001,20 @@
   "range": 1,
   "combat": 11,
   "size": 1,
+  "respawn": 50,
   "id": "5330"
+ },
+ {
+  "name": "Cave goblin miner",
+  "hitpoints": 10,
+  "att": 10,
+  "str": 12,
+  "def": 7,
+  "mage": 1,
+  "range": 1,
+  "combat": 11,
+  "size": 1,
+  "id": "5336"
  },
  {
   "name": "Cave horror",
@@ -3767,6 +4026,7 @@
   "range": 1,
   "combat": 80,
   "size": 2,
+  "respawn": 50,
   "id": "1047"
  },
  {
@@ -3797,6 +4057,7 @@
   "drange": 5,
   "combat": 37,
   "size": 1,
+  "respawn": 50,
   "id": "7424"
  },
  {
@@ -3809,6 +4070,7 @@
   "range": 1,
   "combat": 23,
   "size": 1,
+  "respawn": 15,
   "id": "480"
  },
  {
@@ -3826,6 +4088,7 @@
   "drange": -12,
   "combat": 4,
   "size": 1,
+  "respawn": 25,
   "id": "4111"
  },
  {
@@ -3847,6 +4110,7 @@
   "drange": 100,
   "combat": 318,
   "size": 5,
+  "respawn": 15,
   "id": "5862"
  },
  {
@@ -3866,6 +4130,7 @@
   "dmagic": 340,
   "drange": 5,
   "combat": 379,
+  "size": 1,
   "id": "11482"
  },
  {
@@ -3883,6 +4148,7 @@
   "drange": 70,
   "combat": 305,
   "size": 3,
+  "respawn": 100,
   "id": "2054"
  },
  {
@@ -3902,6 +4168,7 @@
   "drange": 80,
   "combat": 202,
   "size": 1,
+  "respawn": 50,
   "id": "6619"
  },
  {
@@ -3932,6 +4199,7 @@
   "range": 1,
   "combat": 13,
   "size": 1,
+  "respawn": 25,
   "id": "520"
  },
  {
@@ -3951,6 +4219,7 @@
   "drange": 14,
   "combat": 37,
   "size": 1,
+  "respawn": 50,
   "id": "532"
  },
  {
@@ -3970,6 +4239,7 @@
   "drange": 35,
   "combat": 48,
   "size": 1,
+  "respawn": 150,
   "id": "291"
  },
  {
@@ -4018,6 +4288,7 @@
   "drange": -42,
   "combat": 1,
   "size": 1,
+  "respawn": 25,
   "id": "1173"
  },
  {
@@ -4036,6 +4307,7 @@
   "mage": 1,
   "range": 1,
   "combat": 1,
+  "respawn": 7,
   "id": "2910"
  },
  {
@@ -4071,6 +4343,7 @@
   "range": 1,
   "combat": 170,
   "size": 3,
+  "respawn": 30,
   "id": "4987"
  },
  {
@@ -4101,6 +4374,7 @@
   "dcrush": 19,
   "combat": 83,
   "size": 2,
+  "respawn": 50,
   "id": "4373"
  },
  {
@@ -4116,6 +4390,7 @@
   "dcrush": 8,
   "combat": 13,
   "size": 1,
+  "respawn": 50,
   "id": "1206"
  },
  {
@@ -4146,7 +4421,23 @@
   "dmagic": 10,
   "combat": 37,
   "size": 2,
+  "respawn": 15,
   "id": "419"
+ },
+ {
+  "name": "Cockatrice",
+  "hitpoints": 37,
+  "att": 22,
+  "str": 37,
+  "def": 37,
+  "mage": 1,
+  "range": 1,
+  "dstab": 10,
+  "dslash": 10,
+  "dmagic": 10,
+  "combat": 37,
+  "size": 2,
+  "id": "420"
  },
  {
   "name": "Colonel Radick",
@@ -4163,6 +4454,7 @@
   "dcrush": 34,
   "combat": 38,
   "size": 1,
+  "respawn": 50,
   "id": "4406"
  },
  {
@@ -4201,6 +4493,7 @@
   "drange": 100,
   "combat": 596,
   "size": 2,
+  "respawn": 150,
   "id": "2205"
  },
  {
@@ -4219,6 +4512,7 @@
   "drange": 2,
   "combat": 132,
   "size": 1,
+  "respawn": 50,
   "id": "2920"
  },
  {
@@ -4243,6 +4537,7 @@
   "range": 1,
   "combat": 63,
   "size": 2,
+  "respawn": 25,
   "id": "4694"
  },
  {
@@ -4261,6 +4556,7 @@
   "drange": 230,
   "combat": 785,
   "size": 5,
+  "respawn": 50,
   "id": "319"
  },
  {
@@ -4503,7 +4799,27 @@
   "drange": -21,
   "combat": 2,
   "size": 2,
+  "respawn": 45,
   "id": "2790"
+ },
+ {
+  "name": "Cow",
+  "hitpoints": 8,
+  "att": 1,
+  "str": 1,
+  "def": 1,
+  "mage": 1,
+  "range": 1,
+  "attbns": -15,
+  "strbns": -15,
+  "dstab": -21,
+  "dslash": -21,
+  "dcrush": -21,
+  "dmagic": -21,
+  "drange": -21,
+  "combat": 2,
+  "size": 2,
+  "id": "6401"
  },
  {
   "name": "Cow (hard)",
@@ -4541,6 +4857,7 @@
   "drange": -26,
   "combat": 2,
   "size": 2,
+  "respawn": 45,
   "id": "2792"
  },
  {
@@ -4553,6 +4870,7 @@
   "range": 1,
   "combat": 23,
   "size": 2,
+  "respawn": 10,
   "id": "4819"
  },
  {
@@ -4565,6 +4883,7 @@
   "range": 1,
   "combat": 21,
   "size": 1,
+  "respawn": 5,
   "id": "4822"
  },
  {
@@ -4578,6 +4897,7 @@
   "range": 1,
   "combat": 8,
   "size": 1,
+  "respawn": 15,
   "id": "448"
  },
  {
@@ -4591,6 +4911,7 @@
   "range": 1,
   "combat": 7,
   "size": 1,
+  "respawn": 15,
   "id": "450"
  },
  {
@@ -4604,7 +4925,21 @@
   "range": 1,
   "combat": 12,
   "size": 2,
+  "respawn": 15,
   "id": "453"
+ },
+ {
+  "name": "Crawling Hand",
+  "isUndead": true,
+  "hitpoints": 19,
+  "att": 11,
+  "str": 7,
+  "def": 9,
+  "mage": 1,
+  "range": 1,
+  "combat": 12,
+  "size": 2,
+  "id": "456"
  },
  {
   "name": "Crazy archaeologist",
@@ -4625,6 +4960,7 @@
   "drange": 250,
   "combat": 204,
   "size": 1,
+  "respawn": 50,
   "id": "6618"
  },
  {
@@ -4654,6 +4990,7 @@
   "drange": 20,
   "combat": 63,
   "size": 2,
+  "respawn": 40,
   "id": "4184"
  },
  {
@@ -4715,6 +5052,7 @@
   "range": 1,
   "combat": 43,
   "size": 1,
+  "respawn": 50,
   "id": "1679"
  },
  {
@@ -4732,6 +5070,7 @@
   "drange": 20,
   "combat": 56,
   "size": 1,
+  "respawn": 50,
   "id": "1683"
  },
  {
@@ -4880,6 +5219,7 @@
   "drange": 5,
   "combat": 3,
   "size": 1,
+  "respawn": 25,
   "id": "3279"
  },
  {
@@ -4946,6 +5286,7 @@
   "range": 1,
   "combat": 56,
   "size": 2,
+  "respawn": 30,
   "id": "2097"
  },
  {
@@ -4958,6 +5299,7 @@
   "range": 1,
   "combat": 106,
   "size": 2,
+  "respawn": 15,
   "id": "2137"
  },
  {
@@ -4972,6 +5314,7 @@
   "strbns": 30,
   "combat": 81,
   "size": 2,
+  "respawn": 25,
   "id": "2235"
  },
  {
@@ -4984,6 +5327,7 @@
   "range": 1,
   "combat": 56,
   "size": 2,
+  "respawn": 30,
   "id": "2463"
  },
  {
@@ -4996,6 +5340,7 @@
   "range": 1,
   "combat": 76,
   "size": 2,
+  "respawn": 30,
   "id": "2464"
  },
  {
@@ -5061,6 +5406,7 @@
   "range": 1,
   "combat": 74,
   "size": 1,
+  "respawn": 30,
   "id": "970"
  },
  {
@@ -5075,6 +5421,7 @@
   "drange": 50,
   "combat": 92,
   "size": 2,
+  "respawn": 30,
   "id": "973"
  },
  {
@@ -5104,6 +5451,7 @@
   "drange": 150,
   "combat": 88,
   "size": 1,
+  "respawn": 30,
   "id": "2259"
  },
  {
@@ -5123,6 +5471,7 @@
   "drange": 50,
   "combat": 90,
   "size": 1,
+  "respawn": 30,
   "id": "3185"
  },
  {
@@ -5139,6 +5488,7 @@
   "drange": 10,
   "combat": 303,
   "size": 3,
+  "respawn": 150,
   "id": "2266"
  },
  {
@@ -5155,6 +5505,7 @@
   "drange": 255,
   "combat": 303,
   "size": 3,
+  "respawn": 150,
   "id": "2267"
  },
  {
@@ -5172,6 +5523,7 @@
   "drange": 550,
   "combat": 303,
   "size": 3,
+  "respawn": 150,
   "id": "2265"
  },
  {
@@ -5184,6 +5536,7 @@
   "range": 1,
   "combat": 70,
   "size": 2,
+  "respawn": 30,
   "id": "2264"
  },
  {
@@ -5352,6 +5705,7 @@
   "drange": 100,
   "combat": 182,
   "size": 3,
+  "respawn": 50,
   "id": "4005"
  },
  {
@@ -5369,6 +5723,7 @@
   "drange": 10,
   "combat": 75,
   "size": 1,
+  "respawn": 3,
   "id": "320"
  },
  {
@@ -5386,6 +5741,7 @@
   "dcrush": 59,
   "combat": 8,
   "size": 1,
+  "respawn": 50,
   "id": "531"
  },
  {
@@ -5403,6 +5759,7 @@
   "dcrush": 139,
   "combat": 145,
   "size": 1,
+  "respawn": 50,
   "id": "6606"
  },
  {
@@ -5418,6 +5775,7 @@
   "dcrush": 40,
   "combat": 62,
   "size": 1,
+  "respawn": 50,
   "id": "11109"
  },
  {
@@ -5433,6 +5791,7 @@
   "dcrush": 40,
   "combat": 51,
   "size": 1,
+  "respawn": 50,
   "id": "11110"
  },
  {
@@ -5448,6 +5807,7 @@
   "dcrush": 40,
   "combat": 37,
   "size": 1,
+  "respawn": 50,
   "id": "11111"
  },
  {
@@ -5461,6 +5821,7 @@
   "dmagic": 3,
   "combat": 20,
   "size": 1,
+  "respawn": 50,
   "id": "510"
  },
  {
@@ -5474,6 +5835,7 @@
   "dmagic": 3,
   "combat": 7,
   "size": 1,
+  "respawn": 50,
   "id": "512"
  },
  {
@@ -5487,6 +5849,7 @@
   "dmagic": 5,
   "combat": 23,
   "size": 1,
+  "respawn": 50,
   "id": "2056"
  },
  {
@@ -5500,6 +5863,7 @@
   "dmagic": 5,
   "combat": 22,
   "size": 1,
+  "respawn": 50,
   "id": "2057"
  },
  {
@@ -5513,6 +5877,7 @@
   "dmagic": 5,
   "combat": 11,
   "size": 1,
+  "respawn": 50,
   "id": "2058"
  },
  {
@@ -5543,6 +5908,7 @@
   "drange": 16,
   "combat": 34,
   "size": 1,
+  "respawn": 30,
   "id": "3021"
  },
  {
@@ -5572,6 +5938,7 @@
   "range": 1,
   "combat": 83,
   "size": 2,
+  "respawn": 35,
   "id": "509"
  },
  {
@@ -5698,6 +6065,7 @@
   "dmagic": 50,
   "combat": 275,
   "size": 2,
+  "respawn": 100,
   "id": "7144"
  },
  {
@@ -5719,6 +6087,7 @@
   "drange": 300,
   "combat": 276,
   "size": 1,
+  "respawn": 50,
   "id": "7806"
  },
  {
@@ -5754,6 +6123,7 @@
   "drange": 5,
   "combat": 24,
   "size": 2,
+  "respawn": 25,
   "id": "459"
  },
  {
@@ -5764,6 +6134,7 @@
   "def": 22,
   "combat": 27,
   "size": 2,
+  "respawn": 50,
   "id": "4649"
  },
  {
@@ -5852,6 +6223,7 @@
   "drange": 85,
   "combat": 169,
   "size": 2,
+  "respawn": 15,
   "id": "7279"
  },
  {
@@ -5885,6 +6257,7 @@
   "range": 1,
   "combat": 88,
   "size": 2,
+  "respawn": 90,
   "id": "3426"
  },
  {
@@ -5909,6 +6282,7 @@
   "range": 1,
   "combat": 13,
   "size": 1,
+  "respawn": 250,
   "id": "8997"
  },
  {
@@ -5940,6 +6314,7 @@
   "dcrush": 10,
   "combat": 34,
   "size": 1,
+  "respawn": 50,
   "id": "302"
  },
  {
@@ -5954,6 +6329,7 @@
   "dmagic": -10,
   "combat": 91,
   "size": 3,
+  "respawn": 30,
   "id": "8995"
  },
  {
@@ -6025,6 +6401,7 @@
   "drange": 100,
   "combat": 192,
   "size": 5,
+  "respawn": 20,
   "id": "8612"
  },
  {
@@ -6037,6 +6414,7 @@
   "range": 1,
   "combat": 33,
   "size": 1,
+  "respawn": 25,
   "id": "3258"
  },
  {
@@ -6054,6 +6432,7 @@
   "drange": -21,
   "combat": 3,
   "size": 1,
+  "respawn": 25,
   "id": "3263"
  },
  {
@@ -6073,6 +6452,7 @@
   "drange": -42,
   "combat": 1,
   "size": 1,
+  "respawn": 25,
   "id": "1838"
  },
  {
@@ -6092,6 +6472,7 @@
   "drange": -42,
   "combat": 1,
   "size": 1,
+  "respawn": 25,
   "id": "2001"
  },
  {
@@ -6127,6 +6508,7 @@
   "drange": 320,
   "combat": 758,
   "size": 7,
+  "respawn": 20,
   "id": "12166"
  },
  {
@@ -6148,6 +6530,7 @@
   "drange": 300,
   "combat": 538,
   "size": 7,
+  "respawn": 20,
   "id": "12193"
  },
  {
@@ -6160,6 +6543,7 @@
   "range": 1,
   "combat": 12,
   "size": 2,
+  "respawn": 50,
   "id": "2865"
  },
  {
@@ -6196,6 +6580,7 @@
   "range": 1,
   "combat": 93,
   "size": 1,
+  "respawn": 15,
   "id": "423"
  },
  {
@@ -6208,6 +6593,7 @@
   "range": 1,
   "combat": 110,
   "size": 1,
+  "respawn": 15,
   "id": "7249"
  },
  {
@@ -6238,6 +6624,7 @@
   "dmagic": 5,
   "combat": 20,
   "size": 1,
+  "respawn": 25,
   "id": "292"
  },
  {
@@ -6270,6 +6657,7 @@
   "drange": 10,
   "combat": 7,
   "size": 1,
+  "respawn": 50,
   "id": "1408"
  },
  {
@@ -6285,6 +6673,7 @@
   "drange": 7,
   "combat": 44,
   "size": 1,
+  "respawn": 25,
   "id": "1354"
  },
  {
@@ -6300,6 +6689,7 @@
   "drange": 7,
   "combat": 48,
   "size": 1,
+  "respawn": 25,
   "id": "1355"
  },
  {
@@ -6315,6 +6705,7 @@
   "drange": 7,
   "combat": 49,
   "size": 1,
+  "respawn": 25,
   "id": "1356"
  },
  {
@@ -6332,6 +6723,7 @@
   "drange": -12,
   "combat": 4,
   "size": 1,
+  "respawn": 25,
   "id": "4095"
  },
  {
@@ -6356,6 +6748,7 @@
   "range": 30,
   "combat": 35,
   "size": 1,
+  "respawn": 50,
   "id": "1366"
  },
  {
@@ -6373,6 +6766,7 @@
   "drange": 30,
   "combat": 51,
   "size": 1,
+  "respawn": 30,
   "id": "2840"
  },
  {
@@ -6385,6 +6779,7 @@
   "dmagic": 15,
   "combat": 13,
   "size": 1,
+  "respawn": 50,
   "id": "1558"
  },
  {
@@ -6402,6 +6797,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2618"
  },
  {
@@ -6414,6 +6810,7 @@
   "range": 1,
   "combat": 1,
   "size": 1,
+  "respawn": 50,
   "id": "3675"
  },
  {
@@ -6426,6 +6823,7 @@
   "range": 1,
   "combat": 129,
   "size": 1,
+  "respawn": 25,
   "id": "6607"
  },
  {
@@ -6444,6 +6842,7 @@
   "drange": 70,
   "combat": 90,
   "size": 1,
+  "respawn": 30,
   "id": "5295"
  },
  {
@@ -6460,6 +6859,7 @@
   "drange": 50,
   "combat": 108,
   "size": 1,
+  "respawn": 30,
   "id": "5293"
  },
  {
@@ -6519,6 +6919,7 @@
   "drange": 20,
   "combat": 83,
   "size": 4,
+  "respawn": 50,
   "id": "817"
  },
  {
@@ -6553,6 +6954,7 @@
   "dcrush": 19,
   "combat": 83,
   "size": 2,
+  "respawn": 12,
   "id": "4381"
  },
  {
@@ -6564,6 +6966,7 @@
   "mage": 1,
   "range": 1,
   "size": 1,
+  "respawn": 100,
   "id": "6624"
  },
  {
@@ -6610,6 +7013,7 @@
   "drange": 2,
   "combat": 166,
   "size": 1,
+  "respawn": 50,
   "id": "5564"
  },
  {
@@ -6627,6 +7031,7 @@
   "drange": 30,
   "combat": 101,
   "size": 2,
+  "respawn": 51,
   "id": "6594"
  },
  {
@@ -6646,6 +7051,7 @@
   "drange": 30,
   "combat": 86,
   "size": 2,
+  "respawn": 51,
   "id": "7234"
  },
  {
@@ -6665,6 +7071,7 @@
   "drange": -26,
   "combat": 2,
   "size": 2,
+  "respawn": 35,
   "id": "4927"
  },
  {
@@ -6734,6 +7141,7 @@
   "range": 1,
   "combat": 159,
   "size": 1,
+  "respawn": 50,
   "id": "1870"
  },
  {
@@ -6747,13 +7155,7 @@
   "id": "6306"
  },
  {
-  "name": "Evil creature",
-  "hitpoints": 1,
-  "size": 1,
-  "id": "1241"
- },
- {
-  "name": "Evil creature",
+  "name": "Evil Creature",
   "hitpoints": 1,
   "att": 1,
   "str": 1,
@@ -6762,7 +7164,7 @@
   "range": 1,
   "combat": 1,
   "size": 1,
-  "id": "1244"
+  "id": "1241"
  },
  {
   "name": "Evil spirit",
@@ -6787,6 +7189,7 @@
   "range": 1,
   "combat": 51,
   "size": 2,
+  "respawn": 8,
   "id": "1273"
  },
  {
@@ -6799,6 +7202,7 @@
   "range": 1,
   "combat": 25,
   "size": 2,
+  "respawn": 50,
   "id": "1274"
  },
  {
@@ -6816,6 +7220,7 @@
   "drange": 55,
   "combat": 109,
   "size": 2,
+  "respawn": 10,
   "id": "5126"
  },
  {
@@ -6862,6 +7267,7 @@
   "strbns": 6,
   "combat": 7,
   "size": 1,
+  "respawn": 25,
   "id": "3114"
  },
  {
@@ -6899,6 +7305,7 @@
   "range": 1,
   "combat": 77,
   "size": 1,
+  "respawn": 25,
   "id": "3137"
  },
  {
@@ -6925,6 +7332,7 @@
   "range": 1,
   "combat": 61,
   "size": 1,
+  "respawn": 50,
   "id": "3237"
  },
  {
@@ -7007,6 +7415,7 @@
   "drange": 15,
   "combat": 49,
   "size": 2,
+  "respawn": 5,
   "id": "626"
  },
  {
@@ -7038,6 +7447,7 @@
   "range": 20,
   "combat": 35,
   "size": 1,
+  "respawn": 50,
   "id": "1365"
  },
  {
@@ -7055,6 +7465,7 @@
   "dcrush": 2,
   "combat": 86,
   "size": 2,
+  "respawn": 30,
   "id": "2075"
  },
  {
@@ -7072,6 +7483,7 @@
   "dcrush": 2,
   "combat": 109,
   "size": 2,
+  "respawn": 30,
   "id": "7251"
  },
  {
@@ -7092,6 +7504,7 @@
   "drange": -10,
   "combat": 104,
   "size": 2,
+  "respawn": 30,
   "id": "7252"
  },
  {
@@ -7104,6 +7517,7 @@
   "dmagic": 15,
   "combat": 13,
   "size": 1,
+  "respawn": 50,
   "id": "1556"
  },
  {
@@ -7129,6 +7543,7 @@
   "def": 85,
   "combat": 120,
   "size": 1,
+  "respawn": 50,
   "id": "1285"
  },
  {
@@ -7217,6 +7632,7 @@
   "drange": 15,
   "combat": 28,
   "size": 2,
+  "respawn": 15,
   "id": "2498"
  },
  {
@@ -7234,6 +7650,7 @@
   "drange": 15,
   "combat": 35,
   "size": 2,
+  "respawn": 15,
   "id": "2499"
  },
  {
@@ -7251,6 +7668,7 @@
   "drange": 15,
   "combat": 41,
   "size": 2,
+  "respawn": 15,
   "id": "2500"
  },
  {
@@ -7296,6 +7714,7 @@
   "dcrush": 1,
   "combat": 23,
   "size": 1,
+  "respawn": 5,
   "id": "1429"
  },
  {
@@ -7312,6 +7731,22 @@
   "combat": 15,
   "size": 1,
   "id": "3296"
+ },
+ {
+  "name": "Forester",
+  "hitpoints": 17,
+  "att": 14,
+  "str": 13,
+  "def": 8,
+  "mage": 1,
+  "range": 1,
+  "dstab": 4,
+  "dslash": 3,
+  "dcrush": 5,
+  "combat": 15,
+  "size": 1,
+  "respawn": 50,
+  "id": "7238"
  },
  {
   "name": "Forgotten Soul",
@@ -7361,6 +7796,7 @@
   "range": 1,
   "combat": 20,
   "size": 1,
+  "respawn": 50,
   "id": "10544"
  },
  {
@@ -7380,6 +7816,7 @@
   "drange": 15,
   "combat": 20,
   "size": 1,
+  "respawn": 25,
   "id": "4773"
  },
  {
@@ -7399,6 +7836,7 @@
   "drange": 30,
   "combat": 19,
   "size": 1,
+  "respawn": 10,
   "id": "3901"
  },
  {
@@ -7432,6 +7870,7 @@
   "strbns": 20,
   "combat": 48,
   "size": 1,
+  "respawn": 30,
   "id": "3938"
  },
  {
@@ -7466,6 +7905,7 @@
   "dcrush": 30,
   "combat": 102,
   "size": 1,
+  "respawn": 10,
   "id": "5826"
  },
  {
@@ -7500,6 +7940,7 @@
   "dcrush": 30,
   "combat": 74,
   "size": 1,
+  "respawn": 10,
   "id": "5823"
  },
  {
@@ -7512,6 +7953,7 @@
   "range": 1,
   "combat": 5,
   "size": 1,
+  "respawn": 50,
   "id": "8702"
  },
  {
@@ -7576,6 +8018,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2625"
  },
  {
@@ -7670,6 +8113,7 @@
   "range": 1,
   "combat": 4,
   "size": 1,
+  "respawn": 50,
   "id": "3275"
  },
  {
@@ -7682,6 +8126,7 @@
   "range": 1,
   "combat": 3,
   "size": 1,
+  "respawn": 50,
   "id": "3276"
  },
  {
@@ -7698,6 +8143,7 @@
   "drange": 20,
   "combat": 111,
   "size": 3,
+  "respawn": 15,
   "id": "412"
  },
  {
@@ -7753,19 +8199,8 @@
   "drange": 90,
   "combat": 624,
   "size": 4,
+  "respawn": 150,
   "id": "2215"
- },
- {
-  "name": "General Khazard",
-  "hitpoints": 170,
-  "att": 75,
-  "str": 78,
-  "def": 80,
-  "mage": 1,
-  "range": 1,
-  "combat": 142,
-  "size": 1,
-  "id": "1213"
  },
  {
   "name": "Georgy",
@@ -7782,6 +8217,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2620"
  },
  {
@@ -7795,6 +8231,7 @@
   "range": 1,
   "combat": 30,
   "size": 2,
+  "respawn": 40,
   "id": "946"
  },
  {
@@ -7853,6 +8290,7 @@
   "drange": 5,
   "combat": 19,
   "size": 1,
+  "respawn": 40,
   "id": "85"
  },
  {
@@ -7872,6 +8310,7 @@
   "drange": 55,
   "combat": 77,
   "size": 1,
+  "respawn": 40,
   "id": "2527"
  },
  {
@@ -7891,6 +8330,7 @@
   "drange": 45,
   "combat": 76,
   "size": 1,
+  "respawn": 40,
   "id": "2531"
  },
  {
@@ -7924,6 +8364,7 @@
   "range": 1,
   "combat": 24,
   "size": 1,
+  "respawn": 50,
   "id": "5370"
  },
  {
@@ -7966,6 +8407,7 @@
   "range": 1,
   "combat": 42,
   "size": 1,
+  "respawn": 35,
   "id": "289"
  },
  {
@@ -8007,6 +8449,7 @@
   "drange": 70,
   "combat": 45,
   "size": 2,
+  "respawn": 25,
   "id": "4799"
  },
  {
@@ -8024,6 +8467,7 @@
   "drange": 60,
   "combat": 230,
   "size": 3,
+  "respawn": 16,
   "id": "5779"
  },
  {
@@ -8067,6 +8511,7 @@
   "drange": 250,
   "combat": 137,
   "size": 2,
+  "respawn": 50,
   "id": "2261"
  },
  {
@@ -8132,6 +8577,7 @@
   "drange": 8,
   "combat": 27,
   "size": 2,
+  "respawn": 35,
   "id": "2834"
  },
  {
@@ -8144,6 +8590,7 @@
   "range": 1,
   "combat": 76,
   "size": 2,
+  "respawn": 50,
   "id": "1680"
  },
  {
@@ -8161,6 +8608,7 @@
   "drange": 20,
   "combat": 79,
   "size": 1,
+  "respawn": 50,
   "id": "1684"
  },
  {
@@ -8173,6 +8621,7 @@
   "range": 1,
   "combat": 99,
   "size": 2,
+  "respawn": 50,
   "id": "477"
  },
  {
@@ -8185,6 +8634,7 @@
   "range": 1,
   "combat": 13,
   "size": 2,
+  "respawn": 50,
   "id": "8700"
  },
  {
@@ -8217,6 +8667,7 @@
   "dmagic": 2,
   "combat": 13,
   "size": 1,
+  "respawn": 50,
   "id": "1041"
  },
  {
@@ -8229,6 +8680,7 @@
   "range": 1,
   "combat": 26,
   "size": 2,
+  "respawn": 30,
   "id": "2510"
  },
  {
@@ -8241,6 +8693,7 @@
   "range": 1,
   "combat": 3,
   "size": 2,
+  "respawn": 30,
   "id": "2856"
  },
  {
@@ -8253,6 +8706,7 @@
   "range": 1,
   "combat": 6,
   "size": 2,
+  "respawn": 30,
   "id": "2862"
  },
  {
@@ -8294,6 +8748,7 @@
   "range": 1,
   "combat": 80,
   "size": 2,
+  "respawn": 15,
   "id": "680"
  },
  {
@@ -8311,6 +8766,7 @@
   "drange": 40,
   "combat": 100,
   "size": 1,
+  "respawn": 50,
   "id": "6440"
  },
  {
@@ -8366,6 +8822,7 @@
   "drange": 10,
   "combat": 50,
   "size": 1,
+  "respawn": 25,
   "id": "2477"
  },
  {
@@ -8385,6 +8842,7 @@
   "drange": -10,
   "combat": 2,
   "size": 1,
+  "respawn": 30,
   "id": "3017"
  },
  {
@@ -8397,6 +8855,7 @@
   "range": 1,
   "combat": 27,
   "size": 1,
+  "respawn": 30,
   "id": "3018"
  },
  {
@@ -8502,6 +8961,7 @@
   "drange": -42,
   "combat": 3,
   "size": 1,
+  "respawn": 60,
   "id": "5968"
  },
  {
@@ -8522,6 +8982,7 @@
   "drange": -42,
   "combat": 1,
   "size": 1,
+  "respawn": 60,
   "id": "5969"
  },
  {
@@ -8592,6 +9053,7 @@
   "drange": -42,
   "combat": 1,
   "size": 1,
+  "respawn": 50,
   "id": "6077"
  },
  {
@@ -8606,6 +9068,7 @@
   "strbns": 13,
   "combat": 23,
   "size": 1,
+  "respawn": 30,
   "id": "6081"
  },
  {
@@ -8624,6 +9087,7 @@
   "drange": 8,
   "combat": 23,
   "size": 1,
+  "respawn": 30,
   "id": "6082"
  },
  {
@@ -8662,6 +9126,7 @@
   "drange": 4,
   "combat": 1,
   "size": 1,
+  "respawn": 30,
   "id": "4973"
  },
  {
@@ -8682,6 +9147,7 @@
   "drange": 4,
   "combat": 3,
   "size": 1,
+  "respawn": 30,
   "id": "5966"
  },
  {
@@ -8701,6 +9167,7 @@
   "drange": -42,
   "combat": 1,
   "size": 1,
+  "respawn": 50,
   "id": "6086"
  },
  {
@@ -8718,6 +9185,7 @@
   "drange": 10,
   "combat": 23,
   "size": 1,
+  "respawn": 50,
   "id": "1792"
  },
  {
@@ -8732,6 +9200,7 @@
   "strbns": 12,
   "combat": 5,
   "size": 1,
+  "respawn": 35,
   "id": "655"
  },
  {
@@ -8744,6 +9213,7 @@
   "range": 1,
   "combat": 17,
   "size": 1,
+  "respawn": 60,
   "id": "2245"
  },
  {
@@ -8756,6 +9226,7 @@
   "range": 1,
   "combat": 12,
   "size": 1,
+  "respawn": 60,
   "id": "2246"
  },
  {
@@ -8768,6 +9239,7 @@
   "range": 1,
   "combat": 12,
   "size": 1,
+  "respawn": 80,
   "id": "2247"
  },
  {
@@ -8780,6 +9252,7 @@
   "range": 1,
   "combat": 15,
   "size": 1,
+  "respawn": 60,
   "id": "2248"
  },
  {
@@ -8792,6 +9265,7 @@
   "range": 1,
   "combat": 13,
   "size": 1,
+  "respawn": 60,
   "id": "2249"
  },
  {
@@ -8806,6 +9280,7 @@
   "strbns": 12,
   "combat": 5,
   "size": 1,
+  "respawn": 35,
   "id": "2484"
  },
  {
@@ -8823,6 +9298,7 @@
   "drange": 4,
   "combat": 13,
   "size": 1,
+  "respawn": 35,
   "id": "2485"
  },
  {
@@ -8837,6 +9313,7 @@
   "strbns": 12,
   "combat": 11,
   "size": 1,
+  "respawn": 35,
   "id": "2486"
  },
  {
@@ -8851,6 +9328,7 @@
   "strbns": 22,
   "combat": 16,
   "size": 1,
+  "respawn": 35,
   "id": "2487"
  },
  {
@@ -8868,6 +9346,7 @@
   "drange": 14,
   "combat": 25,
   "size": 1,
+  "respawn": 35,
   "id": "2488"
  },
  {
@@ -8887,6 +9366,7 @@
   "drange": -15,
   "combat": 2,
   "size": 1,
+  "respawn": 35,
   "id": "3028"
  },
  {
@@ -8916,6 +9396,7 @@
   "dcrush": 6,
   "combat": 42,
   "size": 1,
+  "respawn": 250,
   "id": "5369"
  },
  {
@@ -8940,6 +9421,7 @@
   "dcrush": 21,
   "combat": 68,
   "size": 2,
+  "respawn": 30,
   "id": "4367"
  },
  {
@@ -8952,6 +9434,7 @@
   "range": 1,
   "combat": 145,
   "size": 2,
+  "respawn": 50,
   "id": "1834"
  },
  {
@@ -8964,6 +9447,7 @@
   "range": 1,
   "combat": 149,
   "size": 2,
+  "respawn": 25,
   "id": "3141"
  },
  {
@@ -8978,6 +9462,7 @@
   "dcrush": 3,
   "combat": 12,
   "size": 1,
+  "respawn": 50,
   "id": "5372"
  },
  {
@@ -9049,6 +9534,7 @@
   "drange": 50,
   "combat": 200,
   "size": 1,
+  "respawn": 15,
   "id": "7278"
  },
  {
@@ -9114,6 +9600,7 @@
   "dmagic": -10,
   "combat": 92,
   "size": 3,
+  "respawn": 15,
   "id": "2025"
  },
  {
@@ -9128,6 +9615,7 @@
   "dmagic": -10,
   "combat": 101,
   "size": 3,
+  "respawn": 30,
   "id": "7244"
  },
  {
@@ -9142,6 +9630,7 @@
   "dmagic": -10,
   "combat": 100,
   "size": 3,
+  "respawn": 30,
   "id": "7245"
  },
  {
@@ -9156,6 +9645,7 @@
   "dmagic": -10,
   "combat": 113,
   "size": 3,
+  "respawn": 30,
   "id": "7246"
  },
  {
@@ -9170,6 +9660,7 @@
   "dmagic": -10,
   "combat": 104,
   "size": 3,
+  "respawn": 30,
   "id": "7871"
  },
  {
@@ -9189,6 +9680,7 @@
   "drange": 20,
   "combat": 79,
   "size": 4,
+  "respawn": 30,
   "id": "260"
  },
  {
@@ -9208,6 +9700,7 @@
   "drange": 20,
   "combat": 88,
   "size": 4,
+  "respawn": 30,
   "id": "7868"
  },
  {
@@ -9243,6 +9736,7 @@
   "dcrush": 22,
   "combat": 22,
   "size": 1,
+  "respawn": 50,
   "id": "4919"
  },
  {
@@ -9255,6 +9749,7 @@
   "range": 1,
   "combat": 21,
   "size": 2,
+  "respawn": 50,
   "id": "2838"
  },
  {
@@ -9267,6 +9762,7 @@
   "range": 1,
   "combat": 42,
   "size": 2,
+  "respawn": 50,
   "id": "3423"
  },
  {
@@ -9290,6 +9786,7 @@
   "range": 1,
   "combat": 33,
   "size": 2,
+  "respawn": 50,
   "id": "3424"
  },
  {
@@ -9302,6 +9799,7 @@
   "range": 1,
   "combat": 36,
   "size": 1,
+  "respawn": 50,
   "id": "3425"
  },
  {
@@ -9352,6 +9850,7 @@
   "drange": 5,
   "combat": 22,
   "size": 1,
+  "respawn": 50,
   "id": "397"
  },
  {
@@ -9371,7 +9870,23 @@
   "drange": 5,
   "combat": 19,
   "size": 1,
+  "respawn": 50,
   "id": "399"
+ },
+ {
+  "name": "Guard",
+  "hitpoints": 30,
+  "att": 16,
+  "str": 20,
+  "def": 12,
+  "mage": 1,
+  "range": 1,
+  "dstab": 7,
+  "dslash": 7,
+  "drange": 7,
+  "combat": 22,
+  "size": 1,
+  "id": "995"
  },
  {
   "name": "Guard",
@@ -9390,6 +9905,7 @@
   "drange": 20,
   "combat": 21,
   "size": 1,
+  "respawn": 50,
   "id": "1546"
  },
  {
@@ -9407,6 +9923,7 @@
   "drange": 12,
   "combat": 26,
   "size": 1,
+  "respawn": 50,
   "id": "2316"
  },
  {
@@ -9424,6 +9941,7 @@
   "drange": 12,
   "combat": 24,
   "size": 1,
+  "respawn": 50,
   "id": "2317"
  },
  {
@@ -9444,6 +9962,7 @@
   "drange": 15,
   "combat": 22,
   "size": 1,
+  "respawn": 50,
   "id": "3270"
  },
  {
@@ -9480,6 +9999,7 @@
   "drange": 38,
   "combat": 37,
   "size": 1,
+  "respawn": 25,
   "id": "4099"
  },
  {
@@ -9495,6 +10015,7 @@
   "drange": 7,
   "combat": 22,
   "size": 1,
+  "respawn": 25,
   "id": "4522"
  },
  {
@@ -9512,7 +10033,25 @@
   "drange": 19,
   "combat": 45,
   "size": 1,
+  "respawn": 50,
   "id": "4660"
+ },
+ {
+  "name": "Guard",
+  "hitpoints": 60,
+  "att": 32,
+  "str": 32,
+  "def": 39,
+  "attbns": 9,
+  "strbns": 14,
+  "dstab": 17,
+  "dslash": 15,
+  "dcrush": 19,
+  "dmagic": -3,
+  "drange": 19,
+  "combat": 45,
+  "size": 1,
+  "id": "4661"
  },
  {
   "name": "Guard",
@@ -9531,6 +10070,7 @@
   "drange": 3,
   "combat": 10,
   "size": 1,
+  "respawn": 100,
   "id": "5185"
  },
  {
@@ -9550,6 +10090,7 @@
   "drange": 16,
   "combat": 20,
   "size": 1,
+  "respawn": 50,
   "id": "5418"
  },
  {
@@ -9570,6 +10111,7 @@
   "drange": 19,
   "combat": 37,
   "size": 1,
+  "respawn": 25,
   "id": "6056"
  },
  {
@@ -9586,7 +10128,24 @@
   "drange": 50,
   "combat": 108,
   "size": 1,
+  "respawn": 30,
   "id": "9182"
+ },
+ {
+  "name": "Guard",
+  "hitpoints": 105,
+  "att": 95,
+  "str": 95,
+  "def": 80,
+  "mage": 1,
+  "dstab": 50,
+  "dslash": 70,
+  "dcrush": 70,
+  "dmagic": 60,
+  "drange": 50,
+  "combat": 108,
+  "size": 1,
+  "id": "9191"
  },
  {
   "name": "Guard Bandit",
@@ -9605,6 +10164,7 @@
   "drange": 4,
   "combat": 22,
   "size": 1,
+  "respawn": 100,
   "id": "1027"
  },
  {
@@ -9617,7 +10177,20 @@
   "range": 1,
   "combat": 44,
   "size": 1,
+  "respawn": 25,
   "id": "114"
+ },
+ {
+  "name": "Guard dog",
+  "hitpoints": 49,
+  "att": 35,
+  "str": 36,
+  "def": 37,
+  "mage": 1,
+  "range": 1,
+  "combat": 44,
+  "size": 1,
+  "id": "131"
  },
  {
   "name": "Guardian",
@@ -9671,6 +10244,7 @@
   "drange": 51,
   "combat": 45,
   "size": 1,
+  "respawn": 50,
   "id": "3445"
  },
  {
@@ -9690,6 +10264,7 @@
   "drange": 51,
   "combat": 43,
   "size": 1,
+  "respawn": 50,
   "id": "3446"
  },
  {
@@ -9709,6 +10284,7 @@
   "drange": 11,
   "combat": 29,
   "size": 1,
+  "respawn": 50,
   "id": "299"
  },
  {
@@ -9757,6 +10333,7 @@
   "drange": 5,
   "combat": 12,
   "size": 1,
+  "respawn": 25,
   "id": "2536"
  },
  {
@@ -9772,6 +10349,7 @@
   "drange": 6,
   "combat": 18,
   "size": 1,
+  "respawn": 25,
   "id": "2537"
  },
  {
@@ -9787,6 +10365,7 @@
   "drange": 7,
   "combat": 22,
   "size": 1,
+  "respawn": 25,
   "id": "2538"
  },
  {
@@ -9813,6 +10392,7 @@
   "range": 1,
   "combat": 1,
   "size": 1,
+  "respawn": 50,
   "id": "3678"
  },
  {
@@ -9830,6 +10410,7 @@
   "drange": 10,
   "combat": 46,
   "size": 1,
+  "respawn": 25,
   "id": "464"
  },
  {
@@ -9845,6 +10426,7 @@
   "dcrush": 8,
   "combat": 13,
   "size": 1,
+  "respawn": 50,
   "id": "1207"
  },
  {
@@ -9876,6 +10458,7 @@
   "drange": 27,
   "combat": 84,
   "size": 1,
+  "respawn": 30,
   "id": "11093"
  },
  {
@@ -9909,6 +10492,7 @@
   "drange": 9,
   "combat": 26,
   "size": 1,
+  "respawn": 25,
   "id": "4248"
  },
  {
@@ -9958,6 +10542,7 @@
   "range": 1,
   "combat": 122,
   "size": 2,
+  "respawn": 89,
   "id": "104"
  },
  {
@@ -9983,6 +10568,7 @@
   "range": 1,
   "combat": 127,
   "size": 2,
+  "respawn": 25,
   "id": "3133"
  },
  {
@@ -9996,6 +10582,7 @@
   "range": 1,
   "combat": 136,
   "size": 2,
+  "respawn": 50,
   "id": "7877"
  },
  {
@@ -10013,6 +10600,7 @@
   "drange": -21,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3284"
  },
  {
@@ -10032,6 +10620,7 @@
   "drange": 79,
   "combat": 69,
   "size": 1,
+  "respawn": 50,
   "id": "3295"
  },
  {
@@ -10087,6 +10676,7 @@
   "drange": 2,
   "combat": 5,
   "size": 1,
+  "respawn": 100,
   "id": "518"
  },
  {
@@ -10101,6 +10691,7 @@
   "strbns": 16,
   "combat": 28,
   "size": 2,
+  "respawn": 30,
   "id": "2098"
  },
  {
@@ -10195,6 +10786,7 @@
   "dmagic": -10,
   "combat": 91,
   "size": 3,
+  "respawn": 30,
   "id": "8996"
  },
  {
@@ -10207,6 +10799,7 @@
   "range": 1,
   "combat": 19,
   "size": 1,
+  "respawn": 17,
   "id": "7802"
  },
  {
@@ -10231,6 +10824,7 @@
   "range": 1,
   "combat": 71,
   "size": 2,
+  "respawn": 25,
   "id": "4695"
  },
  {
@@ -10277,6 +10871,7 @@
   "dmagic": 160,
   "combat": 194,
   "size": 3,
+  "respawn": 25,
   "id": "8609"
  },
  {
@@ -10294,6 +10889,7 @@
   "drange": -12,
   "combat": 4,
   "size": 1,
+  "respawn": 25,
   "id": "4110"
  },
  {
@@ -10311,6 +10907,7 @@
   "drange": 30,
   "combat": 111,
   "size": 1,
+  "respawn": 50,
   "id": "4922"
  },
  {
@@ -10383,6 +10980,7 @@
   "dcrush": 2,
   "combat": 53,
   "size": 2,
+  "respawn": 30,
   "id": "2085"
  },
  {
@@ -10399,6 +10997,7 @@
   "dcrush": 2,
   "combat": 67,
   "size": 2,
+  "respawn": 30,
   "id": "7878"
  },
  {
@@ -10416,6 +11015,7 @@
   "drange": 13,
   "combat": 61,
   "size": 1,
+  "respawn": 30,
   "id": "3022"
  },
  {
@@ -10433,6 +11033,7 @@
   "dcrush": 30,
   "combat": 124,
   "size": 1,
+  "respawn": 50,
   "id": "648"
  },
  {
@@ -10450,6 +11051,7 @@
   "dcrush": 30,
   "combat": 123,
   "size": 1,
+  "respawn": 50,
   "id": "649"
  },
  {
@@ -10467,6 +11069,7 @@
   "dcrush": 30,
   "combat": 120,
   "size": 1,
+  "respawn": 50,
   "id": "650"
  },
  {
@@ -10484,6 +11087,7 @@
   "dcrush": 30,
   "combat": 121,
   "size": 1,
+  "respawn": 50,
   "id": "651"
  },
  {
@@ -10518,6 +11122,7 @@
   "dcrush": 30,
   "combat": 100,
   "size": 1,
+  "respawn": 50,
   "id": "1877"
  },
  {
@@ -10552,6 +11157,7 @@
   "dcrush": 30,
   "combat": 74,
   "size": 1,
+  "respawn": 50,
   "id": "1874"
  },
  {
@@ -10569,6 +11175,7 @@
   "drange": 30,
   "combat": 57,
   "size": 1,
+  "respawn": 30,
   "id": "2841"
  },
  {
@@ -10581,6 +11188,7 @@
   "range": 1,
   "combat": 96,
   "size": 2,
+  "respawn": 30,
   "id": "645"
  },
  {
@@ -10593,6 +11201,7 @@
   "range": 1,
   "combat": 132,
   "size": 2,
+  "respawn": 10,
   "id": "647"
  },
  {
@@ -10606,6 +11215,7 @@
   "range": 1,
   "combat": 18,
   "size": 1,
+  "respawn": 25,
   "id": "3140"
  },
  {
@@ -10619,6 +11229,7 @@
   "range": 1,
   "combat": 13,
   "size": 1,
+  "respawn": 15,
   "id": "4813"
  },
  {
@@ -10631,6 +11242,7 @@
   "range": 1,
   "combat": 51,
   "size": 2,
+  "respawn": 50,
   "id": "852"
  },
  {
@@ -10651,6 +11263,7 @@
   "drange": -42,
   "combat": 7,
   "size": 1,
+  "respawn": 60,
   "id": "3134"
  },
  {
@@ -10671,6 +11284,7 @@
   "drange": -42,
   "combat": 2,
   "size": 1,
+  "respawn": 50,
   "id": "5007"
  },
  {
@@ -10700,6 +11314,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2614"
  },
  {
@@ -10713,6 +11328,7 @@
   "dmagic": 40,
   "combat": 66,
   "size": 1,
+  "respawn": 15,
   "id": "443"
  },
  {
@@ -10769,6 +11385,7 @@
   "dmagic": 3,
   "combat": 20,
   "size": 1,
+  "respawn": 50,
   "id": "511"
  },
  {
@@ -10787,7 +11404,26 @@
   "drange": 70,
   "combat": 90,
   "size": 1,
+  "respawn": 30,
   "id": "3428"
+ },
+ {
+  "name": "Iorwerth Archer",
+  "hitpoints": 105,
+  "att": 10,
+  "str": 10,
+  "def": 80,
+  "mage": 1,
+  "range": 90,
+  "rngbns": 8,
+  "dstab": 50,
+  "dslash": 50,
+  "dcrush": 50,
+  "dmagic": 60,
+  "drange": 70,
+  "combat": 90,
+  "size": 1,
+  "id": "8760"
  },
  {
   "name": "Iorwerth Warrior",
@@ -10803,6 +11439,7 @@
   "drange": 50,
   "combat": 108,
   "size": 1,
+  "respawn": 30,
   "id": "3429"
  },
  {
@@ -10820,6 +11457,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2622"
  },
  {
@@ -10839,6 +11477,7 @@
   "drange": 90,
   "combat": 189,
   "size": 4,
+  "respawn": 30,
   "id": "272"
  },
  {
@@ -10858,6 +11497,7 @@
   "drange": 90,
   "combat": 215,
   "size": 4,
+  "respawn": 30,
   "id": "7254"
  },
  {
@@ -10876,6 +11516,7 @@
   "drange": 29,
   "combat": 100,
   "size": 1,
+  "respawn": 51,
   "id": "3965"
  },
  {
@@ -10900,6 +11541,7 @@
   "range": 1,
   "combat": 21,
   "size": 1,
+  "respawn": 50,
   "id": "4185"
  },
  {
@@ -10919,6 +11561,7 @@
   "drange": 9,
   "combat": 26,
   "size": 1,
+  "respawn": 30,
   "id": "4276"
  },
  {
@@ -10934,6 +11577,7 @@
   "dcrush": 47,
   "combat": 47,
   "size": 1,
+  "respawn": 50,
   "id": "300"
  },
  {
@@ -10946,6 +11590,7 @@
   "range": 1,
   "combat": 37,
   "size": 1,
+  "respawn": 25,
   "id": "3863"
  },
  {
@@ -11137,6 +11782,7 @@
   "drange": -10,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3282"
  },
  {
@@ -11149,6 +11795,7 @@
   "range": 1,
   "combat": 78,
   "size": 1,
+  "respawn": 15,
   "id": "437"
  },
  {
@@ -11162,6 +11809,7 @@
   "strbns": 20,
   "combat": 48,
   "size": 1,
+  "respawn": 30,
   "id": "3944"
  },
  {
@@ -11194,6 +11842,7 @@
   "strbns": 20,
   "combat": 53,
   "size": 2,
+  "respawn": 30,
   "id": "2094"
  },
  {
@@ -11208,6 +11857,7 @@
   "strbns": 21,
   "combat": 58,
   "size": 2,
+  "respawn": 25,
   "id": "2234"
  },
  {
@@ -11232,6 +11882,7 @@
   "range": 1,
   "combat": 2,
   "size": 1,
+  "respawn": 37,
   "id": "5213"
  },
  {
@@ -11249,6 +11900,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2616"
  },
  {
@@ -11324,6 +11976,7 @@
   "range": 1,
   "combat": 64,
   "size": 2,
+  "respawn": 90,
   "id": "232"
  },
  {
@@ -11336,6 +11989,7 @@
   "range": 1,
   "combat": 70,
   "size": 2,
+  "respawn": 50,
   "id": "1042"
  },
  {
@@ -11353,6 +12007,7 @@
   "drange": 20,
   "combat": 44,
   "size": 1,
+  "respawn": 30,
   "id": "3020"
  },
  {
@@ -11367,6 +12022,7 @@
   "strbns": 100,
   "combat": 37,
   "size": 1,
+  "respawn": 50,
   "id": "5243"
  },
  {
@@ -11407,6 +12063,7 @@
   "drange": 80,
   "combat": 650,
   "size": 5,
+  "respawn": 150,
   "id": "3129"
  },
  {
@@ -11461,6 +12118,7 @@
   "drange": 100,
   "combat": 333,
   "size": 5,
+  "respawn": 50,
   "id": "963"
  },
  {
@@ -11531,6 +12189,7 @@
   "drange": 13,
   "combat": 89,
   "size": 3,
+  "respawn": 50,
   "id": "8993"
  },
  {
@@ -11777,6 +12436,7 @@
   "dcrush": 30,
   "combat": 23,
   "size": 1,
+  "respawn": 50,
   "id": "1208"
  },
  {
@@ -11819,6 +12479,7 @@
   "range": 1,
   "combat": 48,
   "size": 1,
+  "respawn": 150,
   "id": "4972"
  },
  {
@@ -11838,6 +12499,7 @@
   "drange": 33,
   "combat": 19,
   "size": 1,
+  "respawn": 100,
   "id": "4969"
  },
  {
@@ -11883,6 +12545,25 @@
   "id": "469"
  },
  {
+  "name": "Killerwatt",
+  "hitpoints": 51,
+  "att": 50,
+  "str": 50,
+  "def": 40,
+  "mage": 67,
+  "range": 67,
+  "attbns": 30,
+  "dstab": 10,
+  "dslash": 10,
+  "dcrush": 10,
+  "dmagic": 20,
+  "drange": 20,
+  "combat": 55,
+  "size": 1,
+  "respawn": 30,
+  "id": "470"
+ },
+ {
   "name": "King Black Dragon",
   "isDragon": true,
   "isFiery": true,
@@ -11899,6 +12580,7 @@
   "drange": 70,
   "combat": 276,
   "size": 5,
+  "respawn": 16,
   "id": "239"
  },
  {
@@ -11953,6 +12635,7 @@
   "drange": 5,
   "combat": 32,
   "size": 2,
+  "respawn": 25,
   "id": "3027"
  },
  {
@@ -11987,6 +12670,7 @@
   "drange": 36,
   "combat": 46,
   "size": 1,
+  "respawn": 25,
   "id": "3297"
  },
  {
@@ -12039,6 +12723,7 @@
   "drange": 13,
   "combat": 103,
   "size": 1,
+  "respawn": 50,
   "id": "2213"
  },
  {
@@ -12057,6 +12742,7 @@
   "drange": 13,
   "combat": 101,
   "size": 1,
+  "respawn": 50,
   "id": "2214"
  },
  {
@@ -12172,6 +12858,7 @@
   "drange": 200,
   "combat": 91,
   "size": 2,
+  "respawn": 50,
   "id": "928"
  },
  {
@@ -12208,6 +12895,7 @@
   "drange": 200,
   "combat": 580,
   "size": 5,
+  "respawn": 150,
   "id": "3162"
  },
  {
@@ -12267,6 +12955,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2627"
  },
  {
@@ -12282,6 +12971,7 @@
   "dcrush": 20,
   "combat": 106,
   "size": 3,
+  "respawn": 15,
   "id": "410"
  },
  {
@@ -12295,6 +12985,7 @@
   "strbns": 20,
   "combat": 48,
   "size": 1,
+  "respawn": 30,
   "id": "3940"
  },
  {
@@ -12336,6 +13027,7 @@
   "drange": 70,
   "combat": 252,
   "size": 4,
+  "respawn": 25,
   "id": "6593"
  },
  {
@@ -12348,6 +13040,7 @@
   "range": 1,
   "combat": 52,
   "size": 1,
+  "respawn": 50,
   "id": "3233"
  },
  {
@@ -12361,6 +13054,7 @@
   "strbns": 20,
   "combat": 48,
   "size": 1,
+  "respawn": 30,
   "id": "3943"
  },
  {
@@ -12400,6 +13094,7 @@
   "dmagic": -10,
   "combat": 82,
   "size": 2,
+  "respawn": 30,
   "id": "2005"
  },
  {
@@ -12414,6 +13109,7 @@
   "dmagic": -10,
   "combat": 87,
   "size": 2,
+  "respawn": 30,
   "id": "7247"
  },
  {
@@ -12428,6 +13124,7 @@
   "dmagic": -10,
   "combat": 94,
   "size": 2,
+  "respawn": 30,
   "id": "7248"
  },
  {
@@ -12442,6 +13139,7 @@
   "dmagic": -10,
   "combat": 94,
   "size": 2,
+  "respawn": 30,
   "id": "7865"
  },
  {
@@ -12469,10 +13167,23 @@
   "def": 30,
   "mage": 1,
   "range": 1,
-  "arange": 2,
   "combat": 39,
   "size": 2,
   "id": "12376"
+ },
+ {
+  "name": "Lesser demon",
+  "isDemon": true,
+  "hitpoints": 79,
+  "att": 68,
+  "str": 70,
+  "def": 71,
+  "mage": 1,
+  "range": 1,
+  "arange": 100,
+  "combat": 82,
+  "size": 2,
+  "id": "12389"
  },
  {
   "name": "Lev",
@@ -12489,6 +13200,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2619"
  },
  {
@@ -12522,6 +13234,7 @@
   "drange": 5,
   "combat": 42,
   "size": 3,
+  "respawn": 25,
   "id": "458"
  },
  {
@@ -12540,6 +13253,7 @@
   "dslash": 25,
   "combat": 53,
   "size": 1,
+  "respawn": 12,
   "id": "6914"
  },
  {
@@ -12559,6 +13273,7 @@
   "dcrush": 5,
   "combat": 62,
   "size": 1,
+  "respawn": 12,
   "id": "6916"
  },
  {
@@ -12578,6 +13293,7 @@
   "dcrush": 10,
   "combat": 75,
   "size": 1,
+  "respawn": 12,
   "id": "6918"
  },
  {
@@ -12598,6 +13314,7 @@
   "dmagic": 50,
   "combat": 150,
   "size": 3,
+  "respawn": 27,
   "id": "6766"
  },
  {
@@ -12630,6 +13347,7 @@
   "def": 26,
   "combat": 40,
   "size": 1,
+  "respawn": 35,
   "id": "1277"
  },
  {
@@ -12643,6 +13361,7 @@
   "def": 26,
   "combat": 40,
   "size": 1,
+  "respawn": 35,
   "id": "1276"
  },
  {
@@ -12660,6 +13379,7 @@
   "drange": 70,
   "combat": 68,
   "size": 3,
+  "respawn": 25,
   "id": "7796"
  },
  {
@@ -12672,6 +13392,7 @@
   "range": 1,
   "combat": 18,
   "size": 1,
+  "respawn": 50,
   "id": "11584"
  },
  {
@@ -12689,6 +13410,7 @@
   "dcrush": 40,
   "combat": 106,
   "size": 2,
+  "respawn": 7,
   "id": "795"
  },
  {
@@ -12709,6 +13431,7 @@
   "drange": 66,
   "combat": 98,
   "size": 2,
+  "respawn": 10,
   "id": "796"
  },
  {
@@ -12763,6 +13486,7 @@
   "drange": 120,
   "combat": 152,
   "size": 3,
+  "respawn": 15,
   "id": "7792"
  },
  {
@@ -12775,6 +13499,7 @@
   "range": 1,
   "combat": 132,
   "size": 1,
+  "respawn": 50,
   "id": "2921"
  },
  {
@@ -12794,6 +13519,7 @@
   "drange": 4,
   "combat": 14,
   "size": 1,
+  "respawn": 26,
   "id": "3443"
  },
  {
@@ -12806,6 +13532,7 @@
   "range": 1,
   "combat": 21,
   "size": 2,
+  "respawn": 50,
   "id": "11068"
  },
  {
@@ -12818,6 +13545,7 @@
   "range": 1,
   "combat": 24,
   "size": 2,
+  "respawn": 50,
   "id": "11069"
  },
  {
@@ -12837,6 +13565,7 @@
   "drange": 16,
   "combat": 21,
   "size": 1,
+  "respawn": 30,
   "id": "11071"
  },
  {
@@ -12854,6 +13583,7 @@
   "drange": 10,
   "combat": 42,
   "size": 1,
+  "respawn": 30,
   "id": "2844"
  },
  {
@@ -12878,6 +13608,7 @@
   "range": 1,
   "combat": 80,
   "size": 3,
+  "respawn": 70,
   "id": "6604"
  },
  {
@@ -12893,7 +13624,23 @@
   "dcrush": 1,
   "combat": 4,
   "size": 1,
+  "respawn": 50,
   "id": "1118"
+ },
+ {
+  "name": "Man",
+  "hitpoints": 13,
+  "att": 2,
+  "str": 1,
+  "def": 1,
+  "mage": 1,
+  "range": 1,
+  "dstab": 1,
+  "dslash": 1,
+  "dcrush": 1,
+  "combat": 4,
+  "size": 1,
+  "id": "1138"
  },
  {
   "name": "Man",
@@ -12910,6 +13657,7 @@
   "drange": -21,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3014"
  },
  {
@@ -12922,7 +13670,25 @@
   "range": 1,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3261"
+ },
+ {
+  "name": "Man",
+  "hitpoints": 7,
+  "att": 1,
+  "str": 1,
+  "def": 1,
+  "mage": 1,
+  "range": 1,
+  "dstab": -21,
+  "dslash": -21,
+  "dcrush": -21,
+  "dmagic": -21,
+  "drange": -21,
+  "combat": 2,
+  "size": 1,
+  "id": "11058"
  },
  {
   "name": "Maniacal Monkey Archer",
@@ -12946,6 +13712,7 @@
   "range": 1,
   "combat": 140,
   "size": 1,
+  "respawn": 50,
   "id": "7118"
  },
  {
@@ -12982,6 +13749,7 @@
   "drange": 16,
   "combat": 20,
   "size": 1,
+  "respawn": 50,
   "id": "2120"
  },
  {
@@ -13001,6 +13769,7 @@
   "drange": 50,
   "combat": 48,
   "size": 1,
+  "respawn": 30,
   "id": "3949"
  },
  {
@@ -13037,6 +13806,7 @@
   "range": 1,
   "combat": 43,
   "size": 1,
+  "respawn": 30,
   "id": "823"
  },
  {
@@ -13093,6 +13863,7 @@
   "dcrush": 10,
   "combat": 55,
   "size": 1,
+  "respawn": 5,
   "id": "3549"
  },
  {
@@ -13110,6 +13881,7 @@
   "drange": 19,
   "combat": 45,
   "size": 1,
+  "respawn": 50,
   "id": "4656"
  },
  {
@@ -13127,6 +13899,7 @@
   "drange": 19,
   "combat": 47,
   "size": 1,
+  "respawn": 25,
   "id": "4635"
  },
  {
@@ -13144,6 +13917,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2624"
  },
  {
@@ -13179,6 +13953,7 @@
   "drange": -21,
   "combat": 12,
   "size": 1,
+  "respawn": 15,
   "id": "2481"
  },
  {
@@ -13196,6 +13971,7 @@
   "drange": -10,
   "combat": 27,
   "size": 1,
+  "respawn": 15,
   "id": "2483"
  },
  {
@@ -13215,6 +13991,7 @@
   "drange": 90,
   "combat": 304,
   "size": 4,
+  "respawn": 30,
   "id": "2919"
  },
  {
@@ -13257,6 +14034,7 @@
   "range": 1,
   "combat": 5,
   "size": 1,
+  "respawn": 25,
   "id": "2579"
  },
  {
@@ -13269,6 +14047,7 @@
   "range": 1,
   "combat": 3,
   "size": 1,
+  "respawn": 25,
   "id": "4246"
  },
  {
@@ -13293,6 +14072,7 @@
   "range": 1,
   "combat": 17,
   "size": 1,
+  "respawn": 50,
   "id": "528"
  },
  {
@@ -13305,6 +14085,7 @@
   "range": 1,
   "combat": 45,
   "size": 1,
+  "respawn": 250,
   "id": "529"
  },
  {
@@ -13317,6 +14098,7 @@
   "range": 1,
   "combat": 30,
   "size": 1,
+  "respawn": 25,
   "id": "3486"
  },
  {
@@ -13329,6 +14111,7 @@
   "range": 1,
   "combat": 23,
   "size": 1,
+  "respawn": 250,
   "id": "8698"
  },
  {
@@ -13341,6 +14124,7 @@
   "range": 1,
   "combat": 3,
   "size": 1,
+  "respawn": 10,
   "id": "1038"
  },
  {
@@ -13353,6 +14137,7 @@
   "range": 110,
   "combat": 86,
   "size": 1,
+  "respawn": 50,
   "id": "5272"
  },
  {
@@ -13378,6 +14163,7 @@
   "attbns": 50,
   "combat": 167,
   "size": 2,
+  "respawn": 50,
   "id": "5275"
  },
  {
@@ -13392,6 +14178,7 @@
   "attbns": 35,
   "combat": 98,
   "size": 1,
+  "respawn": 50,
   "id": "5281"
  },
  {
@@ -13406,6 +14193,7 @@
   "attbns": 35,
   "combat": 129,
   "size": 1,
+  "respawn": 12,
   "id": "5282"
  },
  {
@@ -13420,6 +14208,7 @@
   "attbns": 15,
   "combat": 82,
   "size": 1,
+  "respawn": 50,
   "id": "5283"
  },
  {
@@ -13496,6 +14285,7 @@
   "strbns": 62,
   "combat": 84,
   "size": 2,
+  "respawn": 10,
   "id": "8736"
  },
  {
@@ -13510,7 +14300,22 @@
   "strbns": 62,
   "combat": 84,
   "size": 2,
+  "respawn": 10,
   "id": "891"
+ },
+ {
+  "name": "Moss Guardian",
+  "hitpoints": 120,
+  "att": 60,
+  "str": 60,
+  "def": 60,
+  "mage": 1,
+  "range": 1,
+  "attbns": 66,
+  "strbns": 62,
+  "combat": 84,
+  "size": 2,
+  "id": "6386"
  },
  {
   "name": "Moss Guardian (hard)",
@@ -13538,6 +14343,7 @@
   "strbns": 31,
   "combat": 42,
   "size": 2,
+  "respawn": 30,
   "id": "2090"
  },
  {
@@ -13552,6 +14358,7 @@
   "strbns": 31,
   "combat": 48,
   "size": 2,
+  "respawn": 30,
   "id": "3851"
  },
  {
@@ -13603,6 +14410,7 @@
   "drange": 200,
   "combat": 69,
   "size": 1,
+  "respawn": 50,
   "id": "936"
  },
  {
@@ -13618,6 +14426,7 @@
   "drange": 200,
   "combat": 71,
   "size": 1,
+  "respawn": 50,
   "id": "4143"
  },
  {
@@ -13635,6 +14444,7 @@
   "drange": 10,
   "combat": 31,
   "size": 2,
+  "respawn": 30,
   "id": "2067"
  },
  {
@@ -13653,6 +14463,7 @@
   "drange": 10,
   "combat": 49,
   "size": 2,
+  "respawn": 30,
   "id": "2068"
  },
  {
@@ -13717,6 +14528,7 @@
   "dmagic": 50,
   "drange": 60,
   "combat": 95,
+  "respawn": 35,
   "id": "5127"
  },
  {
@@ -13729,6 +14541,7 @@
   "range": 1,
   "combat": 30,
   "size": 1,
+  "respawn": 10,
   "id": "4820"
  },
  {
@@ -13741,6 +14554,7 @@
   "range": 1,
   "combat": 31,
   "size": 2,
+  "respawn": 5,
   "id": "4821"
  },
  {
@@ -13821,6 +14635,7 @@
   "dmagic": 90,
   "combat": 84,
   "size": 1,
+  "respawn": 10,
   "id": "949"
  },
  {
@@ -13851,7 +14666,24 @@
   "range": 1,
   "combat": 123,
   "size": 2,
+  "respawn": 15,
   "id": "7276"
+ },
+ {
+  "name": "Mutated Terrorbird",
+  "hitpoints": 320,
+  "att": 90,
+  "str": 150,
+  "def": 40,
+  "mage": 110,
+  "range": 75,
+  "arange": 400,
+  "dstab": 50,
+  "dslash": 50,
+  "drange": 62,
+  "combat": 178,
+  "size": 3,
+  "id": "12464"
  },
  {
   "name": "Muttadile Large",
@@ -13908,6 +14740,7 @@
   "drange": 50,
   "combat": 9,
   "size": 1,
+  "respawn": 50,
   "id": "2634"
  },
  {
@@ -13925,6 +14758,7 @@
   "drange": 50,
   "combat": 10,
   "size": 1,
+  "respawn": 50,
   "id": "2649"
  },
  {
@@ -14001,6 +14835,7 @@
   "drange": -5,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3280"
  },
  {
@@ -14123,6 +14958,7 @@
   "range": 1,
   "combat": 26,
   "size": 1,
+  "respawn": 250,
   "id": "1025"
  },
  {
@@ -14141,6 +14977,7 @@
   "dmagic": 4,
   "combat": 68,
   "size": 1,
+  "respawn": 50,
   "id": "11088"
  },
  {
@@ -14234,6 +15071,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2629"
  },
  {
@@ -14251,6 +15089,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2617"
  },
  {
@@ -14328,32 +15167,6 @@
   "combat": 162,
   "size": 1,
   "id": "8342"
- },
- {
-  "name": "Nylocas Matomenos",
-  "isTobNormalMode": true,
-  "hitpoints": 100,
-  "att": 100,
-  "str": 100,
-  "def": 100,
-  "mage": 100,
-  "range": 100,
-  "combat": 115,
-  "size": 2,
-  "id": "8366"
- },
- {
-  "name": "Nylocas Matomenos",
-  "isTobNormalMode": true,
-  "hitpoints": 200,
-  "att": 100,
-  "str": 100,
-  "def": 100,
-  "mage": 100,
-  "range": 100,
-  "combat": 115,
-  "size": 2,
-  "id": "8385"
  },
  {
   "name": "Nylocas Prinkipas Magic",
@@ -14540,6 +15353,7 @@
   "drange": -12,
   "combat": 5,
   "size": 1,
+  "respawn": 25,
   "id": "4108"
  },
  {
@@ -14557,6 +15371,7 @@
   "drange": 50,
   "combat": 10,
   "size": 1,
+  "respawn": 50,
   "id": "2646"
  },
  {
@@ -14574,6 +15389,7 @@
   "drange": 50,
   "combat": 15,
   "size": 1,
+  "respawn": 50,
   "id": "2651"
  },
  {
@@ -14588,6 +15404,7 @@
   "strbns": 20,
   "combat": 53,
   "size": 2,
+  "respawn": 30,
   "id": "136"
  },
  {
@@ -14605,6 +15422,7 @@
   "dcrush": 24,
   "combat": 63,
   "size": 2,
+  "respawn": 50,
   "id": "1153"
  },
  {
@@ -14619,6 +15437,7 @@
   "strbns": 21,
   "combat": 58,
   "size": 2,
+  "respawn": 25,
   "id": "2233"
  },
  {
@@ -14636,6 +15455,7 @@
   "dcrush": 16,
   "combat": 81,
   "size": 2,
+  "respawn": 300,
   "id": "4362"
  },
  {
@@ -14648,7 +15468,20 @@
   "range": 1,
   "combat": 113,
   "size": 2,
+  "respawn": 51,
   "id": "4383"
+ },
+ {
+  "name": "Ogre shaman",
+  "hitpoints": 1,
+  "att": 1,
+  "str": 1,
+  "def": 1,
+  "mage": 1,
+  "range": 1,
+  "combat": 113,
+  "size": 2,
+  "id": "4391"
  },
  {
   "name": "Ogress Shaman",
@@ -14665,6 +15498,7 @@
   "drange": 8,
   "combat": 82,
   "size": 2,
+  "respawn": 40,
   "id": "7991"
  },
  {
@@ -14682,6 +15516,7 @@
   "drange": 16,
   "combat": 82,
   "size": 2,
+  "respawn": 40,
   "id": "7989"
  },
  {
@@ -14707,6 +15542,7 @@
   "range": 1,
   "combat": 46,
   "size": 1,
+  "respawn": 25,
   "id": "2062"
  },
  {
@@ -14726,6 +15562,7 @@
   "drange": 13,
   "combat": 107,
   "size": 1,
+  "respawn": 25,
   "id": "2237"
  },
  {
@@ -14740,6 +15577,7 @@
   "dmagic": -10,
   "combat": 91,
   "size": 3,
+  "respawn": 30,
   "id": "8994"
  },
  {
@@ -14758,6 +15596,7 @@
   "drange": 15,
   "combat": 64,
   "size": 1,
+  "respawn": 20,
   "id": "2843"
  },
  {
@@ -14784,6 +15623,7 @@
   "strbns": -21,
   "combat": 32,
   "size": 1,
+  "respawn": 2,
   "id": "4167"
  },
  {
@@ -14797,6 +15637,7 @@
   "attbns": 50,
   "combat": 149,
   "size": 1,
+  "respawn": 50,
   "id": "5263"
  },
  {
@@ -14816,6 +15657,7 @@
   "drange": 79,
   "combat": 62,
   "size": 1,
+  "respawn": 50,
   "id": "3293"
  },
  {
@@ -14862,6 +15704,7 @@
   "range": 1,
   "combat": 37,
   "size": 1,
+  "respawn": 25,
   "id": "3869"
  },
  {
@@ -14921,6 +15764,7 @@
   "drange": 200,
   "combat": 91,
   "size": 2,
+  "respawn": 50,
   "id": "927"
  },
  {
@@ -15208,6 +16052,7 @@
   "drange": -12,
   "combat": 5,
   "size": 1,
+  "respawn": 25,
   "id": "4109"
  },
  {
@@ -15220,6 +16065,7 @@
   "range": 1,
   "combat": 2,
   "size": 1,
+  "respawn": 30,
   "id": "2063"
  },
  {
@@ -15339,6 +16185,7 @@
   "drange": 56,
   "combat": 741,
   "size": 5,
+  "respawn": 50,
   "id": "12080"
  },
  {
@@ -15363,6 +16210,7 @@
   "drange": 261,
   "combat": 741,
   "size": 5,
+  "respawn": 50,
   "id": "12078"
  },
  {
@@ -15387,6 +16235,7 @@
   "drange": 56,
   "combat": 741,
   "size": 5,
+  "respawn": 50,
   "id": "12077"
  },
  {
@@ -15411,6 +16260,7 @@
   "drange": 56,
   "combat": 741,
   "size": 5,
+  "respawn": 50,
   "id": "12079"
  },
  {
@@ -15423,6 +16273,7 @@
   "range": 1,
   "combat": 3,
   "size": 1,
+  "respawn": 5,
   "id": "373"
  },
  {
@@ -15471,6 +16322,7 @@
   "def": 42,
   "combat": 60,
   "size": 1,
+  "respawn": 50,
   "id": "1279"
  },
  {
@@ -15486,6 +16338,7 @@
   "dslash": 1,
   "combat": 23,
   "size": 1,
+  "respawn": 25,
   "id": "521"
  },
  {
@@ -15502,6 +16355,7 @@
   "dslash": 2,
   "combat": 23,
   "size": 1,
+  "respawn": 25,
   "id": "522"
  },
  {
@@ -15518,6 +16372,7 @@
   "dslash": 2,
   "combat": 26,
   "size": 1,
+  "respawn": 25,
   "id": "523"
  },
  {
@@ -15530,6 +16385,7 @@
   "range": 1,
   "combat": 57,
   "size": 1,
+  "respawn": 50,
   "id": "4043"
  },
  {
@@ -15547,6 +16403,7 @@
   "dcrush": 30,
   "combat": 19,
   "size": 1,
+  "respawn": 50,
   "id": "4926"
  },
  {
@@ -15561,6 +16418,7 @@
   "dcrush": 5,
   "combat": 28,
   "size": 1,
+  "respawn": 50,
   "id": "3026"
  },
  {
@@ -15573,6 +16431,7 @@
   "range": 1,
   "combat": 11,
   "size": 1,
+  "respawn": 50,
   "id": "11586"
  },
  {
@@ -15589,6 +16448,7 @@
   "drange": 5,
   "combat": 20,
   "size": 2,
+  "respawn": 25,
   "id": "3025"
  },
  {
@@ -15606,6 +16466,7 @@
   "drange": 14,
   "combat": 64,
   "size": 1,
+  "respawn": 30,
   "id": "3023"
  },
  {
@@ -15660,6 +16521,7 @@
   "drange": 20,
   "combat": 21,
   "size": 1,
+  "respawn": 50,
   "id": "4758"
  },
  {
@@ -15712,6 +16574,7 @@
   "drange": 10,
   "combat": 50,
   "size": 1,
+  "respawn": 30,
   "id": "3612"
  },
  {
@@ -15748,6 +16611,7 @@
   "drange": 10,
   "combat": 43,
   "size": 1,
+  "respawn": 15,
   "id": "433"
  },
  {
@@ -15766,6 +16630,7 @@
   "drange": 10,
   "combat": 48,
   "size": 1,
+  "respawn": 25,
   "id": "3139"
  },
  {
@@ -15783,6 +16648,7 @@
   "drange": 10,
   "combat": 60,
   "size": 2,
+  "respawn": 15,
   "id": "6762"
  },
  {
@@ -15809,6 +16675,7 @@
   "strbns": -42,
   "combat": 1,
   "size": 1,
+  "respawn": 50,
   "id": "1852"
  },
  {
@@ -15828,6 +16695,7 @@
   "drange": -42,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3420"
  },
  {
@@ -15866,6 +16734,7 @@
   "drange": 20,
   "combat": 21,
   "size": 1,
+  "respawn": 50,
   "id": "4759"
  },
  {
@@ -15890,6 +16759,7 @@
   "range": 1,
   "combat": 1,
   "size": 1,
+  "respawn": 50,
   "id": "3674"
  },
  {
@@ -15907,6 +16777,7 @@
   "drange": -12,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3687"
  },
  {
@@ -15929,6 +16800,26 @@
   "id": "1261"
  },
  {
+  "name": "Ram",
+  "hitpoints": 8,
+  "att": 1,
+  "str": 1,
+  "def": 1,
+  "mage": 1,
+  "range": 1,
+  "attbns": -15,
+  "strbns": -15,
+  "dstab": -21,
+  "dslash": -21,
+  "dcrush": -21,
+  "dmagic": -21,
+  "drange": -21,
+  "combat": 2,
+  "size": 1,
+  "respawn": 45,
+  "id": "1262"
+ },
+ {
   "name": "Ranalph Devere",
   "isSpectral": true,
   "hitpoints": 130,
@@ -15943,6 +16834,7 @@
   "drange": 38,
   "combat": 92,
   "size": 1,
+  "respawn": 51,
   "id": "3966"
  },
  {
@@ -16001,6 +16893,7 @@
   "drange": -12,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3681"
  },
  {
@@ -16020,6 +16913,7 @@
   "drange": -42,
   "combat": 1,
   "size": 1,
+  "respawn": 30,
   "id": "2492"
  },
  {
@@ -16412,6 +17306,7 @@
   "drange": 50,
   "combat": 152,
   "size": 4,
+  "respawn": 30,
   "id": "247"
  },
  {
@@ -16496,6 +17391,7 @@
   "drange": 135,
   "combat": 82,
   "size": 3,
+  "respawn": 50,
   "id": "7934"
  },
  {
@@ -16519,6 +17415,7 @@
   "drange": 158,
   "combat": 120,
   "size": 3,
+  "respawn": 27,
   "id": "7938"
  },
  {
@@ -16544,6 +17441,7 @@
   "drange": 90,
   "combat": 98,
   "size": 3,
+  "respawn": 50,
   "id": "7936"
  },
  {
@@ -16569,6 +17467,7 @@
   "drange": 197,
   "combat": 135,
   "size": 5,
+  "respawn": 20,
   "id": "7940"
  },
  {
@@ -16594,6 +17493,7 @@
   "drange": 31,
   "combat": 15,
   "size": 1,
+  "respawn": 83,
   "id": "7931"
  },
  {
@@ -16616,6 +17516,7 @@
   "drange": 140,
   "combat": 90,
   "size": 3,
+  "respawn": 50,
   "id": "7935"
  },
  {
@@ -16639,6 +17540,7 @@
   "drange": 50,
   "combat": 60,
   "size": 1,
+  "respawn": 50,
   "id": "7933"
  },
  {
@@ -16655,6 +17557,7 @@
   "dmagic": 5,
   "combat": 7,
   "size": 1,
+  "respawn": 33,
   "id": "7881"
  },
  {
@@ -16680,6 +17583,7 @@
   "drange": 190,
   "combat": 126,
   "size": 1,
+  "respawn": 20,
   "id": "7939"
  },
  {
@@ -16727,6 +17631,7 @@
   "drange": 148,
   "combat": 105,
   "size": 3,
+  "respawn": 27,
   "id": "7937"
  },
  {
@@ -16746,6 +17651,7 @@
   "drange": 10,
   "combat": 52,
   "size": 1,
+  "respawn": 60,
   "id": "7932"
  },
  {
@@ -16843,6 +17749,7 @@
   "def": 60,
   "combat": 80,
   "size": 1,
+  "respawn": 50,
   "id": "1281"
  },
  {
@@ -16890,6 +17797,7 @@
   "drange": 200,
   "combat": 111,
   "size": 2,
+  "respawn": 50,
   "id": "925"
  },
  {
@@ -16919,6 +17827,7 @@
   "range": 1,
   "combat": 13,
   "size": 1,
+  "respawn": 50,
   "id": "100"
  },
  {
@@ -17026,6 +17935,7 @@
   "range": 1,
   "combat": 13,
   "size": 1,
+  "respawn": 50,
   "id": "101"
  },
  {
@@ -17038,6 +17948,7 @@
   "range": 1,
   "combat": 29,
   "size": 1,
+  "respawn": 15,
   "id": "421"
  },
  {
@@ -17067,6 +17978,7 @@
   "dcrush": 11,
   "combat": 15,
   "size": 1,
+  "respawn": 50,
   "id": "526"
  },
  {
@@ -17079,6 +17991,7 @@
   "range": 1,
   "combat": 135,
   "size": 1,
+  "respawn": 50,
   "id": "6603"
  },
  {
@@ -17098,6 +18011,7 @@
   "drange": -42,
   "combat": 3,
   "size": 1,
+  "respawn": 25,
   "id": "1175"
  },
  {
@@ -17117,6 +18031,7 @@
   "drange": -42,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3663"
  },
  {
@@ -17127,6 +18042,7 @@
   "def": 7,
   "combat": 10,
   "size": 1,
+  "respawn": 50,
   "id": "4634"
  },
  {
@@ -17162,6 +18078,7 @@
   "drange": 10,
   "combat": 70,
   "size": 2,
+  "respawn": 25,
   "id": "10690"
  },
  {
@@ -17179,6 +18096,7 @@
   "drange": 10,
   "combat": 50,
   "size": 2,
+  "respawn": 25,
   "id": "10692"
  },
  {
@@ -17197,6 +18115,7 @@
   "drange": 10,
   "combat": 30,
   "size": 2,
+  "respawn": 25,
   "id": "10694"
  },
  {
@@ -17214,6 +18133,7 @@
   "drange": 10,
   "combat": 13,
   "size": 2,
+  "respawn": 25,
   "id": "10696"
  },
  {
@@ -17253,6 +18173,7 @@
   "drange": 95,
   "combat": 380,
   "size": 5,
+  "respawn": 30,
   "id": "8031"
  },
  {
@@ -17266,6 +18187,7 @@
   "range": 1,
   "combat": 178,
   "size": 1,
+  "respawn": 200,
   "id": "6600"
  },
  {
@@ -17283,6 +18205,7 @@
   "drange": -15,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3281"
  },
  {
@@ -17295,6 +18218,7 @@
   "range": 1,
   "combat": 70,
   "size": 1,
+  "respawn": 50,
   "id": "304"
  },
  {
@@ -17313,6 +18237,7 @@
   "drange": 20,
   "combat": 106,
   "size": 1,
+  "respawn": 26,
   "id": "3964"
  },
  {
@@ -17325,6 +18250,7 @@
   "range": 1,
   "combat": 15,
   "size": 1,
+  "respawn": 50,
   "id": "5935"
  },
  {
@@ -17361,6 +18287,7 @@
   "range": 1,
   "combat": 107,
   "size": 2,
+  "respawn": 50,
   "id": "7267"
  },
  {
@@ -17373,6 +18300,7 @@
   "range": 1,
   "combat": 15,
   "size": 1,
+  "respawn": 50,
   "id": "5936"
  },
  {
@@ -17393,6 +18321,7 @@
   "drange": 300,
   "combat": 318,
   "size": 5,
+  "respawn": 17,
   "id": "8713"
  },
  {
@@ -17412,6 +18341,7 @@
   "drange": 13,
   "combat": 113,
   "size": 1,
+  "respawn": 25,
   "id": "2209"
  },
  {
@@ -17460,6 +18390,7 @@
   "dmagic": 34,
   "combat": 93,
   "size": 1,
+  "respawn": 50,
   "id": "794"
  },
  {
@@ -17723,6 +18654,7 @@
   "drange": 284,
   "combat": 225,
   "size": 5,
+  "respawn": 17,
   "id": "6615"
  },
  {
@@ -17750,6 +18682,7 @@
   "dmagic": -40,
   "combat": 15,
   "size": 1,
+  "respawn": 5,
   "id": "6616"
  },
  {
@@ -17766,6 +18699,7 @@
   "drange": 55,
   "combat": 59,
   "size": 2,
+  "respawn": 22,
   "id": "2479"
  },
  {
@@ -17783,6 +18717,7 @@
   "drange": 35,
   "combat": 37,
   "size": 2,
+  "respawn": 25,
   "id": "2480"
  },
  {
@@ -17799,6 +18734,7 @@
   "drange": 5,
   "combat": 14,
   "size": 2,
+  "respawn": 25,
   "id": "3024"
  },
  {
@@ -17813,6 +18749,7 @@
   "strbns": 100,
   "combat": 38,
   "size": 1,
+  "respawn": 50,
   "id": "5242"
  },
  {
@@ -17861,6 +18798,7 @@
   "range": 1,
   "combat": 62,
   "size": 1,
+  "respawn": 50,
   "id": "1098"
  },
  {
@@ -17873,6 +18811,7 @@
   "range": 1,
   "combat": 90,
   "size": 2,
+  "respawn": 50,
   "id": "1097"
  },
  {
@@ -17958,6 +18897,7 @@
   "drange": -42,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "1338"
  },
  {
@@ -17977,6 +18917,7 @@
   "drange": -42,
   "combat": 3,
   "size": 1,
+  "respawn": 25,
   "id": "1339"
  },
  {
@@ -17996,6 +18937,7 @@
   "drange": 27,
   "combat": 84,
   "size": 1,
+  "respawn": 30,
   "id": "11073"
  },
  {
@@ -18053,6 +18995,7 @@
   "drange": -12,
   "combat": 5,
   "size": 1,
+  "respawn": 25,
   "id": "4104"
  },
  {
@@ -18081,7 +19024,23 @@
   "range": 1,
   "combat": 159,
   "size": 1,
+  "respawn": 50,
   "id": "6740"
+ },
+ {
+  "name": "Shade",
+  "isUndead": true,
+  "isSpectral": true,
+  "hitpoints": 115,
+  "att": 130,
+  "str": 136,
+  "def": 100,
+  "mage": 50,
+  "range": 50,
+  "combat": 140,
+  "size": 1,
+  "respawn": 35,
+  "id": "7258"
  },
  {
   "name": "Shadow",
@@ -18098,6 +19057,7 @@
   "drange": 30,
   "combat": 73,
   "size": 1,
+  "respawn": 50,
   "id": "764"
  },
  {
@@ -18110,6 +19070,7 @@
   "range": 1,
   "combat": 63,
   "size": 1,
+  "respawn": 50,
   "id": "3449"
  },
  {
@@ -18165,6 +19126,7 @@
   "drange": 15,
   "combat": 52,
   "size": 1,
+  "respawn": 30,
   "id": "3016"
  },
  {
@@ -18182,6 +19144,7 @@
   "drange": 38,
   "combat": 48,
   "size": 1,
+  "respawn": 30,
   "id": "2853"
  },
  {
@@ -18217,6 +19180,7 @@
   "drange": 15,
   "combat": 22,
   "size": 1,
+  "respawn": 50,
   "id": "4643"
  },
  {
@@ -18284,6 +19248,7 @@
   "strbns": 6,
   "combat": 11,
   "size": 1,
+  "respawn": 50,
   "id": "1430"
  },
  {
@@ -18345,6 +19310,7 @@
   "drange": 79,
   "combat": 62,
   "size": 1,
+  "respawn": 100,
   "id": "8988"
  },
  {
@@ -18381,6 +19347,7 @@
   "drange": 79,
   "combat": 62,
   "size": 1,
+  "respawn": 100,
   "id": "8989"
  },
  {
@@ -18400,6 +19367,7 @@
   "drange": 79,
   "combat": 62,
   "size": 1,
+  "respawn": 100,
   "id": "8987"
  },
  {
@@ -18480,6 +19448,7 @@
   "dcrush": 45,
   "combat": 39,
   "size": 1,
+  "respawn": 25,
   "id": "3527"
  },
  {
@@ -18569,6 +19538,7 @@
   "drange": 140,
   "combat": 140,
   "size": 3,
+  "respawn": 15,
   "id": "465"
  },
  {
@@ -18605,6 +19575,7 @@
   "drange": 5,
   "combat": 22,
   "size": 1,
+  "respawn": 70,
   "id": "70"
  },
  {
@@ -18622,6 +19593,7 @@
   "drange": 5,
   "combat": 21,
   "size": 1,
+  "respawn": 35,
   "id": "74"
  },
  {
@@ -18642,6 +19614,7 @@
   "drange": 4,
   "combat": 25,
   "size": 1,
+  "respawn": 60,
   "id": "77"
  },
  {
@@ -18662,7 +19635,25 @@
   "drange": 4,
   "combat": 45,
   "size": 1,
+  "respawn": 60,
   "id": "82"
+ },
+ {
+  "name": "Skeleton",
+  "hitpoints": 29,
+  "att": 15,
+  "str": 18,
+  "def": 17,
+  "mage": 1,
+  "range": 1,
+  "dstab": 9,
+  "dslash": 11,
+  "dcrush": -2,
+  "dmagic": 1,
+  "drange": 4,
+  "combat": 22,
+  "size": 1,
+  "id": "130"
  },
  {
   "name": "Skeleton",
@@ -18713,6 +19704,7 @@
   "drange": 35,
   "combat": 68,
   "size": 1,
+  "respawn": 60,
   "id": "2520"
  },
  {
@@ -18730,7 +19722,25 @@
   "drange": 35,
   "combat": 60,
   "size": 1,
+  "respawn": 70,
   "id": "2521"
+ },
+ {
+  "name": "Skeleton",
+  "isUndead": true,
+  "hitpoints": 70,
+  "att": 50,
+  "str": 50,
+  "def": 40,
+  "mage": 1,
+  "range": 1,
+  "dstab": 35,
+  "dslash": 35,
+  "dcrush": -5,
+  "drange": 35,
+  "combat": 60,
+  "size": 1,
+  "id": "2522"
  },
  {
   "name": "Skeleton",
@@ -18750,6 +19760,7 @@
   "drange": 70,
   "combat": 85,
   "size": 1,
+  "respawn": 60,
   "id": "2524"
  },
  {
@@ -18770,6 +19781,7 @@
   "drange": 4,
   "combat": 22,
   "size": 1,
+  "respawn": 60,
   "id": "3565"
  },
  {
@@ -18784,6 +19796,7 @@
   "attbns": 50,
   "combat": 142,
   "size": 1,
+  "respawn": 100,
   "id": "5237"
  },
  {
@@ -18801,6 +19814,7 @@
   "drange": 40,
   "combat": 94,
   "size": 1,
+  "respawn": 50,
   "id": "6441"
  },
  {
@@ -18818,6 +19832,7 @@
   "drange": 40,
   "combat": 77,
   "size": 1,
+  "respawn": 50,
   "id": "6442"
  },
  {
@@ -18834,6 +19849,7 @@
   "drange": 40,
   "combat": 81,
   "size": 1,
+  "respawn": 50,
   "id": "6443"
  },
  {
@@ -18850,6 +19866,7 @@
   "drange": 40,
   "combat": 42,
   "size": 1,
+  "respawn": 50,
   "id": "6444"
  },
  {
@@ -18866,6 +19883,7 @@
   "drange": 40,
   "combat": 59,
   "size": 1,
+  "respawn": 50,
   "id": "6445"
  },
  {
@@ -18882,6 +19900,7 @@
   "drange": 40,
   "combat": 42,
   "size": 1,
+  "respawn": 50,
   "id": "6446"
  },
  {
@@ -18898,6 +19917,7 @@
   "drange": 40,
   "combat": 63,
   "size": 1,
+  "respawn": 50,
   "id": "6447"
  },
  {
@@ -18914,6 +19934,7 @@
   "drange": 40,
   "combat": 40,
   "size": 1,
+  "respawn": 50,
   "id": "6448"
  },
  {
@@ -18967,6 +19988,7 @@
   "drange": 30,
   "combat": 132,
   "size": 1,
+  "respawn": 25,
   "id": "8070"
  },
  {
@@ -19053,6 +20075,7 @@
   "range": 1,
   "combat": 16,
   "size": 1,
+  "respawn": 25,
   "id": "84"
  },
  {
@@ -19067,6 +20090,7 @@
   "dmagic": 15,
   "combat": 83,
   "size": 1,
+  "respawn": 50,
   "id": "4319"
  },
  {
@@ -19086,6 +20110,7 @@
   "drange": 2,
   "combat": 132,
   "size": 1,
+  "respawn": 50,
   "id": "1538"
  },
  {
@@ -19106,6 +20131,7 @@
   "drange": 15,
   "combat": 40,
   "size": 1,
+  "respawn": 50,
   "id": "4491"
  },
  {
@@ -19126,6 +20152,7 @@
   "drange": 15,
   "combat": 50,
   "size": 1,
+  "respawn": 50,
   "id": "4494"
  },
  {
@@ -19146,6 +20173,7 @@
   "drange": 15,
   "combat": 60,
   "size": 1,
+  "respawn": 50,
   "id": "4497"
  },
  {
@@ -19202,6 +20230,7 @@
   "drange": 2,
   "combat": 132,
   "size": 1,
+  "respawn": 50,
   "id": "1541"
  },
  {
@@ -19221,6 +20250,7 @@
   "drange": 2,
   "combat": 132,
   "size": 1,
+  "respawn": 50,
   "id": "1539"
  },
  {
@@ -19253,6 +20283,7 @@
   "range": 1,
   "combat": 44,
   "size": 2,
+  "respawn": 50,
   "id": "872"
  },
  {
@@ -19290,6 +20321,7 @@
   "drange": -12,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "773"
  },
  {
@@ -19388,6 +20420,7 @@
   "dcrush": 5,
   "combat": 12,
   "size": 1,
+  "respawn": 50,
   "id": "462"
  },
  {
@@ -19402,6 +20435,7 @@
   "drange": 44,
   "combat": 160,
   "size": 1,
+  "respawn": 7,
   "id": "498"
  },
  {
@@ -19435,6 +20469,7 @@
   "range": 1,
   "combat": 35,
   "size": 1,
+  "respawn": 30,
   "id": "1037"
  },
  {
@@ -19447,6 +20482,7 @@
   "range": 1,
   "combat": 5,
   "size": 1,
+  "respawn": 30,
   "id": "2845"
  },
  {
@@ -19461,6 +20497,7 @@
   "strbns": 100,
   "combat": 24,
   "size": 1,
+  "respawn": 50,
   "id": "5244"
  },
  {
@@ -19535,6 +20572,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2626"
  },
  {
@@ -19553,6 +20591,7 @@
   "drange": 14,
   "combat": 48,
   "size": 1,
+  "respawn": 25,
   "id": "4088"
  },
  {
@@ -19572,6 +20611,7 @@
   "drange": 16,
   "combat": 28,
   "size": 1,
+  "respawn": 50,
   "id": "5421"
  },
  {
@@ -19591,6 +20631,7 @@
   "drange": 16,
   "combat": 21,
   "size": 1,
+  "respawn": 30,
   "id": "11072"
  },
  {
@@ -19705,6 +20746,7 @@
   "range": 1,
   "combat": 57,
   "size": 1,
+  "respawn": 25,
   "id": "561"
  },
  {
@@ -19786,6 +20828,7 @@
   "range": 1,
   "combat": 18,
   "size": 1,
+  "respawn": 35,
   "id": "508"
  },
  {
@@ -19884,6 +20927,7 @@
   "dcrush": 10,
   "combat": 34,
   "size": 1,
+  "respawn": 50,
   "id": "303"
  },
  {
@@ -19903,6 +20947,7 @@
   "drange": 53,
   "combat": 24,
   "size": 1,
+  "respawn": 27,
   "id": "2478"
  },
  {
@@ -19922,6 +20967,7 @@
   "drange": -53,
   "combat": 1,
   "size": 1,
+  "respawn": 35,
   "id": "3019"
  },
  {
@@ -19938,6 +20984,7 @@
   "dmagic": 1,
   "combat": 1,
   "size": 1,
+  "respawn": 2,
   "id": "5238"
  },
  {
@@ -19972,6 +21019,7 @@
   "drange": 180,
   "combat": 87,
   "size": 1,
+  "respawn": 50,
   "id": "11175"
  },
  {
@@ -19989,6 +21037,7 @@
   "drange": 180,
   "combat": 123,
   "size": 2,
+  "respawn": 50,
   "id": "11176"
  },
  {
@@ -20033,6 +21082,7 @@
   "drange": 103,
   "combat": 302,
   "size": 4,
+  "respawn": 25,
   "id": "11998"
  },
  {
@@ -20117,6 +21167,7 @@
   "drange": 50,
   "combat": 76,
   "size": 1,
+  "respawn": 10,
   "id": "5947"
  },
  {
@@ -20136,6 +21187,7 @@
   "dmagic": 200,
   "combat": 182,
   "size": 1,
+  "respawn": 25,
   "id": "11292"
  },
  {
@@ -20153,6 +21205,7 @@
   "drange": 50,
   "combat": 158,
   "size": 1,
+  "respawn": 25,
   "id": "11291"
  },
  {
@@ -20170,6 +21223,7 @@
   "drange": 250,
   "combat": 158,
   "size": 1,
+  "respawn": 25,
   "id": "11290"
  },
  {
@@ -20188,6 +21242,7 @@
   "drange": 2,
   "combat": 120,
   "size": 1,
+  "respawn": 25,
   "id": "2212"
  },
  {
@@ -20206,6 +21261,7 @@
   "drange": 13,
   "combat": 121,
   "size": 1,
+  "respawn": 25,
   "id": "2244"
  },
  {
@@ -20219,7 +21275,27 @@
   "range": 1,
   "combat": 121,
   "size": 1,
+  "respawn": 25,
   "id": "3161"
+ },
+ {
+  "name": "Spiritual mage",
+  "isSpectral": true,
+  "hitpoints": 86,
+  "att": 1,
+  "str": 1,
+  "def": 111,
+  "mage": 150,
+  "range": 1,
+  "dstab": 9,
+  "dslash": 12,
+  "dcrush": 5,
+  "dmagic": 45,
+  "drange": 28,
+  "combat": 123,
+  "size": 2,
+  "respawn": 25,
+  "id": "3168"
  },
  {
   "name": "Spiritual ranger",
@@ -20237,6 +21313,7 @@
   "drange": 23,
   "combat": 122,
   "size": 1,
+  "respawn": 25,
   "id": "2211"
  },
  {
@@ -20255,6 +21332,7 @@
   "drange": 13,
   "combat": 115,
   "size": 1,
+  "respawn": 25,
   "id": "2242"
  },
  {
@@ -20268,6 +21346,7 @@
   "range": 140,
   "combat": 118,
   "size": 1,
+  "respawn": 25,
   "id": "3160"
  },
  {
@@ -20286,6 +21365,7 @@
   "drange": 41,
   "combat": 127,
   "size": 2,
+  "respawn": 25,
   "id": "3167"
  },
  {
@@ -20306,6 +21386,7 @@
   "drange": 13,
   "combat": 125,
   "size": 1,
+  "respawn": 25,
   "id": "2210"
  },
  {
@@ -20326,6 +21407,7 @@
   "drange": 13,
   "combat": 134,
   "size": 1,
+  "respawn": 25,
   "id": "2243"
  },
  {
@@ -20339,6 +21421,7 @@
   "range": 1,
   "combat": 115,
   "size": 1,
+  "respawn": 25,
   "id": "3159"
  },
  {
@@ -20357,6 +21440,7 @@
   "drange": 35,
   "combat": 123,
   "size": 2,
+  "respawn": 25,
   "id": "3166"
  },
  {
@@ -20396,6 +21480,7 @@
   "drange": 120,
   "combat": 139,
   "size": 3,
+  "respawn": 15,
   "id": "7794"
  },
  {
@@ -20463,6 +21548,7 @@
   "range": 1,
   "combat": 15,
   "size": 2,
+  "respawn": 90,
   "id": "1845"
  },
  {
@@ -20518,6 +21604,7 @@
   "drange": 90,
   "combat": 246,
   "size": 4,
+  "respawn": 30,
   "id": "274"
  },
  {
@@ -20537,6 +21624,7 @@
   "drange": 90,
   "combat": 274,
   "size": 4,
+  "respawn": 30,
   "id": "7255"
  },
  {
@@ -20554,6 +21642,7 @@
   "drange": 200,
   "combat": 104,
   "size": 2,
+  "respawn": 50,
   "id": "926"
  },
  {
@@ -20573,6 +21662,7 @@
   "drange": 40,
   "combat": 124,
   "size": 1,
+  "respawn": 25,
   "id": "8064"
  },
  {
@@ -20593,7 +21683,27 @@
   "drange": 25,
   "combat": 124,
   "size": 1,
+  "respawn": 25,
   "id": "8065"
+ },
+ {
+  "name": "Stone Guardian",
+  "isGolem": true,
+  "hitpoints": 62,
+  "att": 1,
+  "str": 1,
+  "def": 138,
+  "mage": 128,
+  "range": 1,
+  "amagic": 10,
+  "mbns": 10,
+  "dstab": 40,
+  "dslash": 40,
+  "dcrush": 35,
+  "dmagic": 35,
+  "combat": 124,
+  "size": 1,
+  "id": "8066"
  },
  {
   "name": "Strange Creature",
@@ -20615,6 +21725,7 @@
   "drange": 160,
   "combat": 368,
   "size": 5,
+  "respawn": 50,
   "id": "12063"
  },
  {
@@ -20636,6 +21747,7 @@
   "dmagic": 280,
   "combat": 368,
   "size": 5,
+  "respawn": 50,
   "id": "12073"
  },
  {
@@ -20657,6 +21769,7 @@
   "dmagic": 280,
   "combat": 368,
   "size": 5,
+  "respawn": 50,
   "id": "12075"
  },
  {
@@ -20677,6 +21790,29 @@
   "combat": 95,
   "size": 1,
   "id": "685"
+ },
+ {
+  "name": "Strangled Bear",
+  "hitpoints": 100,
+  "combat": 197,
+  "size": 3,
+  "respawn": 60,
+  "id": "12288"
+ },
+ {
+  "name": "Strangled Boar",
+  "hitpoints": 40,
+  "combat": 166,
+  "size": 1,
+  "id": "12289"
+ },
+ {
+  "name": "Strangled Lynx",
+  "hitpoints": 50,
+  "combat": 182,
+  "size": 2,
+  "respawn": 60,
+  "id": "12290"
  },
  {
   "name": "Strongbones",
@@ -20734,6 +21870,7 @@
   "drange": 15,
   "combat": 50,
   "size": 2,
+  "respawn": 25,
   "id": "8614"
  },
  {
@@ -20771,6 +21908,7 @@
   "hitpoints": 100,
   "combat": 34,
   "size": 1,
+  "respawn": 500,
   "id": "5946"
  },
  {
@@ -20788,6 +21926,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2621"
  },
  {
@@ -20805,6 +21944,7 @@
   "drange": -55,
   "combat": 55,
   "size": 1,
+  "respawn": 50,
   "id": "8297"
  },
  {
@@ -20817,6 +21957,7 @@
   "range": 1,
   "combat": 24,
   "size": 1,
+  "respawn": 50,
   "id": "8578"
  },
  {
@@ -20870,6 +22011,7 @@
   "drange": -55,
   "combat": 55,
   "size": 1,
+  "respawn": 50,
   "id": "8299"
  },
  {
@@ -20900,6 +22042,7 @@
   "drange": 120,
   "combat": 147,
   "size": 3,
+  "respawn": 15,
   "id": "7793"
  },
  {
@@ -20967,6 +22110,7 @@
   "drange": 20,
   "combat": 21,
   "size": 1,
+  "respawn": 50,
   "id": "4757"
  },
  {
@@ -21048,6 +22192,7 @@
   "drange": 20,
   "combat": 75,
   "size": 1,
+  "respawn": 50,
   "id": "8703"
  },
  {
@@ -21063,6 +22208,20 @@
   "id": "5643"
  },
  {
+  "name": "Tentacle",
+  "isDemon": true,
+  "hitpoints": 255,
+  "att": 200,
+  "str": 200,
+  "def": 1,
+  "mage": 1,
+  "range": 1,
+  "attbns": 50,
+  "strbns": 30,
+  "size": 9,
+  "id": "5912"
+ },
+ {
   "name": "Terror dog",
   "hitpoints": 87,
   "att": 110,
@@ -21073,6 +22232,7 @@
   "strbns": 20,
   "combat": 110,
   "size": 2,
+  "respawn": 50,
   "id": "6473"
  },
  {
@@ -21086,6 +22246,7 @@
   "strbns": 10,
   "combat": 100,
   "size": 1,
+  "respawn": 50,
   "id": "6474"
  },
  {
@@ -21098,6 +22259,7 @@
   "range": 1,
   "combat": 28,
   "size": 2,
+  "respawn": 30,
   "id": "2064"
  },
  {
@@ -21390,6 +22552,7 @@
   "drange": 10000,
   "combat": 83,
   "size": 3,
+  "respawn": 50,
   "id": "4708"
  },
  {
@@ -21437,6 +22600,7 @@
   "drange": 300,
   "combat": 791,
   "size": 3,
+  "respawn": 30,
   "id": "12204"
  },
  {
@@ -21460,6 +22624,7 @@
   "drange": 300,
   "combat": 587,
   "size": 3,
+  "respawn": 30,
   "id": "12206"
  },
  {
@@ -21477,6 +22642,7 @@
   "drange": 900,
   "combat": 301,
   "size": 4,
+  "respawn": 15,
   "id": "499"
  },
  {
@@ -21489,6 +22655,7 @@
   "range": 1,
   "combat": 16,
   "size": 1,
+  "respawn": 25,
   "id": "1448"
  },
  {
@@ -21500,6 +22667,7 @@
   "range": 2,
   "combat": 16,
   "size": 1,
+  "respawn": 25,
   "id": "3253"
  },
  {
@@ -21519,6 +22687,7 @@
   "drange": 9,
   "combat": 14,
   "size": 1,
+  "respawn": 25,
   "id": "4247"
  },
  {
@@ -21538,6 +22707,7 @@
   "drange": 16,
   "combat": 21,
   "size": 1,
+  "respawn": 30,
   "id": "7914"
  },
  {
@@ -21623,6 +22793,7 @@
   "drange": -12,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3682"
  },
  {
@@ -21635,6 +22806,7 @@
   "range": 1,
   "combat": 1,
   "size": 1,
+  "respawn": 50,
   "id": "3677"
  },
  {
@@ -21660,6 +22832,7 @@
   "drange": 200,
   "combat": 67,
   "size": 1,
+  "respawn": 25,
   "id": "931"
  },
  {
@@ -21673,6 +22846,7 @@
   "drange": 200,
   "combat": 68,
   "size": 1,
+  "respawn": 50,
   "id": "4135"
  },
  {
@@ -21690,6 +22864,7 @@
   "dcrush": 3,
   "combat": 10,
   "size": 1,
+  "respawn": 50,
   "id": "525"
  },
  {
@@ -21827,6 +23002,7 @@
   "strbns": 10,
   "combat": 90,
   "size": 1,
+  "respawn": 50,
   "id": "3959"
  },
  {
@@ -21839,6 +23015,7 @@
   "range": 1,
   "combat": 79,
   "size": 3,
+  "respawn": 50,
   "id": "6075"
  },
  {
@@ -21851,6 +23028,7 @@
   "range": 50,
   "combat": 92,
   "size": 3,
+  "respawn": 50,
   "id": "6076"
  },
  {
@@ -21884,6 +23062,7 @@
   "dmagic": 25,
   "combat": 141,
   "size": 2,
+  "respawn": 100,
   "id": "7150"
  },
  {
@@ -21898,6 +23077,7 @@
   "range": 1,
   "combat": 59,
   "size": 1,
+  "respawn": 50,
   "id": "2999"
  },
  {
@@ -21991,6 +23171,7 @@
   "dcrush": 28,
   "combat": 28,
   "size": 1,
+  "respawn": 50,
   "id": "4405"
  },
  {
@@ -22153,6 +23334,7 @@
   "drange": 5,
   "combat": 194,
   "size": 1,
+  "respawn": 4,
   "id": "6298"
  },
  {
@@ -22170,7 +23352,25 @@
   "dcrush": 6,
   "combat": 32,
   "size": 1,
+  "respawn": 50,
   "id": "530"
+ },
+ {
+  "name": "Tribesman",
+  "hitpoints": 39,
+  "att": 23,
+  "str": 27,
+  "def": 26,
+  "mage": 1,
+  "range": 1,
+  "attbns": 8,
+  "strbns": 5,
+  "dstab": 4,
+  "dslash": 6,
+  "dcrush": 6,
+  "combat": 32,
+  "size": 1,
+  "id": "6406"
  },
  {
   "name": "Tribeswoman",
@@ -22187,6 +23387,7 @@
   "dcrush": 6,
   "combat": 32,
   "size": 1,
+  "respawn": 50,
   "id": "11955"
  },
  {
@@ -22221,6 +23422,7 @@
   "drange": 200,
   "combat": 113,
   "size": 2,
+  "respawn": 50,
   "id": "4120"
  },
  {
@@ -22236,6 +23438,7 @@
   "drange": 200,
   "combat": 71,
   "size": 1,
+  "respawn": 50,
   "id": "4123"
  },
  {
@@ -22325,6 +23528,7 @@
   "dcrush": 20,
   "combat": 89,
   "size": 2,
+  "respawn": 15,
   "id": "427"
  },
  {
@@ -22340,6 +23544,7 @@
   "dcrush": 20,
   "combat": 87,
   "size": 2,
+  "respawn": 15,
   "id": "428"
  },
  {
@@ -22355,6 +23560,7 @@
   "dcrush": 20,
   "combat": 85,
   "size": 1,
+  "respawn": 15,
   "id": "429"
  },
  {
@@ -22370,6 +23576,7 @@
   "dcrush": 20,
   "combat": 83,
   "size": 1,
+  "respawn": 15,
   "id": "430"
  },
  {
@@ -22403,6 +23610,22 @@
   "id": "4131"
  },
  {
+  "name": "Twig",
+  "hitpoints": 90,
+  "att": 40,
+  "str": 90,
+  "def": 25,
+  "attbns": 20,
+  "strbns": 20,
+  "dcrush": 10,
+  "dmagic": 200,
+  "drange": 200,
+  "combat": 71,
+  "size": 2,
+  "respawn": 50,
+  "id": "4133"
+ },
+ {
   "name": "Twisted Banshee",
   "isUndead": true,
   "isSpectral": true,
@@ -22418,6 +23641,7 @@
   "drange": 15,
   "combat": 89,
   "size": 2,
+  "respawn": 15,
   "id": "7272"
  },
  {
@@ -22451,6 +23675,7 @@
   "drange": 79,
   "combat": 110,
   "size": 1,
+  "respawn": 50,
   "id": "639"
  },
  {
@@ -22499,6 +23724,7 @@
   "range": 1,
   "combat": 74,
   "size": 1,
+  "respawn": 50,
   "id": "2161"
  },
  {
@@ -22511,6 +23737,7 @@
   "range": 1,
   "combat": 149,
   "size": 1,
+  "respawn": 50,
   "id": "2173"
  },
  {
@@ -22523,6 +23750,7 @@
   "range": 1,
   "combat": 221,
   "size": 1,
+  "respawn": 50,
   "id": "7679"
  },
  {
@@ -22535,6 +23763,7 @@
   "range": 1,
   "combat": 103,
   "size": 1,
+  "respawn": 50,
   "id": "2154"
  },
  {
@@ -22547,6 +23776,7 @@
   "range": 120,
   "combat": 133,
   "size": 1,
+  "respawn": 50,
   "id": "2167"
  },
  {
@@ -22570,6 +23800,7 @@
   "def": 35,
   "combat": 42,
   "size": 2,
+  "respawn": 350,
   "id": "4652"
  },
  {
@@ -22622,6 +23853,7 @@
   "drange": 40,
   "combat": 105,
   "size": 1,
+  "respawn": 50,
   "id": "2145"
  },
  {
@@ -22763,6 +23995,7 @@
   "drange": -42,
   "combat": 1,
   "size": 1,
+  "respawn": 25,
   "id": "2993"
  },
  {
@@ -22783,6 +24016,7 @@
   "drange": -21,
   "combat": 2,
   "size": 2,
+  "respawn": 5,
   "id": "2992"
  },
  {
@@ -22794,6 +24028,7 @@
   "def": 63,
   "combat": 68,
   "size": 1,
+  "respawn": 50,
   "id": "5342"
  },
  {
@@ -22812,6 +24047,7 @@
   "drange": 4,
   "combat": 61,
   "size": 1,
+  "respawn": 50,
   "id": "5344"
  },
  {
@@ -22825,6 +24061,7 @@
   "strbns": 5,
   "combat": 73,
   "size": 1,
+  "respawn": 50,
   "id": "5349"
  },
  {
@@ -22863,6 +24100,7 @@
   "range": 1,
   "combat": 15,
   "size": 2,
+  "respawn": 90,
   "id": "2837"
  },
  {
@@ -22875,6 +24113,7 @@
   "range": 1,
   "combat": 12,
   "size": 2,
+  "respawn": 90,
   "id": "3910"
  },
  {
@@ -22913,6 +24152,7 @@
   "def": 100,
   "combat": 140,
   "size": 1,
+  "respawn": 50,
   "id": "10589"
  },
  {
@@ -22925,6 +24165,7 @@
   "def": 100,
   "combat": 140,
   "size": 1,
+  "respawn": 50,
   "id": "6143"
  },
  {
@@ -22955,6 +24196,7 @@
   "drange": -12,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3683"
  },
  {
@@ -22968,6 +24210,7 @@
   "range": 1,
   "combat": 45,
   "size": 1,
+  "respawn": 26,
   "id": "3692"
  },
  {
@@ -22981,7 +24224,21 @@
   "range": 1,
   "combat": 54,
   "size": 1,
+  "respawn": 26,
   "id": "3690"
+ },
+ {
+  "name": "Vampyre Juvinate",
+  "isVampyre2": true,
+  "hitpoints": 85,
+  "att": 40,
+  "str": 40,
+  "def": 30,
+  "mage": 1,
+  "range": 1,
+  "combat": 54,
+  "size": 1,
+  "id": "4427"
  },
  {
   "name": "Vampyre Juvinate",
@@ -23149,6 +24406,7 @@
   "drange": 580,
   "combat": 784,
   "size": 2,
+  "respawn": 17,
   "def": 215,
   "id": "12223"
  },
@@ -23165,6 +24423,7 @@
   "drange": 560,
   "combat": 572,
   "size": 2,
+  "respawn": 17,
   "def": 180,
   "id": "12224"
  },
@@ -23201,6 +24460,7 @@
   "drange": 100,
   "combat": 464,
   "size": 4,
+  "respawn": 50,
   "id": "6504"
  },
  {
@@ -23218,6 +24478,7 @@
   "drange": 150,
   "combat": 464,
   "size": 4,
+  "respawn": 28,
   "id": "6610"
  },
  {
@@ -23247,6 +24508,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2630"
  },
  {
@@ -23516,7 +24778,26 @@
   "drange": 270,
   "combat": 454,
   "size": 3,
+  "respawn": 33,
   "id": "6611"
+ },
+ {
+  "name": "Vet'ion",
+  "isUndead": true,
+  "hitpoints": 255,
+  "att": 430,
+  "str": 430,
+  "def": 395,
+  "mage": 300,
+  "range": 1,
+  "dstab": 201,
+  "dslash": 200,
+  "dcrush": -10,
+  "dmagic": 250,
+  "drange": 270,
+  "combat": 454,
+  "size": 3,
+  "id": "6612"
  },
  {
   "name": "Vitreous Jelly",
@@ -23631,6 +24912,7 @@
   "range": 1,
   "combat": 31,
   "size": 2,
+  "respawn": 50,
   "id": "1267"
  },
  {
@@ -23644,6 +24926,7 @@
   "range": 105,
   "combat": 105,
   "size": 1,
+  "respawn": 25,
   "id": "3709"
  },
  {
@@ -23657,6 +24940,7 @@
   "range": 110,
   "combat": 110,
   "size": 1,
+  "respawn": 25,
   "id": "3710"
  },
  {
@@ -23670,6 +24954,7 @@
   "range": 120,
   "combat": 120,
   "size": 1,
+  "respawn": 25,
   "id": "3711"
  },
  {
@@ -23683,6 +24968,7 @@
   "range": 120,
   "combat": 125,
   "size": 1,
+  "respawn": 25,
   "id": "3712"
  },
  {
@@ -23709,6 +24995,7 @@
   "range": 120,
   "combat": 151,
   "size": 1,
+  "respawn": 25,
   "id": "9756"
  },
  {
@@ -23738,6 +25025,7 @@
   "drange": -10,
   "combat": 98,
   "size": 1,
+  "respawn": 25,
   "id": "5938"
  },
  {
@@ -23750,7 +25038,54 @@
   "range": 1,
   "combat": 112,
   "size": 1,
+  "respawn": 15,
   "id": "7277"
+ },
+ {
+  "name": "Warped Terrorbird",
+  "hitpoints": 150,
+  "att": 60,
+  "str": 90,
+  "def": 20,
+  "mage": 60,
+  "range": 40,
+  "arange": 240,
+  "dstab": 50,
+  "dslash": 50,
+  "drange": 62,
+  "combat": 96,
+  "size": 2,
+  "id": "12491"
+ },
+ {
+  "name": "Warped Terrorbird",
+  "hitpoints": 200,
+  "att": 80,
+  "str": 150,
+  "def": 60,
+  "mage": 160,
+  "range": 70,
+  "arange": 160,
+  "dstab": 50,
+  "dslash": 50,
+  "drange": 62,
+  "combat": 138,
+  "size": 2,
+  "id": "12499"
+ },
+ {
+  "name": "Warped Tortoise",
+  "hitpoints": 200,
+  "att": 78,
+  "str": 106,
+  "def": 78,
+  "mage": 50,
+  "dstab": 50,
+  "dslash": 50,
+  "drange": 60,
+  "combat": 121,
+  "size": 3,
+  "id": "12490"
  },
  {
   "name": "Warrior",
@@ -23771,6 +25106,7 @@
   "drange": 38,
   "combat": 24,
   "size": 1,
+  "respawn": 50,
   "id": "3260"
  },
  {
@@ -23790,6 +25126,7 @@
   "drange": 50,
   "combat": 48,
   "size": 1,
+  "respawn": 30,
   "id": "3950"
  },
  {
@@ -23807,6 +25144,7 @@
   "drange": 16,
   "combat": 33,
   "size": 1,
+  "respawn": 50,
   "id": "5420"
  },
  {
@@ -23819,6 +25157,7 @@
   "range": 30,
   "combat": 34,
   "size": 1,
+  "respawn": 50,
   "id": "1370"
  },
  {
@@ -23831,6 +25170,7 @@
   "dmagic": 15,
   "combat": 13,
   "size": 1,
+  "respawn": 50,
   "id": "1557"
  },
  {
@@ -23866,6 +25206,7 @@
   "drange": 20,
   "combat": 23,
   "size": 1,
+  "respawn": 350,
   "id": "5211"
  },
  {
@@ -23896,6 +25237,7 @@
   "drange": -21,
   "combat": 93,
   "size": 1,
+  "respawn": 25,
   "id": "3135"
  },
  {
@@ -23943,6 +25285,7 @@
   "drange": 74,
   "combat": 36,
   "size": 1,
+  "respawn": 50,
   "id": "1798"
  },
  {
@@ -23962,6 +25305,7 @@
   "drange": 74,
   "combat": 38,
   "size": 1,
+  "respawn": 50,
   "id": "1799"
  },
  {
@@ -23981,6 +25325,7 @@
   "drange": 74,
   "combat": 39,
   "size": 1,
+  "respawn": 50,
   "id": "1800"
  },
  {
@@ -24000,6 +25345,7 @@
   "drange": 85,
   "combat": 42,
   "size": 1,
+  "respawn": 50,
   "id": "1829"
  },
  {
@@ -24030,6 +25376,7 @@
   "range": 1,
   "combat": 25,
   "size": 2,
+  "respawn": 90,
   "id": "107"
  },
  {
@@ -24042,6 +25389,7 @@
   "range": 1,
   "combat": 38,
   "size": 2,
+  "respawn": 90,
   "id": "108"
  },
  {
@@ -24066,7 +25414,20 @@
   "range": 1,
   "combat": 63,
   "size": 1,
+  "respawn": 50,
   "id": "112"
+ },
+ {
+  "name": "Wild dog",
+  "hitpoints": 62,
+  "att": 53,
+  "str": 54,
+  "def": 54,
+  "mage": 1,
+  "range": 1,
+  "combat": 63,
+  "size": 1,
+  "id": "113"
  },
  {
   "name": "Wilson",
@@ -24078,6 +25439,7 @@
   "range": 1,
   "combat": 37,
   "size": 1,
+  "respawn": 25,
   "id": "3865"
  },
  {
@@ -24201,6 +25563,7 @@
   "dmagic": 3,
   "combat": 9,
   "size": 1,
+  "respawn": 30,
   "id": "3257"
  },
  {
@@ -24213,6 +25576,7 @@
   "range": 1,
   "combat": 64,
   "size": 2,
+  "respawn": 90,
   "id": "106"
  },
  {
@@ -24225,7 +25589,8 @@
   "range": 1,
   "combat": 25,
   "size": 2,
-  "id": "110"
+  "respawn": 90,
+  "id": "117"
  },
  {
   "name": "Wolf",
@@ -24237,6 +25602,7 @@
   "range": 1,
   "combat": 14,
   "size": 2,
+  "respawn": 90,
   "id": "2490"
  },
  {
@@ -24249,6 +25615,7 @@
   "range": 1,
   "combat": 11,
   "size": 2,
+  "respawn": 90,
   "id": "2491"
  },
  {
@@ -24281,6 +25648,7 @@
   "dcrush": 1,
   "combat": 3,
   "size": 1,
+  "respawn": 50,
   "id": "1119"
  },
  {
@@ -24296,6 +25664,7 @@
   "dcrush": 1,
   "combat": 4,
   "size": 1,
+  "respawn": 50,
   "id": "1130"
  },
  {
@@ -24308,6 +25677,7 @@
   "range": 1,
   "combat": 4,
   "size": 1,
+  "respawn": 50,
   "id": "1139"
  },
  {
@@ -24320,6 +25690,7 @@
   "range": 1,
   "combat": 12,
   "size": 1,
+  "respawn": 50,
   "id": "1140"
  },
  {
@@ -24332,6 +25703,7 @@
   "range": 1,
   "combat": 3,
   "size": 1,
+  "respawn": 50,
   "id": "1141"
  },
  {
@@ -24344,6 +25716,7 @@
   "range": 1,
   "combat": 14,
   "size": 1,
+  "respawn": 50,
   "id": "1142"
  },
  {
@@ -24361,6 +25734,7 @@
   "drange": -21,
   "combat": 2,
   "size": 1,
+  "respawn": 25,
   "id": "3015"
  },
  {
@@ -24393,6 +25767,7 @@
   "drange": 20,
   "combat": 99,
   "size": 3,
+  "respawn": 15,
   "id": "8610"
  },
  {
@@ -24468,6 +25843,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2628"
  },
  {
@@ -24480,6 +25856,7 @@
   "range": 1,
   "combat": 22,
   "size": 2,
+  "respawn": 5,
   "id": "5816"
  },
  {
@@ -24539,6 +25916,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2615"
  },
  {
@@ -24567,6 +25945,7 @@
   "range": 1,
   "combat": 336,
   "size": 5,
+  "respawn": 37,
   "id": "9049"
  },
  {
@@ -24591,6 +25970,7 @@
   "range": 1,
   "combat": 19,
   "size": 1,
+  "respawn": 50,
   "id": "7426"
  },
  {
@@ -24603,6 +25983,7 @@
   "range": 1,
   "combat": 84,
   "size": 1,
+  "respawn": 50,
   "id": "7422"
  },
  {
@@ -24615,6 +25996,7 @@
   "range": 1,
   "combat": 82,
   "size": 1,
+  "respawn": 50,
   "id": "7423"
  },
  {
@@ -24627,6 +26009,7 @@
   "range": 80,
   "combat": 81,
   "size": 1,
+  "respawn": 50,
   "id": "7420"
  },
  {
@@ -24639,6 +26022,7 @@
   "range": 80,
   "combat": 82,
   "size": 1,
+  "respawn": 50,
   "id": "7421"
  },
  {
@@ -24651,6 +26035,7 @@
   "range": 1,
   "combat": 84,
   "size": 1,
+  "respawn": 50,
   "id": "7418"
  },
  {
@@ -24663,6 +26048,7 @@
   "range": 1,
   "combat": 85,
   "size": 1,
+  "respawn": 50,
   "id": "7419"
  },
  {
@@ -24712,6 +26098,7 @@
   "range": 1,
   "combat": 44,
   "size": 2,
+  "respawn": 50,
   "id": "866"
  },
  {
@@ -24729,6 +26116,7 @@
   "drange": -21,
   "combat": 24,
   "size": 1,
+  "respawn": 25,
   "id": "2631"
  },
  {
@@ -24743,6 +26131,7 @@
   "attbns": 5,
   "combat": 13,
   "size": 1,
+  "respawn": 35,
   "id": "26"
  },
  {
@@ -24757,6 +26146,7 @@
   "attbns": 5,
   "combat": 18,
   "size": 1,
+  "respawn": 35,
   "id": "42"
  },
  {
@@ -24777,6 +26167,7 @@
   "drange": 11,
   "combat": 24,
   "size": 1,
+  "respawn": 35,
   "id": "49"
  },
  {
@@ -24797,6 +26188,7 @@
   "drange": 10,
   "combat": 25,
   "size": 1,
+  "respawn": 35,
   "id": "64"
  },
  {
@@ -24824,6 +26216,7 @@
   "attbns": 5,
   "combat": 30,
   "size": 1,
+  "respawn": 35,
   "id": "2501"
  },
  {
@@ -24839,6 +26232,7 @@
   "dcrush": 22,
   "combat": 44,
   "size": 1,
+  "respawn": 35,
   "id": "2504"
  },
  {
@@ -24858,6 +26252,7 @@
   "drange": 21,
   "combat": 53,
   "size": 1,
+  "respawn": 35,
   "id": "2507"
  },
  {
@@ -24888,6 +26283,7 @@
   "drange": 10,
   "combat": 40,
   "size": 1,
+  "respawn": 50,
   "id": "6449"
  },
  {
@@ -24922,6 +26318,7 @@
   "drange": 10,
   "combat": 47,
   "size": 1,
+  "respawn": 50,
   "id": "6451"
  },
  {
@@ -24939,6 +26336,7 @@
   "drange": 10,
   "combat": 50,
   "size": 1,
+  "respawn": 50,
   "id": "6452"
  },
  {
@@ -24956,6 +26354,7 @@
   "drange": 10,
   "combat": 56,
   "size": 1,
+  "respawn": 50,
   "id": "6453"
  },
  {
@@ -24973,6 +26372,7 @@
   "drange": 10,
   "combat": 61,
   "size": 1,
+  "respawn": 50,
   "id": "6454"
  },
  {
@@ -24990,6 +26390,7 @@
   "drange": 10,
   "combat": 67,
   "size": 1,
+  "respawn": 50,
   "id": "6455"
  },
  {
@@ -25007,6 +26408,7 @@
   "drange": 10,
   "combat": 70,
   "size": 1,
+  "respawn": 50,
   "id": "6456"
  },
  {
@@ -25024,6 +26426,7 @@
   "drange": 10,
   "combat": 72,
   "size": 1,
+  "respawn": 50,
   "id": "6457"
  },
  {
@@ -25041,6 +26444,7 @@
   "drange": 10,
   "combat": 76,
   "size": 1,
+  "respawn": 50,
   "id": "6458"
  },
  {
@@ -25058,6 +26462,7 @@
   "drange": 10,
   "combat": 80,
   "size": 1,
+  "respawn": 50,
   "id": "6459"
  },
  {
@@ -25075,6 +26480,7 @@
   "drange": 10,
   "combat": 85,
   "size": 1,
+  "respawn": 50,
   "id": "6460"
  },
  {
@@ -25092,6 +26498,7 @@
   "drange": 10,
   "combat": 86,
   "size": 1,
+  "respawn": 50,
   "id": "6461"
  },
  {
@@ -25109,6 +26516,7 @@
   "drange": 10,
   "combat": 90,
   "size": 1,
+  "respawn": 50,
   "id": "6462"
  },
  {
@@ -25160,6 +26568,7 @@
   "drange": 10,
   "combat": 100,
   "size": 1,
+  "respawn": 50,
   "id": "6465"
  },
  {
@@ -25177,6 +26586,7 @@
   "drange": 10,
   "combat": 81,
   "size": 1,
+  "respawn": 50,
   "id": "6466"
  },
  {
@@ -25190,6 +26600,7 @@
   "range": 1,
   "combat": 159,
   "size": 1,
+  "respawn": 75,
   "id": "6741"
  },
  {
@@ -25208,6 +26619,7 @@
   "drange": 10,
   "combat": 70,
   "size": 1,
+  "respawn": 50,
   "id": "7485"
  },
  {
@@ -25226,6 +26638,7 @@
   "drange": 10,
   "combat": 56,
   "size": 1,
+  "respawn": 50,
   "id": "7486"
  },
  {
@@ -25244,6 +26657,7 @@
   "drange": 10,
   "combat": 76,
   "size": 1,
+  "respawn": 50,
   "id": "7487"
  },
  {
@@ -25262,6 +26676,7 @@
   "drange": 10,
   "combat": 72,
   "size": 1,
+  "respawn": 50,
   "id": "7488"
  },
  {
@@ -25281,6 +26696,7 @@
   "drange": 30,
   "combat": 132,
   "size": 1,
+  "respawn": 25,
   "id": "8067"
  },
  {
@@ -25294,7 +26710,21 @@
   "range": 1,
   "combat": 57,
   "size": 1,
+  "respawn": 50,
   "id": "563"
+ },
+ {
+  "name": "Zombie pirate",
+  "isUndead": true,
+  "hitpoints": 52,
+  "att": 49,
+  "str": 50,
+  "def": 50,
+  "mage": 1,
+  "range": 1,
+  "combat": 57,
+  "size": 1,
+  "id": "574"
  },
  {
   "name": "Zombie rat",
@@ -25306,6 +26736,7 @@
   "range": 1,
   "combat": 3,
   "size": 2,
+  "respawn": 30,
   "id": "3969"
  },
  {
@@ -25319,6 +26750,7 @@
   "range": 1,
   "combat": 55,
   "size": 1,
+  "respawn": 37,
   "id": "619"
  },
  {
@@ -25437,6 +26869,7 @@
   "drange": 20,
   "combat": 74,
   "size": 1,
+  "respawn": 30,
   "id": "537"
  },
  {
@@ -25455,6 +26888,7 @@
   "drange": 20,
   "combat": 86,
   "size": 2,
+  "respawn": 30,
   "id": "1024"
  }
 ]
