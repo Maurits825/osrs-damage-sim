@@ -23183,6 +23183,25 @@
   "combat": 50,
   "size": 1
  },
+ "4331": {
+  "name": "Black Knight",
+  "hitpoints": 42,
+  "att": 25,
+  "str": 25,
+  "def": 25,
+  "mage": 1,
+  "range": 1,
+  "attbns": 18,
+  "strbns": 16,
+  "dstab": 73,
+  "dslash": 76,
+  "dcrush": 70,
+  "dmagic": -11,
+  "drange": 72,
+  "combat": 33,
+  "size": 1,
+  "respawn": 25
+ },
  "4342": {
   "name": "Sir Lucan",
   "hitpoints": 105,
@@ -23501,7 +23520,7 @@
   "size": 2,
   "respawn": 12
  },
- "4383": {
+ "4382": {
   "name": "Ogre shaman",
   "hitpoints": 1,
   "att": 1,
@@ -23510,10 +23529,9 @@
   "mage": 1,
   "range": 1,
   "combat": 113,
-  "size": 2,
-  "respawn": 51
+  "size": 2
  },
- "4384": {
+ "4383": {
   "name": "Ogre shaman",
   "hitpoints": 1,
   "att": 1,
@@ -24921,6 +24939,34 @@
   "combat": 45,
   "size": 2,
   "respawn": 25
+ },
+ "4800": {
+  "name": "Giant Lobster",
+  "hitpoints": 50,
+  "att": 40,
+  "str": 30,
+  "def": 40,
+  "mage": 1,
+  "range": 1,
+  "dstab": 30,
+  "dslash": 30,
+  "dcrush": 15,
+  "dmagic": 99,
+  "drange": 70,
+  "combat": 45,
+  "size": 2,
+  "respawn": 25
+ },
+ "4805": {
+  "name": "Hobgoblin",
+  "hitpoints": 29,
+  "att": 22,
+  "str": 24,
+  "def": 24,
+  "mage": 1,
+  "range": 1,
+  "combat": 28,
+  "size": 1
  },
  "4813": {
   "name": "Icefiend",
@@ -34485,6 +34531,7 @@
  },
  "7020": {
   "name": "Reanimated imp",
+  "isDemon": true,
   "hitpoints": 5,
   "att": 1,
   "str": 1,
@@ -34635,6 +34682,7 @@
  },
  "7032": {
   "name": "Reanimated kalphite",
+  "isKalphite": true,
   "hitpoints": 35,
   "att": 110,
   "str": 110,
@@ -35585,7 +35633,8 @@
   "mage": 1,
   "range": 1,
   "combat": 107,
-  "size": 2
+  "size": 2,
+  "respawn": 50
  },
  "7267": {
   "name": "Sandy Boulder",
@@ -43184,6 +43233,37 @@
   "combat": 134,
   "size": 2
  },
+ "9483": {
+  "name": "Giant rat",
+  "hitpoints": 5,
+  "att": 2,
+  "str": 3,
+  "def": 2,
+  "mage": 1,
+  "range": 1,
+  "combat": 3,
+  "size": 2,
+  "respawn": 30
+ },
+ "9488": {
+  "name": "Chicken",
+  "hitpoints": 3,
+  "att": 1,
+  "str": 1,
+  "def": 1,
+  "mage": 1,
+  "range": 1,
+  "attbns": -47,
+  "strbns": -42,
+  "dstab": -42,
+  "dslash": -42,
+  "dcrush": -42,
+  "dmagic": -42,
+  "drange": -42,
+  "combat": 1,
+  "size": 1,
+  "respawn": 25
+ },
  "9502": {
   "name": "Iorwerth Warrior",
   "hitpoints": 105,
@@ -43463,6 +43543,22 @@
   "dmagic": 34,
   "drange": 34,
   "combat": 459,
+  "size": 1
+ },
+ "9635": {
+  "name": "Gadderanks",
+  "hitpoints": 20,
+  "att": 20,
+  "str": 20,
+  "def": 70,
+  "mage": 1,
+  "range": 1,
+  "dstab": 10,
+  "dslash": 10,
+  "dcrush": 10,
+  "dmagic": 10,
+  "drange": 10,
+  "combat": 35,
   "size": 1
  },
  "9727": {
@@ -43904,6 +44000,25 @@
   "combat": 82,
   "size": 3
  },
+ "10494": {
+  "name": "Chicken",
+  "hitpoints": 3,
+  "att": 1,
+  "str": 1,
+  "def": 1,
+  "mage": 1,
+  "range": 1,
+  "attbns": -47,
+  "strbns": -42,
+  "dstab": -42,
+  "dslash": -42,
+  "dcrush": -42,
+  "dmagic": -42,
+  "drange": -42,
+  "combat": 1,
+  "size": 1,
+  "respawn": 25
+ },
  "10495": {
   "name": "Chicken",
   "hitpoints": 3,
@@ -43924,6 +44039,25 @@
   "respawn": 25
  },
  "10496": {
+  "name": "Chicken",
+  "hitpoints": 3,
+  "att": 1,
+  "str": 1,
+  "def": 1,
+  "mage": 1,
+  "range": 1,
+  "attbns": -47,
+  "strbns": -42,
+  "dstab": -42,
+  "dslash": -42,
+  "dcrush": -42,
+  "dmagic": -42,
+  "drange": -42,
+  "combat": 1,
+  "size": 1,
+  "respawn": 25
+ },
+ "10497": {
   "name": "Chicken",
   "hitpoints": 3,
   "att": 1,
@@ -44532,6 +44666,23 @@
   "combat": 61,
   "size": 1,
   "respawn": 30
+ },
+ "10728": {
+  "name": "Woman",
+  "hitpoints": 7,
+  "att": 1,
+  "str": 1,
+  "def": 1,
+  "mage": 1,
+  "range": 1,
+  "dstab": -21,
+  "dslash": -21,
+  "dcrush": -21,
+  "dmagic": -21,
+  "drange": -21,
+  "combat": 2,
+  "size": 1,
+  "respawn": 25
  },
  "10768": {
   "name": "Xarpus",
@@ -45212,6 +45363,55 @@
   "combat": 91,
   "size": 1
  },
+ "11053": {
+  "name": "Woman",
+  "hitpoints": 7,
+  "att": 1,
+  "str": 1,
+  "def": 1,
+  "mage": 1,
+  "range": 1,
+  "dstab": -21,
+  "dslash": -21,
+  "dcrush": -21,
+  "dmagic": -21,
+  "drange": -21,
+  "combat": 2,
+  "size": 1
+ },
+ "11054": {
+  "name": "Woman",
+  "hitpoints": 7,
+  "att": 1,
+  "str": 1,
+  "def": 1,
+  "mage": 1,
+  "range": 1,
+  "dstab": -21,
+  "dslash": -21,
+  "dcrush": -21,
+  "dmagic": -21,
+  "drange": -21,
+  "combat": 2,
+  "size": 1
+ },
+ "11057": {
+  "name": "Man",
+  "hitpoints": 7,
+  "att": 1,
+  "str": 1,
+  "def": 1,
+  "mage": 1,
+  "range": 1,
+  "dstab": -21,
+  "dslash": -21,
+  "dcrush": -21,
+  "dmagic": -21,
+  "drange": -21,
+  "combat": 2,
+  "size": 1,
+  "respawn": 25
+ },
  "11058": {
   "name": "Man",
   "hitpoints": 7,
@@ -45226,7 +45426,8 @@
   "dmagic": -21,
   "drange": -21,
   "combat": 2,
-  "size": 1
+  "size": 1,
+  "respawn": 25
  },
  "11063": {
   "name": "Bandit",
@@ -45673,6 +45874,25 @@
   "combat": 68,
   "size": 1,
   "respawn": 50
+ },
+ "11092": {
+  "name": "Guard",
+  "hitpoints": 22,
+  "att": 19,
+  "str": 18,
+  "def": 14,
+  "mage": 1,
+  "range": 1,
+  "attbns": 9,
+  "strbns": 7,
+  "dstab": 24,
+  "dslash": 14,
+  "dcrush": 19,
+  "dmagic": 4,
+  "drange": 16,
+  "combat": 21,
+  "size": 1,
+  "respawn": 30
  },
  "11093": {
   "name": "Head Guard",
@@ -46771,6 +46991,70 @@
   "combat": 184,
   "size": 1
  },
+ "11418": {
+  "name": "Null",
+  "hitpoints": 50,
+  "att": 1,
+  "str": 1,
+  "mage": 1,
+  "range": 1
+ },
+ "11419": {
+  "name": "Null",
+  "hitpoints": 50,
+  "att": 1,
+  "str": 1,
+  "mage": 1,
+  "range": 1
+ },
+ "11420": {
+  "name": "Null",
+  "hitpoints": 100,
+  "att": 1,
+  "str": 1,
+  "mage": 1,
+  "range": 1
+ },
+ "11421": {
+  "name": "Null",
+  "hitpoints": 100,
+  "att": 1,
+  "str": 1,
+  "mage": 1,
+  "range": 1
+ },
+ "11422": {
+  "name": "Null",
+  "hitpoints": 200,
+  "att": 1,
+  "str": 1,
+  "mage": 1,
+  "range": 1
+ },
+ "11423": {
+  "name": "Null",
+  "hitpoints": 200,
+  "att": 1,
+  "str": 1,
+  "mage": 1,
+  "range": 1
+ },
+ "11424": {
+  "name": "Null",
+  "hitpoints": 400,
+  "att": 1,
+  "str": 1,
+  "mage": 1,
+  "range": 1
+ },
+ "11425": {
+  "name": "Null",
+  "hitpoints": 400,
+  "att": 1,
+  "str": 1,
+  "mage": 1,
+  "range": 1
+ },
  "11462": {
   "name": "Menaphite Shadow",
   "hitpoints": 50,
@@ -46911,6 +47195,52 @@
   "drange": 50,
   "combat": 174,
   "size": 1
+ },
+ "11581": {
+  "name": "Crocodile",
+  "hitpoints": 62,
+  "att": 53,
+  "str": 54,
+  "def": 54,
+  "mage": 1,
+  "range": 1,
+  "dstab": 20,
+  "dslash": 12,
+  "dcrush": 22,
+  "dmagic": 10,
+  "drange": 20,
+  "combat": 63,
+  "size": 2,
+  "respawn": 40
+ },
+ "11582": {
+  "name": "Crocodile",
+  "hitpoints": 62,
+  "att": 53,
+  "str": 54,
+  "def": 54,
+  "mage": 1,
+  "range": 1,
+  "dstab": 20,
+  "dslash": 12,
+  "dcrush": 22,
+  "dmagic": 10,
+  "drange": 20,
+  "combat": 63,
+  "size": 2,
+  "respawn": 40
+ },
+ "11583": {
+  "name": "Jackal",
+  "hitpoints": 27,
+  "att": 17,
+  "str": 18,
+  "def": 15,
+  "mage": 1,
+  "range": 1,
+  "combat": 21,
+  "size": 1,
+  "respawn": 50
  },
  "11584": {
   "name": "Locust",
@@ -47211,6 +47541,7 @@
  },
  "11724": {
   "name": "Soldier Scarab",
+  "isKalphite": true,
   "hitpoints": 40,
   "att": 75,
   "str": 80,
@@ -47232,6 +47563,7 @@
  },
  "11725": {
   "name": "Spitting Scarab",
+  "isKalphite": true,
   "hitpoints": 40,
   "att": 1,
   "str": 80,
@@ -47252,6 +47584,7 @@
  },
  "11726": {
   "name": "Arcane Scarab",
+  "isKalphite": true,
   "hitpoints": 40,
   "att": 75,
   "str": 80,
@@ -47272,6 +47605,7 @@
  },
  "11727": {
   "name": "Agile Scarab",
+  "isKalphite": true,
   "hitpoints": 30,
   "att": 60,
   "str": 20,
@@ -48733,6 +49067,21 @@
   "size": 1,
   "respawn": 50
  },
+ "11976": {
+  "name": "Alomone",
+  "hitpoints": 25,
+  "att": 10,
+  "str": 10,
+  "def": 4,
+  "mage": 1,
+  "range": 1,
+  "dstab": 5,
+  "dslash": 6,
+  "dcrush": 8,
+  "combat": 13,
+  "size": 1,
+  "respawn": 50
+ },
  "11989": {
   "name": "Grizzly bear",
   "hitpoints": 75,
@@ -48831,6 +49180,23 @@
   "size": 4,
   "respawn": 25
  },
+ "11999": {
+  "name": "Poison spider",
+  "hitpoints": 64,
+  "att": 50,
+  "str": 58,
+  "def": 52,
+  "mage": 1,
+  "range": 1,
+  "dstab": 20,
+  "dslash": 17,
+  "dcrush": 10,
+  "dmagic": 14,
+  "drange": 14,
+  "combat": 64,
+  "size": 1,
+  "respawn": 30
+ },
  "12000": {
   "name": "Venenatis' Spiderling",
   "hitpoints": 5,
@@ -48852,6 +49218,87 @@
   "range": 20,
   "combat": 12,
   "size": 1
+ },
+ "12003": {
+  "name": "Desert Lizard",
+  "hitpoints": 25,
+  "att": 20,
+  "str": 22,
+  "def": 20,
+  "mage": 1,
+  "range": 1,
+  "dstab": 5,
+  "dslash": 15,
+  "dcrush": 15,
+  "drange": 5,
+  "combat": 24,
+  "size": 2,
+  "respawn": 25
+ },
+ "12004": {
+  "name": "Small Lizard",
+  "hitpoints": 15,
+  "att": 10,
+  "str": 10,
+  "def": 10,
+  "mage": 1,
+  "range": 1,
+  "dslash": 5,
+  "dcrush": 5,
+  "combat": 12,
+  "size": 1,
+  "respawn": 50
+ },
+ "12019": {
+  "name": "Khazard Guard",
+  "hitpoints": 25,
+  "att": 20,
+  "str": 18,
+  "def": 20,
+  "mage": 1,
+  "range": 1,
+  "attbns": 10,
+  "strbns": 14,
+  "dstab": 44,
+  "dslash": 38,
+  "dcrush": 30,
+  "combat": 23,
+  "size": 1,
+  "respawn": 50
+ },
+ "12020": {
+  "name": "Khazard Guard",
+  "hitpoints": 25,
+  "att": 20,
+  "str": 18,
+  "def": 20,
+  "mage": 1,
+  "range": 1,
+  "attbns": 10,
+  "strbns": 14,
+  "dstab": 44,
+  "dslash": 38,
+  "dcrush": 30,
+  "combat": 23,
+  "size": 1,
+  "respawn": 50
+ },
+ "12021": {
+  "name": "Khazard Guard",
+  "hitpoints": 25,
+  "att": 20,
+  "str": 18,
+  "def": 20,
+  "mage": 1,
+  "range": 1,
+  "attbns": 10,
+  "strbns": 14,
+  "dstab": 44,
+  "dslash": 38,
+  "dcrush": 30,
+  "combat": 23,
+  "size": 1,
+  "respawn": 50
  },
  "12025": {},
  "12027": {},
@@ -49210,6 +49657,18 @@
   "size": 5,
   "respawn": 50
  },
+ "12084": {
+  "name": "Snake",
+  "hitpoints": 6,
+  "att": 4,
+  "str": 5,
+  "def": 3,
+  "mage": 1,
+  "range": 1,
+  "combat": 5,
+  "size": 1,
+  "respawn": 30
+ },
  "12092": {
   "name": "Alomone",
   "hitpoints": 25,
@@ -49345,70 +49804,7 @@
   "drange": 184,
   "combat": 139
  },
- "12166": {
-  "name": "Duke Sucellus",
-  "isDemon": true,
-  "hitpoints": 440,
-  "att": 300,
-  "str": 345,
-  "def": 275,
-  "mage": 310,
-  "attbns": 200,
-  "strbns": 38,
-  "amagic": 150,
-  "mbns": 32,
-  "dstab": 255,
-  "dslash": 65,
-  "dcrush": 190,
-  "dmagic": 440,
-  "drange": 320,
-  "combat": 758,
-  "size": 7,
-  "respawn": 20
- },
  "12167": {
-  "name": "Duke Sucellus",
-  "isDemon": true,
-  "hitpoints": 440,
-  "att": 300,
-  "str": 345,
-  "def": 275,
-  "mage": 310,
-  "attbns": 200,
-  "strbns": 38,
-  "amagic": 150,
-  "mbns": 32,
-  "dstab": 255,
-  "dslash": 65,
-  "dcrush": 190,
-  "dmagic": 440,
-  "drange": 320,
-  "combat": 758,
-  "size": 7,
-  "respawn": 20
- },
- "12191": {
-  "name": "Duke Sucellus",
-  "isDemon": true,
-  "hitpoints": 440,
-  "att": 300,
-  "str": 345,
-  "def": 275,
-  "mage": 310,
-  "attbns": 200,
-  "strbns": 38,
-  "amagic": 150,
-  "mbns": 32,
-  "dstab": 255,
-  "dslash": 65,
-  "dcrush": 190,
-  "dmagic": 440,
-  "drange": 320,
-  "combat": 758,
-  "size": 7,
-  "respawn": 20
- },
- "12192": {
   "name": "Duke Sucellus",
   "isDemon": true,
   "hitpoints": 440,
@@ -49492,50 +49888,6 @@
   "size": 7,
   "respawn": 20
  },
- "12196": {
-  "name": "Duke Sucellus",
-  "isDemon": true,
-  "hitpoints": 440,
-  "att": 300,
-  "str": 345,
-  "def": 275,
-  "mage": 310,
-  "attbns": 200,
-  "strbns": 38,
-  "amagic": 150,
-  "mbns": 32,
-  "dstab": 255,
-  "dslash": 65,
-  "dcrush": 190,
-  "dmagic": 440,
-  "drange": 320,
-  "combat": 758,
-  "size": 7,
-  "respawn": 20
- },
- "12204": {
-  "name": "The Whisperer",
-  "hitpoints": 900,
-  "att": 280,
-  "str": 280,
-  "def": 250,
-  "mage": 180,
-  "range": 180,
-  "attbns": 140,
-  "strbns": 30,
-  "amagic": 190,
-  "mbns": 58,
-  "arange": 160,
-  "rngbns": 70,
-  "dstab": 180,
-  "dslash": 300,
-  "dcrush": 220,
-  "dmagic": 10,
-  "drange": 300,
-  "combat": 791,
-  "size": 3,
-  "respawn": 30
- },
  "12205": {
   "name": "The Whisperer",
   "hitpoints": 900,
@@ -49605,28 +49957,6 @@
   "size": 3,
   "respawn": 30
  },
- "12214": {
-  "name": "The Leviathan",
-  "hitpoints": 900,
-  "att": 300,
-  "str": 360,
-  "def": 250,
-  "mage": 160,
-  "range": 160,
-  "attbns": 200,
-  "strbns": 22,
-  "amagic": 160,
-  "mbns": 58,
-  "arange": 300,
-  "rngbns": 26,
-  "dstab": 260,
-  "dslash": 190,
-  "dcrush": 230,
-  "dmagic": 280,
-  "drange": 50,
-  "combat": 798,
-  "size": 7
- },
  "12215": {
   "name": "The Leviathan (quest)",
   "hitpoints": 720,
@@ -49670,23 +50000,6 @@
   "drange": 30,
   "combat": 593,
   "size": 7
- },
- "12223": {
-  "name": "Vardorvis",
-  "hitpoints": 700,
-  "att": 280,
-  "mage": 215,
-  "attbns": 190,
-  "strbns": 10,
-  "dstab": 215,
-  "dslash": 65,
-  "dcrush": 85,
-  "dmagic": 580,
-  "drange": 580,
-  "combat": 784,
-  "size": 2,
-  "respawn": 17,
-  "def": 215
  },
  "12224": {
   "name": "Vardorvis (quest)",
@@ -50843,6 +51156,40 @@
   "combat": 362,
   "size": 4
  },
+ "12460": {
+  "name": "Guard",
+  "hitpoints": 800,
+  "att": 800,
+  "str": 400,
+  "def": 300,
+  "mage": 1,
+  "range": 1,
+  "attbns": 60,
+  "strbns": 7,
+  "dstab": 8,
+  "dslash": 9,
+  "dcrush": 7,
+  "drange": 8,
+  "combat": 1337,
+  "size": 1
+ },
+ "12462": {
+  "name": "Guard",
+  "hitpoints": 800,
+  "att": 800,
+  "str": 400,
+  "def": 300,
+  "mage": 1,
+  "range": 1,
+  "attbns": 60,
+  "strbns": 7,
+  "dstab": 8,
+  "dslash": 9,
+  "dcrush": 7,
+  "drange": 8,
+  "combat": 1337,
+  "size": 1
+ },
  "12464": {
   "name": "Mutated Terrorbird",
   "hitpoints": 320,
@@ -50860,7 +51207,16 @@
  },
  "12465": {
   "name": "Mutated Tortoise",
-  "combat": 247
+  "hitpoints": 440,
+  "att": 130,
+  "str": 170,
+  "def": 120,
+  "mage": 90,
+  "dstab": 50,
+  "dslash": 50,
+  "drange": 60,
+  "combat": 247,
+  "size": 4
  },
  "12490": {
   "name": "Warped Tortoise",
@@ -50873,7 +51229,8 @@
   "dslash": 50,
   "drange": 60,
   "combat": 121,
-  "size": 3
+  "size": 3,
+  "respawn": 25
  },
  "12491": {
   "name": "Warped Terrorbird",

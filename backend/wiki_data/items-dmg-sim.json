@@ -2481,7 +2481,8 @@
   "weight": 0.453,
   "equipable": true,
   "slot": 3,
-  "aspeed": 4
+  "aspeed": 4,
+  "weaponCategory": "STAB_SWORD"
  },
  "1237": {
   "name": "Bronze spear",
@@ -11049,7 +11050,8 @@
   "weight": 0.453,
   "equipable": true,
   "slot": 3,
-  "aspeed": 4
+  "aspeed": 4,
+  "weaponCategory": "STAB_SWORD"
  },
  "5686": {
   "name": "Iron dagger",
@@ -11168,7 +11170,8 @@
   "weight": 0.453,
   "equipable": true,
   "slot": 3,
-  "aspeed": 4
+  "aspeed": 4,
+  "weaponCategory": "STAB_SWORD"
  },
  "5704": {
   "name": "Bronze spear",
@@ -14950,7 +14953,8 @@
   "is2h": true,
   "acrush": 11,
   "str": 14,
-  "aspeed": 6
+  "aspeed": 6,
+  "weaponCategory": "POLESTAFF"
  },
  "7806": {
   "name": "Anger sword",
@@ -44875,8 +44879,8 @@
   "slot": 10
  },
  "28196": {
-  "name": "Bronze 2h axe",
-  "weight": 1.36,
+  "name": "Bronze felling axe",
+  "weight": 1.814,
   "equipable": true,
   "slot": 3,
   "is2h": true,
@@ -44885,11 +44889,12 @@
   "acrush": 2,
   "dslash": 1,
   "str": 5,
-  "aspeed": 5
+  "aspeed": 5,
+  "weaponCategory": "AXE"
  },
  "28199": {
-  "name": "Iron 2h axe",
-  "weight": 1.36,
+  "name": "Iron felling axe",
+  "weight": 1.814,
   "equipable": true,
   "slot": 3,
   "is2h": true,
@@ -44898,11 +44903,12 @@
   "acrush": 3,
   "dslash": 1,
   "str": 7,
-  "aspeed": 5
+  "aspeed": 5,
+  "weaponCategory": "AXE"
  },
  "28202": {
-  "name": "Steel 2h axe",
-  "weight": 1.36,
+  "name": "Steel felling axe",
+  "weight": 1.814,
   "equipable": true,
   "slot": 3,
   "is2h": true,
@@ -44911,11 +44917,12 @@
   "acrush": 6,
   "dslash": 1,
   "str": 9,
-  "aspeed": 5
+  "aspeed": 5,
+  "weaponCategory": "AXE"
  },
  "28205": {
-  "name": "Black 2h axe",
-  "weight": 1.36,
+  "name": "Black felling axe",
+  "weight": 1.814,
   "equipable": true,
   "slot": 3,
   "is2h": true,
@@ -44924,11 +44931,12 @@
   "acrush": 8,
   "dslash": 1,
   "str": 12,
-  "aspeed": 5
+  "aspeed": 5,
+  "weaponCategory": "AXE"
  },
  "28208": {
-  "name": "Mithril 2h axe",
-  "weight": 1.36,
+  "name": "Mithril felling axe",
+  "weight": 1.814,
   "equipable": true,
   "slot": 3,
   "is2h": true,
@@ -44937,11 +44945,12 @@
   "acrush": 10,
   "dslash": 1,
   "str": 13,
-  "aspeed": 5
+  "aspeed": 5,
+  "weaponCategory": "AXE"
  },
  "28211": {
-  "name": "Adamant 2h axe",
-  "weight": 1.36,
+  "name": "Adamant felling axe",
+  "weight": 1.814,
   "equipable": true,
   "slot": 3,
   "is2h": true,
@@ -44950,11 +44959,12 @@
   "acrush": 15,
   "dslash": 1,
   "str": 19,
-  "aspeed": 5
+  "aspeed": 5,
+  "weaponCategory": "AXE"
  },
  "28214": {
-  "name": "Rune 2h axe",
-  "weight": 1.36,
+  "name": "Rune felling axe",
+  "weight": 1.814,
   "equipable": true,
   "slot": 3,
   "is2h": true,
@@ -44963,50 +44973,54 @@
   "acrush": 24,
   "dslash": 1,
   "str": 29,
-  "aspeed": 5
+  "aspeed": 5,
+  "weaponCategory": "AXE"
  },
  "28217": {
-  "name": "Dragon 2h axe",
-  "weight": 1.36,
+  "name": "Dragon felling axe",
+  "weight": 1.814,
   "equipable": true,
   "slot": 3,
   "is2h": true,
-  "astab": -2,
-  "aslash": 38,
-  "acrush": 32,
+  "astab": -3,
+  "aslash": 60,
+  "acrush": 51,
   "dslash": 1,
-  "str": 42,
-  "aspeed": 5
+  "str": 67,
+  "aspeed": 7,
+  "weaponCategory": "AXE"
  },
  "28220": {
-  "name": "Crystal 2h axe",
+  "name": "Crystal felling axe",
   "weight": 1.36,
   "equipable": true,
   "slot": 3,
   "is2h": true,
-  "astab": -2,
-  "aslash": 38,
-  "acrush": 32,
+  "astab": -3,
+  "aslash": 60,
+  "acrush": 51,
   "dslash": 1,
-  "str": 42,
-  "aspeed": 5
+  "str": 67,
+  "aspeed": 7,
+  "weaponCategory": "AXE"
  },
  "28223": {
-  "name": "Crystal 2h axe",
-  "weight": 1.36,
+  "name": "Crystal felling axe",
+  "weight": 1.814,
   "equipable": true,
   "slot": 3,
   "is2h": true,
-  "astab": -2,
-  "aslash": 38,
-  "acrush": 32,
+  "astab": -3,
+  "aslash": 60,
+  "acrush": 51,
   "dslash": 1,
-  "str": 42,
-  "aspeed": 5
+  "str": 67,
+  "aspeed": 7,
+  "weaponCategory": "AXE"
  },
  "28226": {
-  "name": "3rd age 2h axe",
-  "weight": 1.36,
+  "name": "3rd age felling axe",
+  "weight": 1.814,
   "equipable": true,
   "slot": 3,
   "is2h": true,
@@ -45015,7 +45029,8 @@
   "acrush": 32,
   "dslash": 1,
   "str": 42,
-  "aspeed": 5
+  "aspeed": 5,
+  "weaponCategory": "AXE"
  },
  "28254": {
   "name": "Sanguine torva full helm",
@@ -45420,5 +45435,93 @@
   "dmagic": 12,
   "aspeed": 4,
   "weaponCategory": "POWERED_STAFF"
+ },
+ "28601": {
+  "name": "Cobweb cape",
+  "weight": 0.25,
+  "equipable": true,
+  "slot": 1
+ },
+ "28603": {
+  "name": "Spider hat",
+  "weight": 0.25,
+  "equipable": true,
+  "slot": 0
+ },
+ "28605": {
+  "name": "Spider hat",
+  "weight": 0.25,
+  "equipable": true,
+  "slot": 0
+ },
+ "28607": {
+  "name": "Spider hat",
+  "weight": 0.25,
+  "equipable": true,
+  "slot": 0
+ },
+ "28609": {
+  "name": "Spider hat",
+  "weight": 0.25,
+  "equipable": true,
+  "slot": 0
+ },
+ "28611": {
+  "name": "Spider hat",
+  "weight": 0.25,
+  "equipable": true,
+  "slot": 0
+ },
+ "28616": {
+  "name": "Pheasant cape",
+  "weight": 1.0,
+  "equipable": true,
+  "slot": 1
+ },
+ "28618": {
+  "name": "Pheasant boots",
+  "weight": 0.5,
+  "equipable": true,
+  "slot": 10
+ },
+ "28620": {
+  "name": "Pheasant hat",
+  "weight": 0.453,
+  "equipable": true,
+  "slot": 0
+ },
+ "28622": {
+  "name": "Pheasant legs",
+  "weight": 0.907,
+  "equipable": true,
+  "slot": 7
+ },
+ "28630": {
+  "name": "Twitcher's gloves",
+  "equipable": true,
+  "slot": 9
+ },
+ "28655": {
+  "name": "Petal garland",
+  "weight": 0.01,
+  "equipable": true,
+  "slot": 0
+ },
+ "28671": {
+  "name": "Web cloak",
+  "weight": 0.25,
+  "equipable": true,
+  "slot": 1
+ },
+ "28672": {
+  "name": "Fancier boots",
+  "weight": 0.01,
+  "equipable": true,
+  "slot": 10,
+  "amagic": -3,
+  "arange": -1,
+  "dstab": 1,
+  "dslash": 2,
+  "dcrush": 3
  }
 }
