@@ -378,6 +378,7 @@
  },
  {
   "name": "Agile Scarab",
+  "isKalphite": true,
   "hitpoints": 30,
   "att": 60,
   "str": 20,
@@ -633,7 +634,7 @@
   "combat": 13,
   "size": 1,
   "respawn": 50,
-  "id": "12092"
+  "id": "11976"
  },
  {
   "name": "Alrik",
@@ -1193,6 +1194,7 @@
  },
  {
   "name": "Arcane Scarab",
+  "isKalphite": true,
   "hitpoints": 40,
   "att": 75,
   "str": 80,
@@ -6509,7 +6511,7 @@
   "combat": 758,
   "size": 7,
   "respawn": 20,
-  "id": "12166"
+  "id": "12167"
  },
  {
   "name": "Duke Sucellus (quest)",
@@ -12619,6 +12621,7 @@
   "range": 1,
   "combat": 107,
   "size": 2,
+  "respawn": 50,
   "id": "7266"
  },
  {
@@ -13674,23 +13677,6 @@
   "id": "3261"
  },
  {
-  "name": "Man",
-  "hitpoints": 7,
-  "att": 1,
-  "str": 1,
-  "def": 1,
-  "mage": 1,
-  "range": 1,
-  "dstab": -21,
-  "dslash": -21,
-  "dcrush": -21,
-  "dmagic": -21,
-  "drange": -21,
-  "combat": 2,
-  "size": 1,
-  "id": "11058"
- },
- {
   "name": "Maniacal Monkey Archer",
   "hitpoints": 60,
   "att": 120,
@@ -14686,6 +14672,20 @@
   "id": "12464"
  },
  {
+  "name": "Mutated Tortoise",
+  "hitpoints": 440,
+  "att": 130,
+  "str": 170,
+  "def": 120,
+  "mage": 90,
+  "dstab": 50,
+  "dslash": 50,
+  "drange": 60,
+  "combat": 247,
+  "size": 4,
+  "id": "12465"
+ },
+ {
   "name": "Muttadile Large",
   "isXerician": true,
   "hitpoints": 250,
@@ -15107,6 +15107,42 @@
   "id": "7406"
  },
  {
+  "name": "Null",
+  "hitpoints": 50,
+  "att": 1,
+  "str": 1,
+  "mage": 1,
+  "range": 1,
+  "id": "11418"
+ },
+ {
+  "name": "Null",
+  "hitpoints": 100,
+  "att": 1,
+  "str": 1,
+  "mage": 1,
+  "range": 1,
+  "id": "11420"
+ },
+ {
+  "name": "Null",
+  "hitpoints": 200,
+  "att": 1,
+  "str": 1,
+  "mage": 1,
+  "range": 1,
+  "id": "11422"
+ },
+ {
+  "name": "Null",
+  "hitpoints": 400,
+  "att": 1,
+  "str": 1,
+  "mage": 1,
+  "range": 1,
+  "id": "11424"
+ },
+ {
   "name": "Nylocas Hagios (big)",
   "isTobNormalMode": true,
   "hitpoints": 22,
@@ -15468,8 +15504,7 @@
   "range": 1,
   "combat": 113,
   "size": 2,
-  "respawn": 51,
-  "id": "4383"
+  "id": "4382"
  },
  {
   "name": "Ogre shaman",
@@ -15481,7 +15516,8 @@
   "range": 1,
   "combat": 113,
   "size": 2,
-  "id": "4391"
+  "respawn": 51,
+  "id": "4383"
  },
  {
   "name": "Ogress Shaman",
@@ -17175,6 +17211,7 @@
  },
  {
   "name": "Reanimated imp",
+  "isDemon": true,
   "hitpoints": 5,
   "att": 1,
   "str": 1,
@@ -17193,6 +17230,7 @@
  },
  {
   "name": "Reanimated kalphite",
+  "isKalphite": true,
   "hitpoints": 35,
   "att": 110,
   "str": 110,
@@ -20710,6 +20748,7 @@
  },
  {
   "name": "Soldier Scarab",
+  "isKalphite": true,
   "hitpoints": 40,
   "att": 75,
   "str": 80,
@@ -21445,6 +21484,7 @@
  },
  {
   "name": "Spitting Scarab",
+  "isKalphite": true,
   "hitpoints": 40,
   "att": 1,
   "str": 80,
@@ -22409,29 +22449,6 @@
   "id": "6322"
  },
  {
-  "name": "The Leviathan",
-  "hitpoints": 900,
-  "att": 300,
-  "str": 360,
-  "def": 250,
-  "mage": 160,
-  "range": 160,
-  "attbns": 200,
-  "strbns": 22,
-  "amagic": 160,
-  "mbns": 58,
-  "arange": 300,
-  "rngbns": 26,
-  "dstab": 260,
-  "dslash": 190,
-  "dcrush": 230,
-  "dmagic": 280,
-  "drange": 50,
-  "combat": 798,
-  "size": 7,
-  "id": "12214"
- },
- {
   "name": "The Leviathan (quest)",
   "hitpoints": 720,
   "att": 250,
@@ -22601,7 +22618,7 @@
   "combat": 791,
   "size": 3,
   "respawn": 30,
-  "id": "12204"
+  "id": "12205"
  },
  {
   "name": "The Whisperer (quest)",
@@ -24408,7 +24425,7 @@
   "size": 2,
   "respawn": 17,
   "def": 215,
-  "id": "12223"
+  "id": "12426"
  },
  {
   "name": "Vardorvis (quest)",
@@ -25085,6 +25102,7 @@
   "drange": 60,
   "combat": 121,
   "size": 3,
+  "respawn": 25,
   "id": "12490"
  },
  {
@@ -25736,6 +25754,23 @@
   "size": 1,
   "respawn": 25,
   "id": "3015"
+ },
+ {
+  "name": "Woman",
+  "hitpoints": 7,
+  "att": 1,
+  "str": 1,
+  "def": 1,
+  "mage": 1,
+  "range": 1,
+  "dstab": -21,
+  "dslash": -21,
+  "dcrush": -21,
+  "dmagic": -21,
+  "drange": -21,
+  "combat": 2,
+  "size": 1,
+  "id": "11053"
  },
  {
   "name": "Wormbrain",

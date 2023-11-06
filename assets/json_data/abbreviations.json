@@ -1715,6 +1715,11 @@
   "Tb",
   "Tb'd"
  ],
+ "Trailblazer League (2020)": [
+  "TB",
+  "TBL",
+  "TBZ"
+ ],
  "Trailblazer League": [
   "TB",
   "TBL",
@@ -1917,15 +1922,35 @@
   "Split(ting)",
   "Mass(ing)"
  ],
+ "wiktionary:spoon-feed": [
+  "Spoon",
+  "Spooned",
+  "Spooning"
+ ],
+ "spoonfed": [
+  "Spoon",
+  "Spooned",
+  "Spooning"
+ ],
+ "wiktionary:silver spoon": [
+  "Spoon",
+  "Spooned",
+  "Spooning"
+ ],
+ "silver spoon": [
+  "Spoon",
+  "Spooned",
+  "Spooning"
+ ],
  "Slang dictionary/D": [
   "Spoon",
   "Spooned",
-  "Spoonfed"
+  "Spooning"
  ],
  "dry": [
   "Spoon",
   "Spooned",
-  "Spoonfed"
+  "Spooning"
  ],
  "Square shield": [
   "Sq"
@@ -2296,6 +2321,9 @@
  "Longsword": [
   "Long"
  ],
+ "longbow (weapon)": [
+  "Long"
+ ],
  "longbow": [
   "Long"
  ],
@@ -2611,6 +2639,9 @@
  ],
  "Rare drop table": [
   "RDT"
+ ],
+ "bow of Faerdhinen": [
+  "Rebuild"
  ],
  "Ring of recoil": [
   "Recoil"
