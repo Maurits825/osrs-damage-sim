@@ -1871,7 +1871,7 @@
   "dslash": 4,
   "dcrush": 2,
   "dmagic": -1,
-  "drange": 4
+  "drange": 3
  },
  "1141": {
   "name": "Steel med helm",
@@ -37309,6 +37309,12 @@
   "equipable": true,
   "slot": 10
  },
+ "25102": {
+  "name": "Fairy mushroom",
+  "weight": 0.002,
+  "equipable": true,
+  "slot": 5
+ },
  "25106": {
   "name": "Extradimensional bag",
   "weight": 0.5,
@@ -37320,6 +37326,44 @@
   "weight": 0.5,
   "equipable": true,
   "slot": 1
+ },
+ "25110": {
+  "name": "Trailblazer axe",
+  "weight": 0.907,
+  "equipable": true,
+  "slot": 3,
+  "astab": -2,
+  "aslash": 38,
+  "acrush": 32,
+  "dslash": 1,
+  "str": 42,
+  "aspeed": 5,
+  "weaponCategory": "AXE"
+ },
+ "25112": {
+  "name": "Trailblazer pickaxe",
+  "weight": 1.36,
+  "equipable": true,
+  "slot": 3,
+  "astab": 38,
+  "aslash": -2,
+  "acrush": 32,
+  "dslash": 1,
+  "str": 42,
+  "aspeed": 5,
+  "weaponCategory": "PICKAXE"
+ },
+ "25114": {
+  "name": "Trailblazer harpoon",
+  "weight": 0.907,
+  "equipable": true,
+  "slot": 3,
+  "astab": 38,
+  "aslash": 32,
+  "dslash": 1,
+  "str": 42,
+  "aspeed": 5,
+  "weaponCategory": "UNARMED"
  },
  "25129": {
   "name": "Beekeeper's hat",
@@ -39928,6 +39972,14 @@
   "slot": 10,
   "amagic": 3,
   "dmagic": 3
+ },
+ "26551": {
+  "name": "Arcane grimoire",
+  "weight": 0.3,
+  "equipable": true,
+  "slot": 5,
+  "amagic": 6,
+  "prayer": 3
  },
  "26649": {
   "name": "Skis",
@@ -45505,7 +45557,7 @@
   "name": "Petal garland",
   "weight": 0.01,
   "equipable": true,
-  "slot": 0
+  "slot": 2
  },
  "28671": {
   "name": "Web cloak",
@@ -45523,5 +45575,231 @@
   "dstab": 1,
   "dslash": 2,
   "dcrush": 3
+ },
+ "28687": {
+  "name": "Blazing blowpipe",
+  "weight": 0.3,
+  "equipable": true,
+  "slot": 3,
+  "is2h": true,
+  "arange": 30,
+  "aspeed": 3,
+  "weaponCategory": "THROWN"
+ },
+ "28688": {
+  "name": "Blazing blowpipe",
+  "weight": 0.5,
+  "equipable": true,
+  "slot": 3,
+  "is2h": true,
+  "arange": 30,
+  "rstr": 20,
+  "aspeed": 3,
+  "weaponCategory": "THROWN"
+ },
+ "28702": {
+  "name": "Trailblazer reloaded banner",
+  "weight": 2.267,
+  "equipable": true,
+  "slot": 3,
+  "aspeed": 4,
+  "weaponCategory": "BANNER"
+ },
+ "28712": {
+  "name": "Trailblazer reloaded headband (t1)",
+  "weight": 0.453,
+  "equipable": true,
+  "slot": 0
+ },
+ "28715": {
+  "name": "Trailblazer reloaded top (t1)",
+  "weight": 0.907,
+  "equipable": true,
+  "slot": 4
+ },
+ "28718": {
+  "name": "Trailblazer reloaded trousers (t1)",
+  "weight": 0.907,
+  "equipable": true,
+  "slot": 7
+ },
+ "28721": {
+  "name": "Trailblazer reloaded boots (t1)",
+  "weight": 0.34,
+  "equipable": true,
+  "slot": 10
+ },
+ "28724": {
+  "name": "Trailblazer reloaded headband (t2)",
+  "weight": 0.453,
+  "equipable": true,
+  "slot": 0
+ },
+ "28727": {
+  "name": "Trailblazer reloaded top (t2)",
+  "weight": 0.907,
+  "equipable": true,
+  "slot": 4
+ },
+ "28730": {
+  "name": "Trailblazer reloaded trousers (t2)",
+  "weight": 0.907,
+  "equipable": true,
+  "slot": 7
+ },
+ "28733": {
+  "name": "Trailblazer reloaded boots (t2)",
+  "weight": 0.34,
+  "equipable": true,
+  "slot": 10
+ },
+ "28736": {
+  "name": "Trailblazer reloaded headband (t3)",
+  "weight": 0.453,
+  "equipable": true,
+  "slot": 0
+ },
+ "28739": {
+  "name": "Trailblazer reloaded top (t3)",
+  "weight": 0.907,
+  "equipable": true,
+  "slot": 4
+ },
+ "28742": {
+  "name": "Trailblazer reloaded trousers (t3)",
+  "weight": 0.907,
+  "equipable": true,
+  "slot": 7
+ },
+ "28745": {
+  "name": "Trailblazer reloaded boots (t3)",
+  "weight": 0.34,
+  "equipable": true,
+  "slot": 10
+ },
+ "28748": {
+  "name": "Trailblazer reloaded torch",
+  "weight": 1.814,
+  "equipable": true,
+  "slot": 3,
+  "aspeed": 4,
+  "weaponCategory": "SPIKED"
+ },
+ "28751": {
+  "name": "Trailblazer reloaded dragon trophy",
+  "weight": 1.5,
+  "equipable": true,
+  "slot": 3,
+  "is2h": true,
+  "astab": -100,
+  "aslash": -100,
+  "acrush": -50,
+  "str": -10,
+  "aspeed": 4,
+  "weaponCategory": "BLUNT"
+ },
+ "28753": {
+  "name": "Trailblazer reloaded rune trophy",
+  "weight": 1.5,
+  "equipable": true,
+  "slot": 3,
+  "is2h": true,
+  "astab": -100,
+  "aslash": -100,
+  "acrush": -50,
+  "str": -10,
+  "aspeed": 4,
+  "weaponCategory": "BLUNT"
+ },
+ "28755": {
+  "name": "Trailblazer reloaded adamant trophy",
+  "weight": 1.5,
+  "equipable": true,
+  "slot": 3,
+  "is2h": true,
+  "astab": -100,
+  "aslash": -100,
+  "acrush": -50,
+  "str": -10,
+  "aspeed": 4,
+  "weaponCategory": "BLUNT"
+ },
+ "28757": {
+  "name": "Trailblazer reloaded mithril trophy",
+  "weight": 1.5,
+  "equipable": true,
+  "slot": 3,
+  "is2h": true,
+  "astab": -100,
+  "aslash": -100,
+  "acrush": -50,
+  "str": -10,
+  "aspeed": 4,
+  "weaponCategory": "BLUNT"
+ },
+ "28759": {
+  "name": "Trailblazer reloaded steel trophy",
+  "weight": 1.5,
+  "equipable": true,
+  "slot": 3,
+  "is2h": true,
+  "astab": -100,
+  "aslash": -100,
+  "acrush": -50,
+  "str": -10,
+  "aspeed": 4,
+  "weaponCategory": "BLUNT"
+ },
+ "28761": {
+  "name": "Trailblazer reloaded iron trophy",
+  "weight": 1.5,
+  "equipable": true,
+  "slot": 3,
+  "is2h": true,
+  "astab": -100,
+  "aslash": -100,
+  "acrush": -50,
+  "str": -10,
+  "aspeed": 4,
+  "weaponCategory": "BLUNT"
+ },
+ "28763": {
+  "name": "Trailblazer reloaded bronze trophy",
+  "weight": 1.5,
+  "equipable": true,
+  "slot": 3,
+  "is2h": true,
+  "astab": -100,
+  "aslash": -100,
+  "acrush": -50,
+  "str": -10,
+  "aspeed": 4,
+  "weaponCategory": "BLUNT"
+ },
+ "28765": {
+  "name": "Globetrotter pendant",
+  "weight": 0.002,
+  "equipable": true,
+  "slot": 2
+ },
+ "28771": {
+  "name": "Sage's greaves",
+  "equipable": true,
+  "slot": 10
+ },
+ "28773": {
+  "name": "Sage's axe",
+  "weight": 0.34,
+  "equipable": true,
+  "slot": 3,
+  "aspeed": 3,
+  "weaponCategory": "THROWN"
+ },
+ "28775": {
+  "name": "Ruinous powers (item)",
+  "weight": 0.3,
+  "equipable": true,
+  "slot": 5,
+  "prayer": -1
  }
 }

@@ -681,6 +681,21 @@
  "max hit": [
   "Chanced"
  ],
+ "Degradation": [
+  "Chargescape"
+ ],
+ "degrade": [
+  "Chargescape"
+ ],
+ "scythe of Vitur": [
+  "Chargescape"
+ ],
+ "crystal equipment": [
+  "Chargescape"
+ ],
+ "toxic blowpipe": [
+  "Chargescape"
+ ],
  "Fire cape": [
   "Cheese cape",
   "FCape"
@@ -1400,10 +1415,6 @@
   "PP"
  ],
  "gilded altar": [
-  "Gold sink",
-  "PP"
- ],
- "gold sink": [
   "Gold sink",
   "PP"
  ],

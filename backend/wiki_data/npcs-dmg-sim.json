@@ -2093,7 +2093,8 @@
   "dmagic": 60,
   "drange": 50,
   "combat": 227,
-  "size": 4
+  "size": 4,
+  "respawn": 15
  },
  "253": {
   "name": "Black dragon",
@@ -2111,7 +2112,8 @@
   "dmagic": 60,
   "drange": 50,
   "combat": 227,
-  "size": 4
+  "size": 4,
+  "respawn": 15
  },
  "254": {
   "name": "Black dragon",
@@ -2129,7 +2131,8 @@
   "dmagic": 60,
   "drange": 50,
   "combat": 227,
-  "size": 4
+  "size": 4,
+  "respawn": 15
  },
  "255": {
   "name": "Black dragon",
@@ -2147,7 +2150,8 @@
   "dmagic": 60,
   "drange": 50,
   "combat": 227,
-  "size": 4
+  "size": 4,
+  "respawn": 15
  },
  "256": {
   "name": "Black dragon",
@@ -2165,7 +2169,8 @@
   "dmagic": 60,
   "drange": 50,
   "combat": 227,
-  "size": 4
+  "size": 4,
+  "respawn": 15
  },
  "257": {
   "name": "Black dragon",
@@ -2183,7 +2188,8 @@
   "dmagic": 60,
   "drange": 50,
   "combat": 227,
-  "size": 4
+  "size": 4,
+  "respawn": 15
  },
  "258": {
   "name": "Black dragon",
@@ -2201,7 +2207,8 @@
   "dmagic": 60,
   "drange": 50,
   "combat": 227,
-  "size": 4
+  "size": 4,
+  "respawn": 15
  },
  "259": {
   "name": "Black dragon",
@@ -2219,7 +2226,8 @@
   "dmagic": 60,
   "drange": 50,
   "combat": 227,
-  "size": 4
+  "size": 4,
+  "respawn": 15
  },
  "260": {
   "name": "Green dragon",
@@ -7189,7 +7197,8 @@
   "dmagic": 10,
   "drange": 10,
   "combat": 28,
-  "size": 2
+  "size": 2,
+  "respawn": 25
  },
  "956": {
   "name": "Kalphite Worker",
@@ -7206,7 +7215,8 @@
   "dmagic": 10,
   "drange": 10,
   "combat": 28,
-  "size": 2
+  "size": 2,
+  "respawn": 25
  },
  "957": {
   "name": "Kalphite Soldier",
@@ -7291,7 +7301,8 @@
   "dmagic": 10,
   "drange": 10,
   "combat": 28,
-  "size": 2
+  "size": 2,
+  "respawn": 25
  },
  "962": {
   "name": "Kalphite Guardian",
@@ -36618,6 +36629,8 @@
   "def": 88,
   "mage": 88,
   "range": 150,
+  "strbns": -8,
+  "rngbns": -8,
   "dmagic": 70,
   "drange": 60,
   "size": 5
@@ -36644,6 +36657,8 @@
   "def": 40,
   "mage": 40,
   "range": 1,
+  "strbns": -8,
+  "rngbns": -8,
   "dmagic": 30,
   "size": 3
  },
@@ -36776,9 +36791,10 @@
   "mage": 250,
   "range": 250,
   "attbns": 88,
-  "strbns": 74,
+  "strbns": 55,
+  "mbns": -8,
   "arange": 82,
-  "rngbns": 63,
+  "rngbns": 47,
   "dstab": -5,
   "dslash": 82,
   "dcrush": 60,
@@ -36795,9 +36811,10 @@
   "mage": 1,
   "range": 150,
   "attbns": 71,
-  "strbns": 64,
+  "strbns": 48,
+  "mbns": -8,
   "arange": 83,
-  "rngbns": 75,
+  "rngbns": 56,
   "dstab": -5,
   "dslash": 72,
   "dcrush": 50,
@@ -36818,7 +36835,7 @@
   "dslash": 190,
   "dcrush": 50,
   "dmagic": 400,
-  "drange": 60,
+  "drange": 40,
   "size": 5
  },
  "7568": {
@@ -36881,7 +36898,7 @@
   "dstab": 70,
   "dslash": 70,
   "dcrush": 110,
-  "dmagic": 60,
+  "dmagic": 40,
   "drange": 140,
   "size": 2
  },
@@ -39193,7 +39210,8 @@
   "dmagic": 60,
   "drange": 50,
   "combat": 227,
-  "size": 4
+  "size": 4,
+  "respawn": 15
  },
  "8085": {
   "name": "Black dragon",
@@ -39211,7 +39229,8 @@
   "dmagic": 60,
   "drange": 50,
   "combat": 227,
-  "size": 4
+  "size": 4,
+  "respawn": 15
  },
  "8087": {
   "name": "Brutal red dragon",
@@ -44361,6 +44380,20 @@
   "drange": 10,
   "combat": 34,
   "size": 1
+ },
+ "10623": {
+  "name": "Unbound JalTok-Jad",
+  "hitpoints": 525,
+  "att": 1125,
+  "str": 1530,
+  "def": 720,
+  "mage": 765,
+  "range": 1530,
+  "amagic": 100,
+  "mbns": 75,
+  "arange": 80,
+  "combat": 1350,
+  "size": 5
  },
  "10654": {
   "name": "Ancient Guardian",
@@ -51441,5 +51474,253 @@
   "drange": 62,
   "combat": 138,
   "size": 2
+ },
+ "12538": {
+  "name": "Bloodthirsty hand",
+  "isUndead": true,
+  "combat": 45,
+  "size": 3
+ },
+ "12539": {
+  "name": "Bloodthirsty Crawler",
+  "combat": 68,
+  "size": 3
+ },
+ "12540": {
+  "name": "Bloodthirsty banshee",
+  "isUndead": true,
+  "isSpectral": true,
+  "combat": 70,
+  "size": 3
+ },
+ "12542": {
+  "name": "Bloodthirsty twisted banshee",
+  "isUndead": true,
+  "isSpectral": true,
+  "combat": 144,
+  "size": 3
+ },
+ "12561": {
+  "name": "Bloodthirst rockslug",
+  "combat": 86,
+  "size": 3
+ },
+ "12562": {
+  "name": "Bloodthirsty Cockathrice",
+  "hitpoints": 142,
+  "att": 94,
+  "str": 117,
+  "def": 78,
+  "mage": 1,
+  "range": 1,
+  "dstab": 20,
+  "dslash": 20,
+  "dmagic": 20,
+  "combat": 133,
+  "size": 3
+ },
+ "12563": {
+  "name": "Bloodthirsty pyrelord",
+  "isDemon": true,
+  "combat": 145,
+  "size": 2
+ },
+ "12564": {
+  "name": "Bloodthirsty Infernal pyrelord",
+  "isDemon": true,
+  "combat": 134,
+  "size": 2
+ },
+ "12565": {
+  "name": "Bloodthirsty basilisk",
+  "hitpoints": 255,
+  "att": 132,
+  "str": 147,
+  "def": 130,
+  "mage": 1,
+  "range": 1,
+  "dstab": 35,
+  "dslash": 35,
+  "dmagic": 35,
+  "combat": 202,
+  "size": 3
+ },
+ "12566": {
+  "name": "Bloodthirsty Basilisk Sentinel",
+  "hitpoints": 780,
+  "att": 411,
+  "str": 411,
+  "def": 274,
+  "mage": 411,
+  "range": 1,
+  "attbns": 12,
+  "mbns": 12,
+  "dstab": 50,
+  "dslash": 50,
+  "dcrush": 10,
+  "dmagic": 50,
+  "drange": 10,
+  "combat": 537,
+  "size": 3
+ },
+ "12567": {
+  "name": "Bloodthirsty Mage",
+  "combat": 162,
+  "size": 2
+ },
+ "12568": {
+  "name": "Bloodthirsty Bloodveld",
+  "isDemon": true,
+  "hitpoints": 435,
+  "att": 285,
+  "str": 217,
+  "def": 85,
+  "mage": 1,
+  "range": 1,
+  "combat": 303,
+  "size": 3
+ },
+ "12569": {
+  "name": "Bloodthirsty mutated Bloodveld",
+  "isDemon": true,
+  "hitpoints": 615,
+  "att": 375,
+  "str": 285,
+  "def": 130,
+  "mage": 1,
+  "range": 1,
+  "combat": 417,
+  "size": 3
+ },
+ "12570": {
+  "name": "Bloodthirsty Jelly",
+  "hitpoints": 285,
+  "att": 255,
+  "str": 225,
+  "def": 220,
+  "mage": 225,
+  "range": 1,
+  "combat": 309,
+  "size": 2
+ },
+ "12571": {
+  "name": "Bloodthirsty warped Jelly",
+  "hitpoints": 220,
+  "att": 200,
+  "str": 180,
+  "def": 250,
+  "mage": 180,
+  "range": 1,
+  "combat": 241,
+  "size": 3
+ },
+ "12572": {
+  "name": "Bloodthirsty abomination",
+  "combat": 206,
+  "size": 2
+ },
+ "12573": {
+  "name": "Bloodthirsty spectre",
+  "isUndead": true,
+  "isSpectral": true,
+  "combat": 253,
+  "size": 3
+ },
+ "12574": {
+  "name": "Bloodthirsty Repugnant spectre",
+  "isUndead": true,
+  "isSpectral": true,
+  "combat": 335,
+  "size": 3
+ },
+ "12575": {
+  "name": "Bloodthirsty choke devil",
+  "combat": 396,
+  "size": 2
+ },
+ "12576": {
+  "name": "Bloodthirsty kurask",
+  "isLeafy": true,
+  "hitpoints": 405,
+  "att": 285,
+  "str": 480,
+  "def": 250,
+  "mage": 1,
+  "range": 1,
+  "dslash": 50,
+  "dcrush": 5,
+  "combat": 295,
+  "size": 5
+ },
+ "12577": {
+  "name": "Bloodthirsty smoke devil",
+  "combat": 280,
+  "size": 2
+ },
+ "12578": {
+  "name": "Bloodthirsty gargoyle",
+  "combat": 349,
+  "size": 3
+ },
+ "12579": {
+  "name": "Bloodthirsty gargoyle",
+  "combat": 349,
+  "size": 3
+ },
+ "12580": {
+  "name": "Bloodthirsty Night beast",
+  "hitpoints": 825,
+  "att": 405,
+  "str": 435,
+  "def": 220,
+  "mage": 450,
+  "range": 1,
+  "dstab": 75,
+  "dslash": 80,
+  "dcrush": 200,
+  "dmagic": 190,
+  "drange": 200,
+  "combat": 561,
+  "size": 4
+ },
+ "12581": {
+  "name": "Bloodthirsty abyssal demon",
+  "isDemon": true,
+  "hitpoints": 600,
+  "att": 450,
+  "str": 390,
+  "def": 240,
+  "mage": 1,
+  "range": 1,
+  "dstab": 50,
+  "dslash": 50,
+  "dcrush": 50,
+  "drange": 50,
+  "combat": 513,
+  "size": 1
+ },
+ "12584": {
+  "name": "Bloodthirsty Shadow Wyrm",
+  "isDragon": true,
+  "combat": 400,
+  "size": 5
+ },
+ "12585": {
+  "name": "Bloodthirsty Shadow Wyrm",
+  "isDragon": true,
+  "combat": 400,
+  "size": 5
+ },
+ "12586": {
+  "name": "Bloodthirsty Drake",
+  "isDragon": true,
+  "combat": 386,
+  "size": 5
+ },
+ "12588": {
+  "name": "Bloodthirsty Hydra",
+  "isDragon": true,
+  "combat": 309,
+  "size": 5
  }
 }
