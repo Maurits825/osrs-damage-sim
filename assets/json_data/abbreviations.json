@@ -1048,6 +1048,9 @@
   "DHL",
   "Lance"
  ],
+ "graceful outfit": [
+  "Disgraceful"
+ ],
  "Dragon platelegs": [
   "Dlegs"
  ],
@@ -1400,7 +1403,8 @@
  "Group Ironman Mode": [
   "GIM",
   "GIMp",
-  "GI"
+  "GI",
+  "Red helm"
  ],
  "Amulet of glory": [
   "Glory"
@@ -1502,11 +1506,15 @@
  ],
  "Ironman Mode": [
   "IM",
-  "Iron"
+  "Iron",
+  "Red helm",
+  "Red helm"
  ],
  "Ironman": [
   "IM",
-  "Iron"
+  "Iron",
+  "Red helm",
+  "Red helm"
  ],
  "Infernal cape": [
   "Inf"
@@ -1531,7 +1539,8 @@
   "Inv",
   "Invent",
   "Invy",
-  "Inven"
+  "Inven",
+  "Invo"
  ],
  "Tombs of Amascut": [
   "Invoc(s)",
@@ -2633,15 +2642,16 @@
   "Rap"
  ],
  "Runecraft": [
-  "RC(ing)"
+  "RC(ing)",
+  "RC Pker"
  ],
  "Rune crossbow": [
   "RCB"
  ],
- "Abyss": [
+ "runecrafter": [
   "RC Pker"
  ],
- "runecraft": [
+ "Abyss": [
   "RC Pker"
  ],
  "Rune dragons": [
@@ -2660,6 +2670,9 @@
  "RuneScape 2": [
   "Red barred",
   "RS2"
+ ],
+ "Group Ironman": [
+  "Red helm"
  ],
  "Revenants": [
   "Rev(s)"
@@ -2685,7 +2698,7 @@
   "RMH",
   "Rmed"
  ],
- "random number generator": [
+ "Random number generator": [
   "RNG"
  ],
  "Robin Hood hat": [
