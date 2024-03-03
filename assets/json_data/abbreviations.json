@@ -219,7 +219,7 @@
   "Obby pure",
   "QS"
  ],
- "Barbarian Assault/Gameplay#Attacker": [
+ "Barbarian Assault/Strategies#Attacker": [
   "Atk",
   "Att",
   "BA",
@@ -229,7 +229,7 @@
   "Obby pure",
   "QS"
  ],
- "Attacker role": [
+ "attacker role": [
   "Atk",
   "Att",
   "BA",
@@ -662,7 +662,9 @@
   "X-bow"
  ],
  "Chat-channel": [
-  "CC"
+  "CC",
+  "FC",
+  "FCC"
  ],
  "Cerberus": [
   "Cerb"
@@ -698,7 +700,8 @@
  ],
  "Fire cape": [
   "Cheese cape",
-  "FCape"
+  "FCape",
+  "FC"
  ],
  "Chestplate": [
   "Chest",
@@ -1223,10 +1226,6 @@
  "freeze spells": [
   "Farcaster"
  ],
- "Friends chat": [
-  "FC",
-  "FCC"
- ],
  "ironman": [
   "Fe"
  ],
@@ -1498,6 +1497,12 @@
   "Sepul",
   "Sepu"
  ],
+ "HiScores": [
+  "HS",
+  "Sep",
+  "Sepul",
+  "Sepu"
+ ],
  "Home teleport": [
   "HT"
  ],
@@ -1570,6 +1575,9 @@
  ],
  "Weapons": [
   "Wep(s)"
+ ],
+ "While Guthix Sleeps": [
+  "WGS"
  ],
  "Wilderness God Wars Dungeon": [
   "WGWD"
@@ -1794,6 +1802,15 @@
  "Teleport": [
   "TP",
   "Tele"
+ ],
+ "Dragon full helm (g)": [
+  "Transmog"
+ ],
+ "Tzrek-jad#JalRek-Jad": [
+  "Transmog"
+ ],
+ "JalRek-Jad": [
+  "Transmog"
  ],
  "Toxic staff of the dead": [
   "TSotD",
