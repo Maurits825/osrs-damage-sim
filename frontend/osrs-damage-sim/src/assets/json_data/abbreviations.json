@@ -1,4 +1,7 @@
 {
+ "Autocast": [
+  "(a)"
+ ],
  "Abyssal": [
   "Abby",
   "Whip"
@@ -93,9 +96,6 @@
   "Rush",
   "Rusher"
  ],
- "Ancient godsword": [
-  "AGS2"
- ],
  "Air rune": [
   "Air(s)"
  ],
@@ -126,6 +126,12 @@
  "Amulet": [
   "Ammy"
  ],
+ "Ammonite Crab": [
+  "Ammy"
+ ],
+ "Ammonite Crabs": [
+  "Ammy"
+ ],
  "Ancestral robes": [
   "Anc(es)",
   "Ancy"
@@ -138,6 +144,10 @@
  ],
  "Necklace of anguish": [
   "Ang"
+ ],
+ "Ancient godsword": [
+  "ANGS",
+  "AGS2"
  ],
  "Antipoison": [
   "Anti",
@@ -286,9 +296,21 @@
  "Ancient wyvern shield": [
   "AWS"
  ],
+ "Altar of nature": [
+  "(b)"
+ ],
+ "Blessed": [
+  "(b)"
+ ],
+ "sickle": [
+  "(b)"
+ ],
+ "sickles": [
+  "(b)"
+ ],
  "coins": [
   "B",
-  "bil",
+  "Bil",
   "GP",
   "Green cash stack",
   "K"
@@ -409,10 +431,10 @@
   "Blitz"
  ],
  "Jal-Ak": [
-  "Blobs"
+  "Blob(s)"
  ],
  "Tz-Kek": [
-  "Blobs"
+  "Blob(s)"
  ],
  "Blood runes": [
   "Blood(s)",
@@ -594,6 +616,14 @@
   "Bwan",
   "Karam"
  ],
+ "The Gauntlet": [
+  "(c)",
+  "Gaunt"
+ ],
+ "Corrupted": [
+  "(c)",
+  "Gaunt"
+ ],
  "Combat Achievements": [
   "CA(s)"
  ],
@@ -624,13 +654,13 @@
  ],
  "Combat level": [
   "Cb/Cmb/Cbt/Cmbt (lvl)",
-  "Cl",
+  "CL",
   "Combat",
   "Skiller"
  ],
  "Combat": [
   "Cb/Cmb/Cbt/Cmbt (lvl)",
-  "Cl",
+  "CL",
   "Combat",
   "Skiller"
  ],
@@ -718,11 +748,13 @@
  "Clue scroll": [
   "Clue",
   "Clueing",
+  "(h#)",
   "TT"
  ],
  "Treasure Trails": [
   "Clue",
   "Clueing",
+  "(h#)",
   "TT"
  ],
  "Chambers of Xeric": [
@@ -775,59 +807,65 @@
   "Corp",
   "Mass(ing)"
  ],
+ "Bounty hunter ornament kit": [
+  "(cr)"
+ ],
+ "Bounty Hunter ornament": [
+  "(cr)"
+ ],
  "multicombat": [
   "Crash",
   "Death dot",
   "DD",
-  "DK",
-  "DKs",
+  "DK(s)",
   "GWD",
   "GW",
   "Jad phase",
+  "P#",
   "EHB"
  ],
  "boss": [
   "Crash",
   "Death dot",
   "DD",
-  "DK",
-  "DKs",
+  "DK(s)",
   "GWD",
   "GW",
   "Jad phase",
+  "P#",
   "EHB"
  ],
  "God Wars Dungeon": [
   "Crash",
   "Death dot",
   "DD",
-  "DK",
-  "DKs",
+  "DK(s)",
   "GWD",
   "GW",
   "Jad phase",
+  "P#",
   "EHB"
  ],
  "Dagannoth Kings": [
   "Crash",
   "Death dot",
   "DD",
-  "DK",
-  "DKs",
+  "DK(s)",
   "GWD",
   "GW",
   "Jad phase",
+  "P#",
   "EHB"
  ],
  "crashing": [
   "Crash",
   "Death dot",
   "DD",
-  "DK",
-  "DKs",
+  "DK(s)",
   "GWD",
   "GW",
   "Jad phase",
+  "P#",
   "EHB"
  ],
  "Castle Wars": [
@@ -941,8 +979,8 @@
   "DDP+"
  ],
  "Dragon dagger (p++)": [
-  "DDP++",
-  "DDS"
+  "DDS",
+  "DDP++"
  ],
  "player killing": [
   "Death dot",
@@ -1205,9 +1243,18 @@
   "Vambs",
   "Vams"
  ],
+ "Xarpus": [
+  "Xarp"
+ ],
  "Experience": [
   "XP/H",
   "XPH"
+ ],
+ "(f)": [
+  "(f)"
+ ],
+ "Fortified": [
+  "(f)"
  ],
  "Free-to-play": [
   "F2P(ers)",
@@ -1254,7 +1301,15 @@
   "FM",
   "FMod"
  ],
+ "Ice spells": [
+  "Freeze",
+  "Frz"
+ ],
  "Fremennik": [
+  "Frem",
+  "Fremmy"
+ ],
+ "Fremennik Diary": [
   "Frem",
   "Fremmy"
  ],
@@ -1288,62 +1343,68 @@
  "helm": [
   "Full",
   "Legs",
-  "Pl8",
-  "Plate"
+  "Plate",
+  "Pl8"
  ],
  "shield": [
   "Full",
   "Legs",
-  "Pl8",
-  "Plate"
+  "Plate",
+  "Pl8"
  ],
  "Platebody": [
   "Full",
   "Legs",
-  "Pl8",
-  "Plate"
+  "Plate",
+  "Pl8"
  ],
  "body piece": [
   "Full",
   "Legs",
-  "Pl8",
-  "Plate"
+  "Plate",
+  "Pl8"
  ],
  "Platelegs": [
   "Full",
   "Legs",
-  "Pl8",
-  "Plate"
+  "Plate",
+  "Pl8"
  ],
  "leg piece": [
   "Full",
   "Legs",
-  "Pl8",
-  "Plate"
+  "Plate",
+  "Pl8"
  ],
  "rune armour": [
   "Full",
   "Legs",
-  "Pl8",
-  "Plate"
+  "Plate",
+  "Pl8"
  ],
  "inventory": [
   "Full",
   "Legs",
-  "Pl8",
-  "Plate"
+  "Plate",
+  "Pl8"
  ],
  "flax": [
   "Full",
   "Legs",
-  "Pl8",
-  "Plate"
+  "Plate",
+  "Pl8"
  ],
  "Duelling": [
   "Funning"
  ],
  "Amulet of fury": [
   "Fury"
+ ],
+ "Ornamental armour": [
+  "(g)"
+ ],
+ "Gilded, Gold trimmed": [
+  "(g)"
  ],
  "Granite equipment": [
   "G (weapon/armour name)"
@@ -1354,7 +1415,7 @@
  "granite maul": [
   "G (weapon/armour name)"
  ],
- "gmaul": [
+ "G maul": [
   "G (weapon/armour name)"
  ],
  "Guthan the Infested's equipment": [
@@ -1363,14 +1424,11 @@
  "guthan's spear": [
   "G (weapon/armour name)"
  ],
- "g spear": [
+ "G spear": [
   "G (weapon/armour name)"
  ],
  "Gargoyles": [
   "Gargs"
- ],
- "The Gauntlet": [
-  "Gaunt"
  ],
  "God book": [
   "GB"
@@ -1435,6 +1493,12 @@
  "Guthan's": [
   "Guth",
   "Gth"
+ ],
+ "Heraldic armour (Treasure Trails)": [
+  "(h#)"
+ ],
+ "Heraldic armour": [
+  "(h#)"
  ],
  "Halberd": [
   "Hally"
@@ -1506,6 +1570,12 @@
  "Home teleport": [
   "HT"
  ],
+ "Imbuing": [
+  "(i)"
+ ],
+ "Imbued": [
+  "(i)"
+ ],
  "Ignore list": [
   "Ignore"
  ],
@@ -1563,10 +1633,25 @@
   "Raids 2",
   "Raids 3"
  ],
+ "Watering can": [
+  "(w)"
+ ],
+ "Watered": [
+  "(w)"
+ ],
+ "World": [
+  "W#"
+ ],
  "Elidinis' ward": [
   "Ward"
  ],
  "Woodcutting": [
+  "WC(ing)"
+ ],
+ "Chat Interface#Filters": [
+  "WC(ing)"
+ ],
+ "chat": [
   "WC(ing)"
  ],
  "Ring of wealth": [
@@ -1586,6 +1671,14 @@
   "WH",
   "War"
  ],
+ "The Whisperer": [
+  "Whisp",
+  "Wisp",
+  "Whispy"
+ ],
+ "raid": [
+  "Wipe"
+ ],
  "Wizard": [
   "Wizzy"
  ],
@@ -1595,9 +1688,6 @@
  "Wintertodt": [
   "WT",
   "Todt"
- ],
- "World": [
-  "W#"
  ],
  "Vambraces": [
   "Vambs",
@@ -1716,6 +1806,12 @@
  ],
  "Grimy herbs": [
   "Unid(s)"
+ ],
+ "Armour trimming": [
+  "(t)"
+ ],
+ "Trimmed": [
+  "(t)"
  ],
  "Magic tablet": [
   "Tab"
@@ -1902,8 +1998,29 @@
  "Shortbow": [
   "Short"
  ],
+ "Item set": [
+  "(sk)",
+  "Skirt",
+  "(lg)",
+  "(lg)"
+ ],
+ "Item sets": [
+  "(sk)",
+  "Skirt",
+  "(lg)",
+  "(lg)"
+ ],
  "Plateskirt": [
-  "Skirt"
+  "(sk)",
+  "Skirt",
+  "(lg)",
+  "(lg)"
+ ],
+ "plateskirts": [
+  "(sk)",
+  "Skirt",
+  "(lg)",
+  "(lg)"
  ],
  "skills": [
   "Skiller",
@@ -2009,6 +2126,7 @@
  "Ring of suffering": [
   "Suff",
   "Suffering",
+  "(r)",
   "RoS"
  ],
  "Sulliuscep": [
@@ -2090,6 +2208,9 @@
  "Kodai wand": [
   "Kodai"
  ],
+ "Karambwan paste": [
+  "(kp)"
+ ],
  "Kalphite Queen": [
   "KQ"
  ],
@@ -2154,6 +2275,12 @@
   "Neit",
   "Neitz"
  ],
+ "Helm of Neitiznot": [
+  "Nezzy",
+  "Nez",
+  "Neit",
+  "Neitz"
+ ],
  "Jal-Nib": [
   "Nibbler(s)"
  ],
@@ -2175,6 +2302,12 @@
  ],
  "Nylocas": [
   "Nylo"
+ ],
+ "Mature ale": [
+  "(m)"
+ ],
+ "Mature": [
+  "(m)"
  ],
  "Mage Arena": [
   "MA",
@@ -2239,8 +2372,8 @@
   "MH"
  ],
  "Member": [
-  "Mem",
-  "Memb"
+  "Mem(s)",
+  "Memb(s)"
  ],
  "Mourning's End Part I": [
   "MEP1/ME1",
@@ -2253,10 +2386,10 @@
  "strategy": [
   "Meta"
  ],
- "Skill training": [
+ "skill training": [
   "Meta"
  ],
- "Bossing": [
+ "bossing": [
   "Meta"
  ],
  "Mahogany Homes": [
@@ -2309,6 +2442,12 @@
   "Mutta",
   "Mut"
  ],
+ "Trouver parchment": [
+  "(l)"
+ ],
+ "Locked": [
+  "(l)"
+ ],
  "Law rune": [
   "Law(s)"
  ],
@@ -2339,6 +2478,9 @@
  ],
  "Raid": [
   "LFR"
+ ],
+ "platelegs": [
+  "(lg)"
  ],
  "Ring of life": [
   "Life",
@@ -2375,6 +2517,12 @@
   "Lumby",
   "Lummy"
  ],
+ "blackjack": [
+  "(o)"
+ ],
+ "blackjacks": [
+  "(o)"
+ ],
  "Obsidian": [
   "Obby",
   "Obi",
@@ -2407,23 +2555,53 @@
   "Occult",
   "Occ"
  ],
+ "Tombs of Amascut#Invocations and Raid Level": [
+  "OD"
+ ],
+ "Tombs of Amascut invocation": [
+  "OD"
+ ],
+ "tick": [
+  "Off-tick"
+ ],
  "Ogress": [
+  "Oggies"
+ ],
+ "Ogresses": [
+  "Oggies"
+ ],
+ "Ogress Warrior": [
+  "Oggies"
+ ],
+ "Ogress Warriors": [
   "Oggies"
  ],
  "player-killing": [
   "One-iteming (1-iteming)"
  ],
  "Ornament kit": [
-  "Orn"
+  "Orn",
+  "(or)"
  ],
  "Ornamented": [
-  "Orn"
+  "Orn",
+  "(or)"
  ],
  "OSBuddy": [
   "OSB"
  ],
  "Overload": [
   "Ovl(s)"
+ ],
+ "Poison#Weapon poisoning": [
+  "(p)",
+  "(p+)",
+  "(p++)"
+ ],
+ "Poisoned": [
+  "(p)",
+  "(p+)",
+  "(p++)"
  ],
  "Members": [
   "P2P(er)"
@@ -2468,7 +2646,7 @@
   "Peggies"
  ],
  "Pure essence": [
-  "P Ess"
+  "P ess"
  ],
  "Partyhat": [
   "Ph",
@@ -2500,6 +2678,9 @@
   "PKing"
  ],
  "Private message": [
+  "PM"
+ ],
+ "Moons of Peril": [
   "PM"
  ],
  "Player Moderator": [
@@ -2619,15 +2800,18 @@
   "Purple",
   "Purp"
  ],
+ "Quest point cape": [
+  "QC",
+  "QPC"
+ ],
  "Quest points": [
   "QP(s)"
  ],
  "Quick prayers": [
   "QP(s)"
  ],
- "Quest point cape": [
-  "QC",
-  "QPC"
+ "Recoil": [
+  "(r)"
  ],
  "Rune 2h sword": [
   "R2H"
@@ -2705,6 +2889,7 @@
   "Rigo"
  ],
  "Rimmington": [
+  "Rim",
   "Rimmy"
  ],
  "RuneLite": [
@@ -2760,6 +2945,12 @@
  "Real world trading": [
   "RWT"
  ],
+ "Enchated bolts": [
+  "(e)"
+ ],
+ "Enchanted": [
+  "(e)"
+ ],
  "Ectofuntus": [
   "Ecto"
  ],
@@ -2787,18 +2978,18 @@
  ],
  "Rune essence": [
   "Ess",
-  "essence"
+  "Essence"
  ],
  "Rune": [
   "Ess",
-  "essence"
+  "Essence"
  ],
  "pure essence": [
   "Ess",
-  "essence"
+  "Essence"
  ],
  "Etceteria": [
-  "Etc.",
-  "etce"
+  "Etc",
+  "Etce"
  ]
 }
