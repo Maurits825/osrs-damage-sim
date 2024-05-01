@@ -1,3 +1,5 @@
+Note: This version is no longer being maintained, checkout [osrs-damage-sim-go](https://github.com/Maurits825/osrs-damage-sim-go).
+
 [![Checks](https://github.com/Maurits825/osrs-damage-sim/actions/workflows/osrs-dmg-sim-test.yml/badge.svg)](https://github.com/Maurits825/osrs-damage-sim/actions/workflows/osrs-dmg-sim-test.yml) [![Checks](https://github.com/Maurits825/osrs-damage-sim/actions/workflows/web-app-test.yml/badge.svg)](https://github.com/Maurits825/osrs-damage-sim/actions/workflows/web-app-test.yml)
 
 # Osrs Damage Sim
