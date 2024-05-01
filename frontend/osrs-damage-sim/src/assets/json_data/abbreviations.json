@@ -532,6 +532,7 @@
   "Welfare",
   "Safer",
   "NH",
+  "NHer",
   "PK",
   "PKer",
   "PKing"
@@ -541,6 +542,7 @@
   "Welfare",
   "Safer",
   "NH",
+  "NHer",
   "PK",
   "PKer",
   "PKing"
@@ -550,6 +552,7 @@
   "Welfare",
   "Safer",
   "NH",
+  "NHer",
   "PK",
   "PKer",
   "PKing"
@@ -1483,6 +1486,12 @@
   "GP",
   "OSRS"
  ],
+ "quest": [
+  "Grind"
+ ],
+ "quest cape": [
+  "Grind"
+ ],
  "Godsword": [
   "GS"
  ],
@@ -2038,6 +2047,12 @@
  ],
  "Staff of light": [
   "SoL"
+ ],
+ "food": [
+  "Solid(s)"
+ ],
+ "shark": [
+  "Solid(s)"
  ],
  "Stronghold of Security": [
   "SoS",

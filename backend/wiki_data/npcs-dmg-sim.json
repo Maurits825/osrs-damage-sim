@@ -4676,7 +4676,8 @@
   "mage": 1,
   "range": 1,
   "combat": 57,
-  "size": 1
+  "size": 1,
+  "respawn": 50
  },
  "575": {
   "name": "Zombie pirate",
@@ -4714,7 +4715,8 @@
   "mage": 1,
   "range": 1,
   "combat": 57,
-  "size": 1
+  "size": 1,
+  "respawn": 50
  },
  "578": {
   "name": "Zombie pirate",
@@ -4739,7 +4741,8 @@
   "mage": 1,
   "range": 1,
   "combat": 57,
-  "size": 1
+  "size": 1,
+  "respawn": 50
  },
  "580": {
   "name": "Zombie pirate",
@@ -11966,7 +11969,7 @@
   "drange": 70,
   "combat": 305,
   "size": 3,
-  "respawn": 25
+  "respawn": 14
  },
  "2056": {
   "name": "Dark wizard",
@@ -17201,6 +17204,13 @@
   "size": 1,
   "respawn": 35
  },
+ "3047": {
+  "name": "Goblin",
+  "is<!-- if no monster attributes apply": true,
+  "isRemove this parameter -->": true,
+  "combat": 5,
+  "size": 1
+ },
  "3049": {
   "name": "Hobgoblin",
   "hitpoints": 29,
@@ -19778,13 +19788,25 @@
  },
  "3476": {
   "name": "The Illusive",
-  "hitpoints": 140,
+  "hitpoints": 144,
+  "att": 72,
+  "str": 71,
+  "def": 105,
+  "mage": 1,
+  "range": 1,
   "combat": 108,
   "size": 1
  },
  "3477": {
   "name": "A Doubt",
-  "hitpoints": 50,
+  "hitpoints": 59,
+  "att": 72,
+  "str": 58,
+  "def": 85,
+  "mage": 1,
+  "range": 1,
+  "attbns": 18,
+  "strbns": 16,
   "combat": 78,
   "size": 1
  },
@@ -25646,7 +25668,6 @@
  },
  "5054": {
   "name": "Skeleton Hellhound",
-  "isDemon": true,
   "hitpoints": 55,
   "att": 70,
   "str": 110,
@@ -25750,6 +25771,7 @@
   "dmagic": 50,
   "drange": 60,
   "combat": 95,
+  "size": 4,
   "respawn": 35
  },
  "5128": {
@@ -25766,6 +25788,7 @@
   "dmagic": 50,
   "drange": 60,
   "combat": 95,
+  "size": 4,
   "respawn": 35
  },
  "5129": {
@@ -25865,6 +25888,7 @@
   "name": "H.A.M. Archer",
   "hitpoints": 35,
   "def": 30,
+  "mage": 1,
   "range": 30,
   "dstab": 5,
   "dslash": 5,
@@ -26495,7 +26519,6 @@
  },
  "5258": {
   "name": "Duke",
-  "is(Optional)": true,
   "hitpoints": 130,
   "att": 130,
   "str": 130,
@@ -26575,6 +26598,7 @@
   "def": 130,
   "mage": 130,
   "range": 1,
+  "attbns": 50,
   "combat": 149,
   "size": 1
  },
@@ -30940,7 +30964,6 @@
  },
  "6326": {
   "name": "Skeleton Hellhound (hard)",
-  "isDemon": true,
   "hitpoints": 132,
   "att": 168,
   "str": 264,
@@ -31808,7 +31831,6 @@
  },
  "6387": {
   "name": "Skeleton Hellhound",
-  "isDemon": true,
   "hitpoints": 55,
   "att": 70,
   "str": 110,
@@ -33176,7 +33198,7 @@
   "drange": 70,
   "combat": 252,
   "size": 4,
-  "respawn": 25
+  "respawn": 14
  },
  "6594": {
   "name": "Ent",
@@ -33365,7 +33387,7 @@
   "drange": 50,
   "combat": 470,
   "size": 5,
-  "respawn": 29
+  "respawn": 11
  },
  "6610": {
   "name": "Venenatis",
@@ -33382,7 +33404,7 @@
   "drange": 150,
   "combat": 464,
   "size": 4,
-  "respawn": 28
+  "respawn": 10
  },
  "6611": {
   "name": "Vet'ion",
@@ -33400,7 +33422,7 @@
   "drange": 270,
   "combat": 454,
   "size": 3,
-  "respawn": 33
+  "respawn": 15
  },
  "6612": {
   "name": "Vet'ion",
@@ -33469,7 +33491,7 @@
   "drange": 284,
   "combat": 225,
   "size": 5,
-  "respawn": 17
+  "respawn": 14
  },
  "6616": {
   "name": "Scorpia's offspring",
@@ -33516,7 +33538,7 @@
   "drange": 250,
   "combat": 204,
   "size": 1,
-  "respawn": 50
+  "respawn": 9
  },
  "6619": {
   "name": "Chaos Fanatic",
@@ -33535,7 +33557,7 @@
   "drange": 80,
   "combat": 202,
   "size": 1,
-  "respawn": 50
+  "respawn": 15
  },
  "6624": {
   "name": "Energy sprite",
@@ -36180,6 +36202,7 @@
   "def": 135,
   "mage": 175,
   "range": 1,
+  "dmagic": 75,
   "combat": 162,
   "size": 2
  },
@@ -40176,7 +40199,7 @@
   "size": 5
  },
  "8342": {
-  "name": "Nylocas Ischyros (small)",
+  "name": "Nylocas Ischyros",
   "isTobNormalMode": true,
   "hitpoints": 11,
   "att": 200,
@@ -40191,7 +40214,7 @@
   "size": 1
  },
  "8343": {
-  "name": "Nylocas Toxobolos (small)",
+  "name": "Nylocas Toxobolos",
   "isTobNormalMode": true,
   "hitpoints": 11,
   "att": 200,
@@ -40206,7 +40229,7 @@
   "size": 1
  },
  "8344": {
-  "name": "Nylocas Hagios (small)",
+  "name": "Nylocas Hagios",
   "isTobNormalMode": true,
   "hitpoints": 11,
   "att": 200,
@@ -40221,7 +40244,7 @@
   "size": 1
  },
  "8345": {
-  "name": "Nylocas Ischyros (big)",
+  "name": "Nylocas Ischyros",
   "isTobNormalMode": true,
   "hitpoints": 22,
   "att": 250,
@@ -40235,7 +40258,7 @@
   "size": 2
  },
  "8346": {
-  "name": "Nylocas Toxobolos (big)",
+  "name": "Nylocas Toxobolos",
   "isTobNormalMode": true,
   "hitpoints": 22,
   "att": 250,
@@ -40249,7 +40272,7 @@
   "size": 2
  },
  "8347": {
-  "name": "Nylocas Hagios (big)",
+  "name": "Nylocas Hagios",
   "isTobNormalMode": true,
   "hitpoints": 22,
   "att": 250,
@@ -40325,7 +40348,7 @@
  },
  "8367": {
   "name": "Blood spawn",
-  "isTobNormalMode": true,
+  "isTobEntryMode": true,
   "hitpoints": 120,
   "att": 1,
   "str": 1,
@@ -40401,11 +40424,11 @@
  "8385": {
   "name": "Nylocas Matomenos",
   "isTobNormalMode": true,
-  "att": 100,
-  "str": 100,
-  "def": 100,
-  "mage": 100,
-  "range": 100,
+  "att": 1,
+  "str": 1,
+  "def": 50,
+  "mage": 50,
+  "range": 1,
   "combat": 115,
   "size": 2
  },
@@ -41254,6 +41277,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8742": {
@@ -41265,6 +41289,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8743": {
@@ -41276,6 +41301,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8744": {
@@ -41287,6 +41313,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8745": {
@@ -41298,6 +41325,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8746": {
@@ -41309,6 +41337,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8747": {
@@ -41320,6 +41349,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8748": {
@@ -41331,6 +41361,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8749": {
@@ -41342,6 +41373,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8750": {
@@ -41353,6 +41385,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8751": {
@@ -41364,6 +41397,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8752": {
@@ -41375,6 +41409,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8753": {
@@ -41386,6 +41421,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8754": {
@@ -41397,6 +41433,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8755": {
@@ -41408,6 +41445,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8756": {
@@ -41419,6 +41457,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8757": {
@@ -41430,6 +41469,7 @@
   "dstab": -10,
   "dslash": -10,
   "dcrush": -10,
+  "dmagic": 50,
   "drange": -10
  },
  "8759": {
@@ -41467,22 +41507,49 @@
  },
  "8844": {
   "name": "Mourner",
-  "is<!-- if no monster attributes apply": true,
-  "isRemove this parameter -->": true,
+  "hitpoints": 13,
+  "att": 12,
+  "str": 16,
+  "def": 12,
+  "mage": 1,
+  "range": 1,
+  "dstab": 5,
+  "dslash": 25,
+  "dcrush": 25,
+  "dmagic": 15,
+  "drange": 5,
   "combat": 24,
   "size": 1
  },
  "8845": {
   "name": "Mourner",
-  "is<!-- if no monster attributes apply": true,
-  "isRemove this parameter -->": true,
+  "hitpoints": 29,
+  "att": 40,
+  "str": 50,
+  "def": 30,
+  "mage": 1,
+  "range": 1,
+  "dstab": 20,
+  "dslash": 40,
+  "dcrush": 40,
+  "dmagic": 30,
+  "drange": 20,
   "combat": 51,
   "size": 1
  },
  "8846": {
   "name": "Mourner",
-  "is<!-- if no monster attributes apply": true,
-  "isRemove this parameter -->": true,
+  "hitpoints": 100,
+  "att": 95,
+  "str": 95,
+  "def": 80,
+  "mage": 1,
+  "range": 1,
+  "dstab": 40,
+  "dslash": 60,
+  "dcrush": 60,
+  "dmagic": 50,
+  "drange": 40,
   "combat": 106,
   "size": 1
  },
@@ -44882,6 +44949,96 @@
   "combat": 1160,
   "size": 5
  },
+ "10774": {
+  "name": "Nylocas Ischyros",
+  "isTobEntryMode": true,
+  "hitpoints": 2,
+  "att": 80,
+  "str": 40,
+  "def": 1,
+  "mage": 1,
+  "range": 80,
+  "amagic": 505,
+  "mbns": 280,
+  "rngbns": -30,
+  "combat": 46,
+  "size": 1
+ },
+ "10775": {
+  "name": "Nylocas Toxobolos",
+  "isTobEntryMode": true,
+  "hitpoints": 2,
+  "att": 80,
+  "str": 40,
+  "def": 1,
+  "mage": 1,
+  "range": 80,
+  "amagic": 505,
+  "mbns": 280,
+  "rngbns": -30,
+  "combat": 46,
+  "size": 1
+ },
+ "10776": {
+  "name": "Nylocas Hagios",
+  "isTobEntryMode": true,
+  "hitpoints": 2,
+  "att": 80,
+  "str": 40,
+  "def": 1,
+  "mage": 1,
+  "range": 80,
+  "amagic": 505,
+  "mbns": 280,
+  "rngbns": -30,
+  "combat": 46,
+  "size": 1
+ },
+ "10777": {
+  "name": "Nylocas Ischyros",
+  "isTobEntryMode": true,
+  "hitpoints": 3,
+  "att": 100,
+  "str": 90,
+  "def": 6,
+  "mage": 6,
+  "range": 100,
+  "amagic": 400,
+  "mbns": 360,
+  "rngbns": -6,
+  "combat": 82,
+  "size": 2
+ },
+ "10778": {
+  "name": "Nylocas Toxobolos",
+  "isTobEntryMode": true,
+  "hitpoints": 3,
+  "att": 100,
+  "str": 90,
+  "def": 6,
+  "mage": 6,
+  "range": 100,
+  "amagic": 400,
+  "mbns": 360,
+  "rngbns": -6,
+  "combat": 82,
+  "size": 2
+ },
+ "10779": {
+  "name": "Nylocas Hagios",
+  "isTobEntryMode": true,
+  "hitpoints": 3,
+  "att": 100,
+  "str": 90,
+  "def": 6,
+  "mage": 6,
+  "range": 100,
+  "amagic": 400,
+  "mbns": 360,
+  "rngbns": -6,
+  "combat": 82,
+  "size": 2
+ },
  "10786": {
   "name": "Nylocas Vasilias",
   "isTobEntryMode": true,
@@ -45117,6 +45274,18 @@
   "drange": 100,
   "combat": 512,
   "size": 7
+ },
+ "10844": {
+  "name": "Nylocas Athanatos",
+  "isTobEntryMode": true,
+  "hitpoints": 30,
+  "att": 1,
+  "str": 1,
+  "def": 40,
+  "mage": 40,
+  "range": 1,
+  "combat": 107,
+  "size": 3
  },
  "10845": {
   "name": "Nylocas Matomenos",
@@ -49301,7 +49470,7 @@
   "drange": 40,
   "combat": 320,
   "size": 3,
-  "respawn": 26
+  "respawn": 11
  },
  "11993": {
   "name": "Calvar'ion",
@@ -49319,7 +49488,7 @@
   "drange": 211,
   "combat": 264,
   "size": 3,
-  "respawn": 30
+  "respawn": 14
  },
  "11994": {
   "name": "Calvar'ion",
@@ -49337,7 +49506,7 @@
   "drange": 211,
   "combat": 264,
   "size": 3,
-  "respawn": 30
+  "respawn": 14
  },
  "11998": {
   "name": "Spindel",
@@ -49354,7 +49523,7 @@
   "drange": 103,
   "combat": 302,
   "size": 4,
-  "respawn": 25
+  "respawn": 9
  },
  "11999": {
   "name": "Poison spider",
@@ -50375,101 +50544,121 @@
  },
  "12268": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12269": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12270": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12271": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12272": {
   "name": "Strangled",
+  "hitpoints": 50,
   "combat": 149,
   "size": 1
  },
  "12273": {
   "name": "Strangled",
+  "hitpoints": 50,
   "combat": 149,
   "size": 1
  },
  "12274": {
   "name": "Strangled",
+  "hitpoints": 50,
   "combat": 149,
   "size": 1
  },
  "12275": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12276": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12277": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12278": {
   "name": "Strangled",
+  "hitpoints": 50,
   "combat": 149,
   "size": 1
  },
  "12279": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12280": {
   "name": "Strangled",
+  "hitpoints": 50,
   "combat": 149,
   "size": 1
  },
  "12281": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12282": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12283": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12284": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12285": {
   "name": "Strangled",
+  "hitpoints": 50,
   "combat": 149,
   "size": 1
  },
  "12286": {
   "name": "Strangled",
+  "hitpoints": 50,
   "combat": 149,
   "size": 1
  },
  "12287": {
   "name": "Strangled",
+  "hitpoints": 50,
   "combat": 149,
   "size": 1
  },
@@ -50484,7 +50673,8 @@
   "name": "Strangled Boar",
   "hitpoints": 40,
   "combat": 166,
-  "size": 1
+  "size": 1,
+  "respawn": 60
  },
  "12290": {
   "name": "Strangled Lynx",
@@ -51056,36 +51246,43 @@
  },
  "12429": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12430": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12431": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12432": {
   "name": "Strangled",
+  "hitpoints": 40,
   "combat": 138,
   "size": 1
  },
  "12433": {
   "name": "Strangled",
+  "hitpoints": 50,
   "combat": 149,
   "size": 1
  },
  "12434": {
   "name": "Strangled",
+  "hitpoints": 50,
   "combat": 149,
   "size": 1
  },
  "12435": {
   "name": "Strangled",
+  "hitpoints": 50,
   "combat": 149,
   "size": 1
  },
@@ -51772,7 +51969,8 @@
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12721": {
   "name": "Armoured zombie",
@@ -51787,7 +51985,8 @@
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12722": {
   "name": "Armoured zombie",
@@ -51802,7 +52001,8 @@
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12723": {
   "name": "Armoured zombie",
@@ -51817,7 +52017,8 @@
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12724": {
   "name": "Armoured zombie",
@@ -51832,7 +52033,8 @@
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12725": {
   "name": "Armoured zombie",
@@ -51847,7 +52049,8 @@
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12726": {
   "name": "Armoured zombie",
@@ -51862,7 +52065,8 @@
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12727": {
   "name": "Armoured zombie",
@@ -51877,7 +52081,8 @@
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12728": {
   "name": "Armoured zombie",
@@ -51892,7 +52097,8 @@
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12729": {
   "name": "Armoured zombie",
@@ -51907,7 +52113,8 @@
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12730": {
   "name": "Armoured zombie",
@@ -51917,11 +52124,13 @@
   "str": 72,
   "def": 68,
   "mage": 1,
+  "range": 1,
   "dstab": 20,
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12731": {
   "name": "Armoured zombie",
@@ -51931,11 +52140,13 @@
   "str": 72,
   "def": 68,
   "mage": 1,
+  "range": 1,
   "dstab": 20,
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12732": {
   "name": "Armoured zombie",
@@ -51945,11 +52156,13 @@
   "str": 72,
   "def": 68,
   "mage": 1,
+  "range": 1,
   "dstab": 20,
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12733": {
   "name": "Armoured zombie",
@@ -51959,11 +52172,13 @@
   "str": 72,
   "def": 68,
   "mage": 1,
+  "range": 1,
   "dstab": 20,
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12734": {
   "name": "Armoured zombie",
@@ -51973,11 +52188,13 @@
   "str": 72,
   "def": 68,
   "mage": 1,
+  "range": 1,
   "dstab": 20,
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12735": {},
  "12736": {
@@ -51988,11 +52205,13 @@
   "str": 72,
   "def": 68,
   "mage": 1,
+  "range": 1,
   "dstab": 20,
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12738": {
   "name": "Armoured zombie",
@@ -52002,11 +52221,13 @@
   "str": 72,
   "def": 68,
   "mage": 1,
+  "range": 1,
   "dstab": 20,
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12755": {
   "name": "Armoured zombie",
@@ -52016,11 +52237,13 @@
   "str": 72,
   "def": 68,
   "mage": 1,
+  "range": 1,
   "dstab": 20,
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12757": {
   "name": "Armoured zombie",
@@ -52030,11 +52253,13 @@
   "str": 72,
   "def": 68,
   "mage": 1,
+  "range": 1,
   "dstab": 20,
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12758": {
   "name": "Armoured zombie",
@@ -52044,11 +52269,13 @@
   "str": 72,
   "def": 68,
   "mage": 1,
+  "range": 1,
   "dstab": 20,
   "dslash": 20,
   "drange": 10,
   "combat": 85,
-  "size": 1
+  "size": 1,
+  "respawn": 40
  },
  "12810": {
   "name": "Jaguar warrior",
@@ -52118,10 +52345,12 @@
   "str": 110,
   "def": 80,
   "mage": 110,
-  "range": 3,
+  "range": 110,
   "attbns": 150,
   "strbns": 150,
   "amagic": 150,
+  "arange": 150,
+  "rngbns": 10,
   "dmagic": 75,
   "drange": 50,
   "combat": 104,
@@ -52134,9 +52363,7 @@
   "str": 110,
   "def": 80,
   "mage": 110,
-  "range": 3,
-  "attbns": 150,
-  "strbns": 150,
+  "range": 110,
   "amagic": 150,
   "dstab": 50,
   "dslash": 50,
@@ -52152,9 +52379,9 @@
   "str": 110,
   "def": 80,
   "mage": 110,
-  "range": 3,
+  "range": 110,
   "attbns": 150,
-  "strbns": 150,
+  "strbns": 90,
   "amagic": 150,
   "dstab": 50,
   "dslash": 50,
@@ -52343,6 +52570,18 @@
  },
  "12879": {
   "name": "Sulphur Nagua",
+  "hitpoints": 100,
+  "att": 90,
+  "str": 105,
+  "def": 40,
+  "mage": 50,
+  "range": 1,
+  "attbns": 90,
+  "dstab": 50,
+  "dslash": 50,
+  "dcrush": 10,
+  "dmagic": 200,
+  "drange": 200,
   "combat": 98,
   "size": 2
  },
@@ -52545,6 +52784,18 @@
   "combat": 9,
   "size": 2
  },
+ "13006": {
+  "name": "Oryx",
+  "hitpoints": 19,
+  "att": 11,
+  "str": 13,
+  "def": 13,
+  "mage": 1,
+  "range": 1,
+  "combat": 15,
+  "size": 2,
+  "respawn": 90
+ },
  "13011": {
   "name": "Blood Moon",
   "hitpoints": 500,
@@ -52674,6 +52925,7 @@
  },
  "13033": {
   "name": "Sulphur Nagua",
+  "isSpectral": true,
   "hitpoints": 100,
   "att": 90,
   "str": 105,
@@ -52691,7 +52943,7 @@
   "respawn": 50
  },
  "13100": {
-  "name": "Guard (Varlamore)",
+  "name": "Guard",
   "hitpoints": 22,
   "att": 19,
   "str": 18,
@@ -52709,7 +52961,7 @@
   "size": 1
  },
  "13101": {
-  "name": "Guard (Varlamore)",
+  "name": "Guard",
   "hitpoints": 22,
   "att": 19,
   "str": 18,
@@ -52727,7 +52979,7 @@
   "size": 1
  },
  "13102": {
-  "name": "Guard (Varlamore)",
+  "name": "Guard",
   "hitpoints": 22,
   "att": 19,
   "str": 18,
@@ -52745,7 +52997,7 @@
   "size": 1
  },
  "13103": {
-  "name": "Guard (Varlamore)",
+  "name": "Guard",
   "hitpoints": 22,
   "att": 19,
   "str": 18,
@@ -52763,7 +53015,7 @@
   "size": 1
  },
  "13104": {
-  "name": "Guard (Varlamore)",
+  "name": "Guard",
   "hitpoints": 22,
   "att": 19,
   "str": 18,
@@ -52781,7 +53033,7 @@
   "size": 1
  },
  "13105": {
-  "name": "Guard (Varlamore)",
+  "name": "Guard",
   "hitpoints": 22,
   "att": 19,
   "str": 18,
@@ -52799,7 +53051,7 @@
   "size": 1
  },
  "13106": {
-  "name": "Guard (Varlamore)",
+  "name": "Guard",
   "hitpoints": 22,
   "att": 19,
   "str": 18,
@@ -52817,7 +53069,7 @@
   "size": 1
  },
  "13107": {
-  "name": "Guard (Varlamore)",
+  "name": "Guard",
   "hitpoints": 22,
   "att": 19,
   "str": 18,
@@ -52835,7 +53087,7 @@
   "size": 1
  },
  "13108": {
-  "name": "Guard (Varlamore)",
+  "name": "Guard",
   "hitpoints": 22,
   "att": 19,
   "str": 18,
@@ -52853,7 +53105,7 @@
   "size": 1
  },
  "13109": {
-  "name": "Guard (Varlamore)",
+  "name": "Guard",
   "hitpoints": 22,
   "att": 19,
   "str": 18,
@@ -53138,6 +53390,142 @@
   "dmagic": 1,
   "drange": 4,
   "combat": 23,
+  "size": 1
+ },
+ "13291": {
+  "name": "Thief",
+  "hitpoints": 17,
+  "att": 14,
+  "str": 13,
+  "def": 12,
+  "mage": 1,
+  "range": 1,
+  "combat": 23,
+  "size": 1
+ },
+ "13292": {
+  "name": "Thief",
+  "hitpoints": 17,
+  "att": 14,
+  "str": 13,
+  "def": 12,
+  "mage": 1,
+  "range": 1,
+  "combat": 23,
+  "size": 1
+ },
+ "13293": {
+  "name": "Thief",
+  "hitpoints": 17,
+  "att": 14,
+  "str": 13,
+  "def": 12,
+  "mage": 1,
+  "range": 1,
+  "combat": 23,
+  "size": 1
+ },
+ "13294": {
+  "name": "Thief",
+  "hitpoints": 17,
+  "att": 14,
+  "str": 13,
+  "def": 12,
+  "mage": 1,
+  "range": 1,
+  "combat": 23,
+  "size": 1
+ },
+ "13295": {
+  "name": "Thief",
+  "hitpoints": 17,
+  "att": 14,
+  "str": 13,
+  "def": 12,
+  "mage": 1,
+  "range": 1,
+  "combat": 23,
+  "size": 1
+ },
+ "13296": {
+  "name": "Thief",
+  "hitpoints": 17,
+  "att": 14,
+  "str": 13,
+  "def": 12,
+  "mage": 1,
+  "range": 1,
+  "combat": 23,
+  "size": 1
+ },
+ "13489": {
+  "name": "Zombie pirate",
+  "isUndead": true,
+  "hitpoints": 22,
+  "att": 20,
+  "str": 10,
+  "def": 20,
+  "mage": 1,
+  "range": 1,
+  "combat": 22,
+  "size": 1
+ },
+ "13490": {
+  "name": "Zombie pirate",
+  "isUndead": true,
+  "hitpoints": 35,
+  "att": 30,
+  "str": 15,
+  "def": 20,
+  "mage": 1,
+  "range": 1,
+  "combat": 28,
+  "size": 1
+ },
+ "13491": {
+  "name": "Zombie pirate",
+  "isUndead": true,
+  "hitpoints": 35,
+  "att": 30,
+  "str": 15,
+  "def": 20,
+  "mage": 1,
+  "range": 1,
+  "combat": 28,
+  "size": 1
+ },
+ "13492": {
+  "name": "Zombie pirate",
+  "isUndead": true,
+  "hitpoints": 40,
+  "att": 40,
+  "str": 20,
+  "def": 20,
+  "mage": 1,
+  "range": 1,
+  "combat": 34,
+  "size": 1
+ },
+ "13493": {
+  "name": "Zombie pirate",
+  "isUndead": true,
+  "hitpoints": 40,
+  "att": 40,
+  "str": 20,
+  "def": 20,
+  "mage": 1,
+  "range": 1,
+  "combat": 34,
+  "size": 1
+ },
+ "8367_2": {
+  "name": "Blood spawn",
+  "isTobNormalMode": true,
+  "hitpoints": 7,
+  "att": 1,
+  "str": 1,
+  "range": 1,
+  "combat": 55,
   "size": 1
  },
  "12166_1": {

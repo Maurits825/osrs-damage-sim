@@ -26000,7 +26000,7 @@
  },
  "13328": {
   "name": "Green banner",
-  "weight": 2.267,
+  "weight": 1.0,
   "equipable": true,
   "slot": 3,
   "aspeed": 4,
@@ -44856,7 +44856,7 @@
  },
  "28169": {
   "name": "Forestry top",
-  "weight": 0.136,
+  "weight": 1.36,
   "equipable": true,
   "slot": 4
  },
@@ -45024,12 +45024,12 @@
   "equipable": true,
   "slot": 3,
   "is2h": true,
-  "astab": -2,
-  "aslash": 38,
-  "acrush": 32,
+  "astab": -3,
+  "aslash": 60,
+  "acrush": 51,
   "dslash": 1,
-  "str": 42,
-  "aspeed": 5,
+  "str": 67,
+  "aspeed": 7,
   "weaponCategory": "AXE"
  },
  "28254": {
@@ -45064,7 +45064,7 @@
  },
  "28258": {
   "name": "Sanguine torva platelegs",
-  "weight": 9.979,
+  "weight": 9.071,
   "equipable": true,
   "slot": 7,
   "amagic": -24,
@@ -45785,12 +45785,21 @@
  },
  "28837": {
   "name": "Irit tar",
-  "weight": 0.453,
   "equipable": true,
   "slot": 13,
   "rstr": 60
  },
  "28839": {
+  "name": "Wood camo top",
+  "weight": -3.0,
+  "equipable": true,
+  "slot": 4,
+  "dstab": 10,
+  "dslash": 15,
+  "dcrush": 19,
+  "drange": 12
+ },
+ "28842": {
   "name": "Wood camo legs",
   "weight": -2.0,
   "equipable": true,
@@ -45800,16 +45809,6 @@
   "dslash": 10,
   "dcrush": 10,
   "drange": 10
- },
- "28842": {
-  "name": "Wood camo top",
-  "weight": -3.0,
-  "equipable": true,
-  "slot": 4,
-  "dstab": 10,
-  "dslash": 15,
-  "dcrush": 19,
-  "drange": 12
  },
  "28845": {
   "name": "Jungle camo top",
@@ -45900,8 +45899,8 @@
   "weight": 0.453,
   "equipable": true,
   "slot": 1,
-  "arange": 28,
-  "rstr": 4
+  "arange": 18,
+  "rstr": 3
  },
  "28904": {
   "name": "Dizana's max hood",
@@ -45914,8 +45913,8 @@
   "weight": 0.453,
   "equipable": true,
   "slot": 1,
-  "arange": 28,
-  "rstr": 4
+  "arange": 18,
+  "rstr": 3
  },
  "28919": {
   "name": "Tonalztics of ralos",
@@ -45939,6 +45938,20 @@
   "aspeed": 7,
   "weaponCategory": "THROWN"
  },
+ "28933": {
+  "name": "Sunfire fanatic helm",
+  "weight": 2.267,
+  "equipable": true,
+  "slot": 0,
+  "amagic": -6,
+  "arange": -3,
+  "dstab": 30,
+  "dslash": 32,
+  "dcrush": 27,
+  "dmagic": -1,
+  "drange": 30,
+  "prayer": 6
+ },
  "28936": {
   "name": "Sunfire fanatic cuirass",
   "weight": 8.618,
@@ -45958,7 +45971,7 @@
   "weight": 7.711,
   "equipable": true,
   "slot": 7,
-  "amagic": -21,
+  "amagic": -4,
   "arange": -11,
   "dstab": 51,
   "dslash": 49,
@@ -45986,9 +45999,7 @@
   "name": "Dizana's quiver",
   "weight": 0.453,
   "equipable": true,
-  "slot": 1,
-  "arange": 28,
-  "rstr": 4
+  "slot": 1
  },
  "28949": {
   "name": "Dizana's quiver",
@@ -46000,9 +46011,7 @@
   "name": "Dizana's quiver",
   "weight": 0.453,
   "equipable": true,
-  "slot": 1,
-  "arange": 18,
-  "rstr": 3
+  "slot": 1
  },
  "28953": {
   "name": "Dizana's quiver",
@@ -46015,20 +46024,20 @@
   "weight": 0.453,
   "equipable": true,
   "slot": 1,
-  "arange": 28,
-  "rstr": 4
+  "arange": 18,
+  "rstr": 3
  },
  "28957": {
   "name": "Blessed dizana's quiver",
   "weight": 0.453,
   "equipable": true,
   "slot": 1,
-  "arange": 28,
-  "rstr": 4
+  "arange": 18,
+  "rstr": 3
  },
  "28988": {
   "name": "Blue moon spear",
-  "weight": 2.267,
+  "weight": 3.0,
   "equipable": true,
   "slot": 3,
   "is2h": true,
@@ -46058,7 +46067,7 @@
   "amagic": -4,
   "str": 81,
   "aspeed": 4,
-  "weaponCategory": "BLUNT"
+  "weaponCategory": "SPIKED"
  },
  "29000": {
   "name": "Eclipse atlatl",
@@ -46073,7 +46082,7 @@
  },
  "29004": {
   "name": "Eclipse moon chestplate",
-  "weight": 12.0,
+  "weight": 3.0,
   "equipable": true,
   "slot": 4,
   "amagic": -15,
@@ -46087,7 +46096,7 @@
  },
  "29007": {
   "name": "Eclipse moon tassets",
-  "weight": 8.0,
+  "weight": 1.0,
   "equipable": true,
   "slot": 7,
   "amagic": -15,
@@ -46101,7 +46110,7 @@
  },
  "29010": {
   "name": "Eclipse moon helm",
-  "weight": 1.0,
+  "weight": 0.907,
   "equipable": true,
   "slot": 0,
   "amagic": -6,
@@ -46115,7 +46124,7 @@
  },
  "29013": {
   "name": "Blue moon chestplate",
-  "weight": 12.0,
+  "weight": 3.175,
   "equipable": true,
   "slot": 4,
   "amagic": 30,
@@ -46125,17 +46134,27 @@
  },
  "29016": {
   "name": "Blue moon tassets",
-  "weight": 8.0,
+  "weight": 1.36,
   "equipable": true,
   "slot": 7,
   "amagic": 22,
   "dcrush": 23,
-  "dmagic": 22,
+  "dmagic": 32,
   "str": 1
+ },
+ "29019": {
+  "name": "Blue moon helm",
+  "weight": 0.453,
+  "equipable": true,
+  "slot": 0,
+  "amagic": 6,
+  "dcrush": 10,
+  "dmagic": 6,
+  "str": 3
  },
  "29022": {
   "name": "Blood moon chestplate",
-  "weight": 12.0,
+  "weight": 5.443,
   "equipable": true,
   "slot": 4,
   "amagic": -15,
@@ -46149,7 +46168,7 @@
  },
  "29025": {
   "name": "Blood moon tassets",
-  "weight": 8.0,
+  "weight": 4.082,
   "equipable": true,
   "slot": 7,
   "amagic": -21,
@@ -46161,9 +46180,23 @@
   "drange": 46,
   "str": 2
  },
+ "29028": {
+  "name": "Blood moon helm",
+  "weight": 1.0,
+  "equipable": true,
+  "slot": 0,
+  "amagic": -6,
+  "arange": -2,
+  "dstab": 20,
+  "dslash": 31,
+  "dcrush": 34,
+  "dmagic": 7,
+  "drange": 29,
+  "str": 4
+ },
  "29031": {
   "name": "Eclipse moon chestplate",
-  "weight": 12.0,
+  "weight": 3.0,
   "equipable": true,
   "slot": 4,
   "amagic": -15,
@@ -46177,7 +46210,7 @@
  },
  "29033": {
   "name": "Eclipse moon tassets",
-  "weight": 8.0,
+  "weight": 1.0,
   "equipable": true,
   "slot": 7,
   "amagic": -15,
@@ -46205,7 +46238,7 @@
  },
  "29037": {
   "name": "Blue moon chestplate",
-  "weight": 12.0,
+  "weight": 3.175,
   "equipable": true,
   "slot": 4,
   "amagic": 30,
@@ -46215,17 +46248,27 @@
  },
  "29039": {
   "name": "Blue moon tassets",
-  "weight": 8.0,
+  "weight": 1.36,
   "equipable": true,
   "slot": 7,
   "amagic": 22,
   "dcrush": 23,
-  "dmagic": 22,
+  "dmagic": 32,
   "str": 1
+ },
+ "29041": {
+  "name": "Blue moon helm",
+  "weight": 0.453,
+  "equipable": true,
+  "slot": 0,
+  "amagic": 6,
+  "dcrush": 10,
+  "dmagic": 6,
+  "str": 3
  },
  "29043": {
   "name": "Blood moon chestplate",
-  "weight": 12.0,
+  "weight": 5.443,
   "equipable": true,
   "slot": 4,
   "amagic": -15,
@@ -46239,7 +46282,7 @@
  },
  "29045": {
   "name": "Blood moon tassets",
-  "weight": 8.0,
+  "weight": 4.082,
   "equipable": true,
   "slot": 7,
   "amagic": -21,
@@ -46251,9 +46294,23 @@
   "drange": 46,
   "str": 2
  },
+ "29047": {
+  "name": "Blood moon helm",
+  "weight": 0.907,
+  "equipable": true,
+  "slot": 0,
+  "amagic": -6,
+  "arange": -2,
+  "dstab": 20,
+  "dslash": 31,
+  "dcrush": 34,
+  "dmagic": 7,
+  "drange": 29,
+  "str": 4
+ },
  "29049": {
   "name": "Eclipse moon chestplate",
-  "weight": 12.0,
+  "weight": 3.0,
   "equipable": true,
   "slot": 4,
   "amagic": -15,
@@ -46267,7 +46324,7 @@
  },
  "29052": {
   "name": "Eclipse moon tassets",
-  "weight": 8.0,
+  "weight": 1.0,
   "equipable": true,
   "slot": 7,
   "amagic": -15,
@@ -46295,7 +46352,7 @@
  },
  "29058": {
   "name": "Blue moon chestplate",
-  "weight": 12.0,
+  "weight": 3.175,
   "equipable": true,
   "slot": 4,
   "amagic": 30,
@@ -46305,17 +46362,27 @@
  },
  "29061": {
   "name": "Blue moon tassets",
-  "weight": 8.0,
+  "weight": 1.36,
   "equipable": true,
   "slot": 7,
   "amagic": 22,
   "dcrush": 23,
-  "dmagic": 22,
+  "dmagic": 32,
   "str": 1
+ },
+ "29064": {
+  "name": "Blue moon helm",
+  "weight": 0.453,
+  "equipable": true,
+  "slot": 0,
+  "amagic": 6,
+  "dcrush": 10,
+  "dmagic": 6,
+  "str": 3
  },
  "29067": {
   "name": "Blood moon chestplate",
-  "weight": 12.0,
+  "weight": 5.443,
   "equipable": true,
   "slot": 4,
   "amagic": -15,
@@ -46329,7 +46396,7 @@
  },
  "29070": {
   "name": "Blood moon tassets",
-  "weight": 8.0,
+  "weight": 4.082,
   "equipable": true,
   "slot": 7,
   "amagic": -21,
@@ -46340,6 +46407,20 @@
   "dmagic": 32,
   "drange": 46,
   "str": 2
+ },
+ "29073": {
+  "name": "Blood moon helm",
+  "weight": 0.907,
+  "equipable": true,
+  "slot": 0,
+  "amagic": -6,
+  "arange": -2,
+  "dstab": 20,
+  "dslash": 31,
+  "dcrush": 34,
+  "dmagic": 7,
+  "drange": 29,
+  "str": 4
  },
  "29084": {
   "name": "Sulphur blades",
