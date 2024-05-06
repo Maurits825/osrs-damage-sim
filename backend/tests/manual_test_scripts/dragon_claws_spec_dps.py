@@ -13,7 +13,7 @@ class DragonClawsDps:
             input_setups = json.load(f)
 
         input_setup = InputSetupConverter.get_input_setup(input_setups["Ba-ba 300 max d claws spec"])
-        input_setup.input_gear_setups[0].main_weapon.npc.base_combat_stats.hitpoints = 10_000_000
+        input_setup.input_gear_setups[0].main_weapon.npc.base_combat_stats.hitpoints = 100_000_000
         damage_sim = DamageSim(input_setup.input_gear_setups[0], input_setup.global_settings)
         dmg_sim_data = damage_sim.run_damage_sim()
 
