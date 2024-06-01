@@ -8397,7 +8397,8 @@
   "dstab": 15,
   "dslash": 13,
   "dcrush": 16,
-  "dmagic": 6
+  "dmagic": 6,
+  "mdmg": 1
  },
  "4710": {
   "name": "Ahrim's staff",
@@ -8427,7 +8428,8 @@
   "dstab": 52,
   "dslash": 37,
   "dcrush": 63,
-  "dmagic": 30
+  "dmagic": 30,
+  "mdmg": 1
  },
  "4714": {
   "name": "Ahrim's robeskirt",
@@ -8439,7 +8441,8 @@
   "dstab": 33,
   "dslash": 30,
   "dcrush": 36,
-  "dmagic": 22
+  "dmagic": 22,
+  "mdmg": 1
  },
  "4716": {
   "name": "Dharok's helm",
@@ -8773,7 +8776,8 @@
   "dstab": 15,
   "dslash": 13,
   "dcrush": 16,
-  "dmagic": 6
+  "dmagic": 6,
+  "mdmg": 1
  },
  "4857": {
   "name": "Ahrim's hood",
@@ -8785,7 +8789,8 @@
   "dstab": 15,
   "dslash": 13,
   "dcrush": 16,
-  "dmagic": 6
+  "dmagic": 6,
+  "mdmg": 1
  },
  "4858": {
   "name": "Ahrim's hood",
@@ -8797,7 +8802,8 @@
   "dstab": 15,
   "dslash": 13,
   "dcrush": 16,
-  "dmagic": 6
+  "dmagic": 6,
+  "mdmg": 1
  },
  "4859": {
   "name": "Ahrim's hood",
@@ -8809,7 +8815,8 @@
   "dstab": 15,
   "dslash": 13,
   "dcrush": 16,
-  "dmagic": 6
+  "dmagic": 6,
+  "mdmg": 1
  },
  "4860": {
   "name": "Ahrim's hood",
@@ -8907,7 +8914,8 @@
   "dstab": 52,
   "dslash": 37,
   "dcrush": 63,
-  "dmagic": 30
+  "dmagic": 30,
+  "mdmg": 1
  },
  "4869": {
   "name": "Ahrim's robetop",
@@ -8919,7 +8927,8 @@
   "dstab": 52,
   "dslash": 37,
   "dcrush": 63,
-  "dmagic": 30
+  "dmagic": 30,
+  "mdmg": 1
  },
  "4870": {
   "name": "Ahrim's robetop",
@@ -8931,7 +8940,8 @@
   "dstab": 52,
   "dslash": 37,
   "dcrush": 63,
-  "dmagic": 30
+  "dmagic": 30,
+  "mdmg": 1
  },
  "4871": {
   "name": "Ahrim's robetop",
@@ -8943,7 +8953,8 @@
   "dstab": 52,
   "dslash": 37,
   "dcrush": 63,
-  "dmagic": 30
+  "dmagic": 30,
+  "mdmg": 1
  },
  "4872": {
   "name": "Ahrim's robetop",
@@ -8961,7 +8972,8 @@
   "dstab": 33,
   "dslash": 30,
   "dcrush": 36,
-  "dmagic": 22
+  "dmagic": 22,
+  "mdmg": 1
  },
  "4875": {
   "name": "Ahrim's robeskirt",
@@ -8973,7 +8985,8 @@
   "dstab": 33,
   "dslash": 30,
   "dcrush": 36,
-  "dmagic": 22
+  "dmagic": 22,
+  "mdmg": 1
  },
  "4876": {
   "name": "Ahrim's robeskirt",
@@ -8985,7 +8998,8 @@
   "dstab": 33,
   "dslash": 30,
   "dcrush": 36,
-  "dmagic": 22
+  "dmagic": 22,
+  "mdmg": 1
  },
  "4877": {
   "name": "Ahrim's robeskirt",
@@ -8997,7 +9011,8 @@
   "dstab": 33,
   "dslash": 30,
   "dcrush": 36,
-  "dmagic": 22
+  "dmagic": 22,
+  "mdmg": 1
  },
  "4878": {
   "name": "Ahrim's robeskirt",
@@ -13597,7 +13612,8 @@
   "equipable": true,
   "slot": 5,
   "amagic": 15,
-  "dmagic": 15
+  "dmagic": 15,
+  "mdmg": 2
  },
  "6908": {
   "name": "Beginner wand",
@@ -13645,7 +13661,8 @@
   "equipable": true,
   "slot": 4,
   "amagic": 22,
-  "dmagic": 22
+  "dmagic": 22,
+  "mdmg": 1
  },
  "6918": {
   "name": "Infinity hat",
@@ -13653,7 +13670,8 @@
   "equipable": true,
   "slot": 0,
   "amagic": 6,
-  "dmagic": 6
+  "dmagic": 6,
+  "mdmg": 1
  },
  "6920": {
   "name": "Infinity boots",
@@ -13677,7 +13695,8 @@
   "equipable": true,
   "slot": 7,
   "amagic": 17,
-  "dmagic": 17
+  "dmagic": 17,
+  "mdmg": 1
  },
  "6959": {
   "name": "Pink cape",
@@ -19039,7 +19058,8 @@
   "equipable": true,
   "slot": 4,
   "amagic": 24,
-  "dmagic": 24
+  "dmagic": 24,
+  "mdmg": 1
  },
  "10340": {
   "name": "3rd age robe",
@@ -19047,7 +19067,8 @@
   "equipable": true,
   "slot": 7,
   "amagic": 19,
-  "dmagic": 19
+  "dmagic": 19,
+  "mdmg": 1
  },
  "10342": {
   "name": "3rd age mage hat",
@@ -19055,7 +19076,8 @@
   "equipable": true,
   "slot": 0,
   "amagic": 8,
-  "dmagic": 8
+  "dmagic": 8,
+  "mdmg": 1
  },
  "10344": {
   "name": "3rd age amulet",
@@ -22328,7 +22350,8 @@
   "dstab": 50,
   "dslash": 52,
   "dcrush": 48,
-  "dmagic": 15
+  "dmagic": 15,
+  "mdmg": 2
  },
  "11926": {
   "name": "Odium ward",
@@ -22547,7 +22570,7 @@
   "equipable": true,
   "slot": 2,
   "amagic": 12,
-  "mdmg": 10,
+  "mdmg": 5,
   "prayer": 2
  },
  "12006": {
@@ -23720,7 +23743,8 @@
   "equipable": true,
   "slot": 0,
   "amagic": 6,
-  "dmagic": 6
+  "dmagic": 6,
+  "mdmg": 1
  },
  "12420": {
   "name": "Light infinity top",
@@ -24647,7 +24671,8 @@
   "dstab": 50,
   "dslash": 52,
   "dcrush": 48,
-  "dmagic": 15
+  "dmagic": 15,
+  "mdmg": 2
  },
  "12807": {
   "name": "Odium ward (or)",
@@ -24802,6 +24827,7 @@
   "dcrush": 73,
   "dmagic": 2,
   "drange": 52,
+  "mdmg": 3,
   "prayer": 3
  },
  "12829": {
@@ -25736,7 +25762,8 @@
   "dslash": 5,
   "dcrush": 5,
   "dmagic": 8,
-  "drange": 5
+  "drange": 5,
+  "mdmg": 1
  },
  "13237": {
   "name": "Pegasian boots",
@@ -26000,7 +26027,7 @@
  },
  "13328": {
   "name": "Green banner",
-  "weight": 2.267,
+  "weight": 1.0,
   "equipable": true,
   "slot": 3,
   "aspeed": 4,
@@ -27373,7 +27400,7 @@
   "equipable": true,
   "slot": 2,
   "amagic": 12,
-  "mdmg": 10,
+  "mdmg": 5,
   "prayer": 2
  },
  "19722": {
@@ -28613,7 +28640,8 @@
   "equipable": true,
   "slot": 4,
   "amagic": 10,
-  "dmagic": 8
+  "dmagic": 8,
+  "mdmg": 1
  },
  "20520": {
   "name": "Elder chaos robe",
@@ -28621,7 +28649,8 @@
   "equipable": true,
   "slot": 7,
   "amagic": 6,
-  "dmagic": 6
+  "dmagic": 6,
+  "mdmg": 1
  },
  "20557": {
   "name": "Granite maul (Last Man Standing)",
@@ -28727,7 +28756,8 @@
   "equipable": true,
   "slot": 0,
   "amagic": 5,
-  "dmagic": 4
+  "dmagic": 4,
+  "mdmg": 1
  },
  "20598": {
   "name": "Ahrim's robetop (Last Man Standing)",
@@ -29255,7 +29285,7 @@
   "dslash": 11,
   "dcrush": 13,
   "dmagic": 5,
-  "mdmg": 2
+  "mdmg": 3
  },
  "21021": {
   "name": "Ancestral robe top",
@@ -29268,7 +29298,7 @@
   "dslash": 31,
   "dcrush": 51,
   "dmagic": 28,
-  "mdmg": 2
+  "mdmg": 3
  },
  "21024": {
   "name": "Ancestral robe bottom",
@@ -29281,7 +29311,7 @@
   "dslash": 24,
   "dcrush": 30,
   "dmagic": 20,
-  "mdmg": 2
+  "mdmg": 3
  },
  "21028": {
   "name": "Dragon harpoon",
@@ -30054,7 +30084,8 @@
   "dcrush": 75,
   "dmagic": 15,
   "drange": -5,
-  "str": -2
+  "str": -2,
+  "mdmg": 2
  },
  "21634": {
   "name": "Ancient wyvern shield",
@@ -30071,7 +30102,8 @@
   "dcrush": 25,
   "dmagic": 15,
   "drange": -55,
-  "str": -2
+  "str": -2,
+  "mdmg": 2
  },
  "21643": {
   "name": "Granite boots",
@@ -33916,7 +33948,7 @@
   "equipable": true,
   "slot": 2,
   "amagic": 12,
-  "mdmg": 10,
+  "mdmg": 5,
   "prayer": 2
  },
  "23673": {
@@ -36007,6 +36039,7 @@
   "slot": 0,
   "amagic": 5,
   "dmagic": 5,
+  "mdmg": 1,
   "prayer": 2
  },
  "24291": {
@@ -36016,6 +36049,7 @@
   "slot": 4,
   "amagic": 25,
   "dmagic": 21,
+  "mdmg": 1,
   "prayer": 2
  },
  "24294": {
@@ -36025,6 +36059,7 @@
   "slot": 7,
   "amagic": 18,
   "dmagic": 14,
+  "mdmg": 1,
   "prayer": 2
  },
  "24305": {
@@ -36535,7 +36570,7 @@
   "dslash": 11,
   "dcrush": 13,
   "dmagic": 5,
-  "mdmg": 2
+  "mdmg": 3
  },
  "24666": {
   "name": "Twisted ancestral robe top",
@@ -36548,7 +36583,7 @@
   "dslash": 31,
   "dcrush": 51,
   "dmagic": 28,
-  "mdmg": 2
+  "mdmg": 3
  },
  "24668": {
   "name": "Twisted ancestral robe bottom",
@@ -36561,7 +36596,7 @@
   "dslash": 24,
   "dcrush": 30,
   "dmagic": 20,
-  "mdmg": 2
+  "mdmg": 3
  },
  "24676": {
   "name": "Vyre noble top",
@@ -38044,7 +38079,8 @@
   "dstab": 53,
   "dslash": 39,
   "dcrush": 64,
-  "dmagic": 24
+  "dmagic": 24,
+  "mdmg": 1
  },
  "25407": {
   "name": "Bloodbark gauntlets",
@@ -38077,7 +38113,8 @@
   "dstab": 16,
   "dslash": 14,
   "dcrush": 17,
-  "dmagic": 6
+  "dmagic": 6,
+  "mdmg": 1
  },
  "25416": {
   "name": "Bloodbark legs",
@@ -38088,7 +38125,8 @@
   "dstab": 33,
   "dslash": 31,
   "dcrush": 38,
-  "dmagic": 17
+  "dmagic": 17,
+  "mdmg": 1
  },
  "25434": {
   "name": "Zealot's robe top",
@@ -39108,7 +39146,7 @@
   "prayer": 1
  },
  "26156": {
-  "name": "Group iron helm",
+  "name": "Group ironman helm",
   "weight": 0.907,
   "equipable": true,
   "slot": 0,
@@ -39121,7 +39159,7 @@
   "drange": 6
  },
  "26158": {
-  "name": "Group iron platebody",
+  "name": "Group ironman platebody",
   "weight": 4.535,
   "equipable": true,
   "slot": 4,
@@ -39134,7 +39172,7 @@
   "drange": 20
  },
  "26160": {
-  "name": "Group iron platebody",
+  "name": "Group ironman platebody",
   "weight": 4.535,
   "equipable": true,
   "slot": 4,
@@ -39147,7 +39185,7 @@
   "drange": 20
  },
  "26162": {
-  "name": "Group iron platebody",
+  "name": "Group ironman platebody",
   "weight": 4.535,
   "equipable": true,
   "slot": 4,
@@ -39160,7 +39198,7 @@
   "drange": 20
  },
  "26164": {
-  "name": "Group iron platebody",
+  "name": "Group ironman platebody",
   "weight": 4.535,
   "equipable": true,
   "slot": 4,
@@ -39173,7 +39211,7 @@
   "drange": 20
  },
  "26166": {
-  "name": "Group iron platelegs",
+  "name": "Group ironman platelegs",
   "weight": 4.535,
   "equipable": true,
   "slot": 7,
@@ -39186,7 +39224,7 @@
   "drange": 10
  },
  "26168": {
-  "name": "Group iron bracers",
+  "name": "Group ironman bracers",
   "weight": 0.2,
   "equipable": true,
   "slot": 9,
@@ -39197,7 +39235,7 @@
   "drange": 1
  },
  "26170": {
-  "name": "Hardcore group iron helm",
+  "name": "Hardcore group ironman helm",
   "weight": 0.907,
   "equipable": true,
   "slot": 0,
@@ -39210,7 +39248,7 @@
   "drange": 6
  },
  "26172": {
-  "name": "Hardcore group iron platebody",
+  "name": "Hardcore group ironman platebody",
   "weight": 4.535,
   "equipable": true,
   "slot": 4,
@@ -39223,7 +39261,7 @@
   "drange": 20
  },
  "26174": {
-  "name": "Hardcore group iron platebody",
+  "name": "Hardcore group ironman platebody",
   "weight": 4.535,
   "equipable": true,
   "slot": 4,
@@ -39236,7 +39274,7 @@
   "drange": 20
  },
  "26176": {
-  "name": "Hardcore group iron platebody",
+  "name": "Hardcore group ironman platebody",
   "weight": 4.535,
   "equipable": true,
   "slot": 4,
@@ -39249,7 +39287,7 @@
   "drange": 20
  },
  "26178": {
-  "name": "Hardcore group iron platebody",
+  "name": "Hardcore group ironman platebody",
   "weight": 4.535,
   "equipable": true,
   "slot": 4,
@@ -39262,7 +39300,7 @@
   "drange": 20
  },
  "26180": {
-  "name": "Hardcore group iron platelegs",
+  "name": "Hardcore group ironman platelegs",
   "weight": 4.535,
   "equipable": true,
   "slot": 7,
@@ -39275,7 +39313,7 @@
   "drange": 10
  },
  "26182": {
-  "name": "Hardcore group iron bracers",
+  "name": "Hardcore group ironman bracers",
   "weight": 0.2,
   "equipable": true,
   "slot": 9,
@@ -39396,7 +39434,7 @@
   "dslash": 14,
   "dcrush": 16,
   "dmagic": 6,
-  "mdmg": 1,
+  "mdmg": 2,
   "prayer": 1
  },
  "26243": {
@@ -39410,7 +39448,7 @@
   "dslash": 38,
   "dcrush": 56,
   "dmagic": 31,
-  "mdmg": 1,
+  "mdmg": 2,
   "prayer": 2
  },
  "26245": {
@@ -39424,7 +39462,7 @@
   "dslash": 28,
   "dcrush": 34,
   "dmagic": 22,
-  "mdmg": 1,
+  "mdmg": 2,
   "prayer": 1
  },
  "26254": {
@@ -41933,7 +41971,7 @@
   "slot": 0
  },
  "27042": {
-  "name": "Group iron helm (unranked)",
+  "name": "Group ironman helm (unranked)",
   "weight": 0.907,
   "equipable": true,
   "slot": 0,
@@ -41946,7 +41984,7 @@
   "drange": 6
  },
  "27044": {
-  "name": "Group iron platelegs (unranked)",
+  "name": "Group ironman platelegs (unranked)",
   "weight": 4.535,
   "equipable": true,
   "slot": 7,
@@ -41959,7 +41997,7 @@
   "drange": 10
  },
  "27046": {
-  "name": "Group iron bracers (unranked)",
+  "name": "Group ironman bracers (unranked)",
   "weight": 0.2,
   "equipable": true,
   "slot": 9,
@@ -41970,7 +42008,7 @@
   "drange": 1
  },
  "27048": {
-  "name": "Group iron platebody (unranked)",
+  "name": "Group ironman platebody (unranked)",
   "weight": 4.535,
   "equipable": true,
   "slot": 4,
@@ -41983,7 +42021,7 @@
   "drange": 20
  },
  "27050": {
-  "name": "Group iron platebody (unranked)",
+  "name": "Group ironman platebody (unranked)",
   "weight": 4.535,
   "equipable": true,
   "slot": 4,
@@ -41996,7 +42034,7 @@
   "drange": 20
  },
  "27052": {
-  "name": "Group iron platebody (unranked)",
+  "name": "Group ironman platebody (unranked)",
   "weight": 4.535,
   "equipable": true,
   "slot": 4,
@@ -42009,7 +42047,7 @@
   "drange": 20
  },
  "27054": {
-  "name": "Group iron platebody (unranked)",
+  "name": "Group ironman platebody (unranked)",
   "weight": 4.535,
   "equipable": true,
   "slot": 4,
@@ -44856,7 +44894,7 @@
  },
  "28169": {
   "name": "Forestry top",
-  "weight": 0.136,
+  "weight": 1.36,
   "equipable": true,
   "slot": 4
  },
@@ -45024,12 +45062,12 @@
   "equipable": true,
   "slot": 3,
   "is2h": true,
-  "astab": -2,
-  "aslash": 38,
-  "acrush": 32,
+  "astab": -3,
+  "aslash": 60,
+  "acrush": 51,
   "dslash": 1,
-  "str": 42,
-  "aspeed": 5,
+  "str": 67,
+  "aspeed": 7,
   "weaponCategory": "AXE"
  },
  "28254": {
@@ -45064,7 +45102,7 @@
  },
  "28258": {
   "name": "Sanguine torva platelegs",
-  "weight": 9.979,
+  "weight": 9.071,
   "equipable": true,
   "slot": 7,
   "amagic": -24,
@@ -45785,12 +45823,21 @@
  },
  "28837": {
   "name": "Irit tar",
-  "weight": 0.453,
   "equipable": true,
   "slot": 13,
   "rstr": 60
  },
  "28839": {
+  "name": "Wood camo top",
+  "weight": -3.0,
+  "equipable": true,
+  "slot": 4,
+  "dstab": 10,
+  "dslash": 15,
+  "dcrush": 19,
+  "drange": 12
+ },
+ "28842": {
   "name": "Wood camo legs",
   "weight": -2.0,
   "equipable": true,
@@ -45800,16 +45847,6 @@
   "dslash": 10,
   "dcrush": 10,
   "drange": 10
- },
- "28842": {
-  "name": "Wood camo top",
-  "weight": -3.0,
-  "equipable": true,
-  "slot": 4,
-  "dstab": 10,
-  "dslash": 15,
-  "dcrush": 19,
-  "drange": 12
  },
  "28845": {
   "name": "Jungle camo top",
@@ -45900,8 +45937,8 @@
   "weight": 0.453,
   "equipable": true,
   "slot": 1,
-  "arange": 28,
-  "rstr": 4
+  "arange": 18,
+  "rstr": 3
  },
  "28904": {
   "name": "Dizana's max hood",
@@ -45914,8 +45951,8 @@
   "weight": 0.453,
   "equipable": true,
   "slot": 1,
-  "arange": 28,
-  "rstr": 4
+  "arange": 18,
+  "rstr": 3
  },
  "28919": {
   "name": "Tonalztics of ralos",
@@ -45939,6 +45976,20 @@
   "aspeed": 7,
   "weaponCategory": "THROWN"
  },
+ "28933": {
+  "name": "Sunfire fanatic helm",
+  "weight": 2.267,
+  "equipable": true,
+  "slot": 0,
+  "amagic": -6,
+  "arange": -3,
+  "dstab": 30,
+  "dslash": 32,
+  "dcrush": 27,
+  "dmagic": -1,
+  "drange": 30,
+  "prayer": 6
+ },
  "28936": {
   "name": "Sunfire fanatic cuirass",
   "weight": 8.618,
@@ -45958,7 +46009,7 @@
   "weight": 7.711,
   "equipable": true,
   "slot": 7,
-  "amagic": -21,
+  "amagic": -4,
   "arange": -11,
   "dstab": 51,
   "dslash": 49,
@@ -45986,9 +46037,7 @@
   "name": "Dizana's quiver",
   "weight": 0.453,
   "equipable": true,
-  "slot": 1,
-  "arange": 28,
-  "rstr": 4
+  "slot": 1
  },
  "28949": {
   "name": "Dizana's quiver",
@@ -46000,9 +46049,7 @@
   "name": "Dizana's quiver",
   "weight": 0.453,
   "equipable": true,
-  "slot": 1,
-  "arange": 18,
-  "rstr": 3
+  "slot": 1
  },
  "28953": {
   "name": "Dizana's quiver",
@@ -46015,20 +46062,20 @@
   "weight": 0.453,
   "equipable": true,
   "slot": 1,
-  "arange": 28,
-  "rstr": 4
+  "arange": 18,
+  "rstr": 3
  },
  "28957": {
   "name": "Blessed dizana's quiver",
   "weight": 0.453,
   "equipable": true,
   "slot": 1,
-  "arange": 28,
-  "rstr": 4
+  "arange": 18,
+  "rstr": 3
  },
  "28988": {
   "name": "Blue moon spear",
-  "weight": 2.267,
+  "weight": 3.0,
   "equipable": true,
   "slot": 3,
   "is2h": true,
@@ -46036,6 +46083,10 @@
   "aslash": 62,
   "acrush": 62,
   "amagic": 30,
+  "dstab": 2,
+  "dslash": 3,
+  "dcrush": 1,
+  "dmagic": 15,
   "str": 71,
   "mdmg": 5,
   "aspeed": 5,
@@ -46058,7 +46109,7 @@
   "amagic": -4,
   "str": 81,
   "aspeed": 4,
-  "weaponCategory": "BLUNT"
+  "weaponCategory": "SPIKED"
  },
  "29000": {
   "name": "Eclipse atlatl",
@@ -46073,7 +46124,7 @@
  },
  "29004": {
   "name": "Eclipse moon chestplate",
-  "weight": 12.0,
+  "weight": 3.0,
   "equipable": true,
   "slot": 4,
   "amagic": -15,
@@ -46087,7 +46138,7 @@
  },
  "29007": {
   "name": "Eclipse moon tassets",
-  "weight": 8.0,
+  "weight": 1.0,
   "equipable": true,
   "slot": 7,
   "amagic": -15,
@@ -46101,7 +46152,7 @@
  },
  "29010": {
   "name": "Eclipse moon helm",
-  "weight": 1.0,
+  "weight": 0.907,
   "equipable": true,
   "slot": 0,
   "amagic": -6,
@@ -46115,27 +46166,40 @@
  },
  "29013": {
   "name": "Blue moon chestplate",
-  "weight": 12.0,
+  "weight": 3.175,
   "equipable": true,
   "slot": 4,
   "amagic": 30,
   "dcrush": 51,
   "dmagic": 28,
-  "str": 2
+  "str": 2,
+  "mdmg": 1
  },
  "29016": {
   "name": "Blue moon tassets",
-  "weight": 8.0,
+  "weight": 1.36,
   "equipable": true,
   "slot": 7,
   "amagic": 22,
   "dcrush": 23,
-  "dmagic": 22,
-  "str": 1
+  "dmagic": 32,
+  "str": 1,
+  "mdmg": 1
+ },
+ "29019": {
+  "name": "Blue moon helm",
+  "weight": 0.453,
+  "equipable": true,
+  "slot": 0,
+  "amagic": 6,
+  "dcrush": 10,
+  "dmagic": 6,
+  "str": 3,
+  "mdmg": 1
  },
  "29022": {
   "name": "Blood moon chestplate",
-  "weight": 12.0,
+  "weight": 5.443,
   "equipable": true,
   "slot": 4,
   "amagic": -15,
@@ -46149,7 +46213,7 @@
  },
  "29025": {
   "name": "Blood moon tassets",
-  "weight": 8.0,
+  "weight": 4.082,
   "equipable": true,
   "slot": 7,
   "amagic": -21,
@@ -46161,9 +46225,23 @@
   "drange": 46,
   "str": 2
  },
+ "29028": {
+  "name": "Blood moon helm",
+  "weight": 1.0,
+  "equipable": true,
+  "slot": 0,
+  "amagic": -6,
+  "arange": -2,
+  "dstab": 20,
+  "dslash": 31,
+  "dcrush": 34,
+  "dmagic": 7,
+  "drange": 29,
+  "str": 4
+ },
  "29031": {
   "name": "Eclipse moon chestplate",
-  "weight": 12.0,
+  "weight": 3.0,
   "equipable": true,
   "slot": 4,
   "amagic": -15,
@@ -46177,7 +46255,7 @@
  },
  "29033": {
   "name": "Eclipse moon tassets",
-  "weight": 8.0,
+  "weight": 1.0,
   "equipable": true,
   "slot": 7,
   "amagic": -15,
@@ -46205,27 +46283,40 @@
  },
  "29037": {
   "name": "Blue moon chestplate",
-  "weight": 12.0,
+  "weight": 3.175,
   "equipable": true,
   "slot": 4,
   "amagic": 30,
   "dcrush": 51,
   "dmagic": 28,
-  "str": 2
+  "str": 2,
+  "mdmg": 1
  },
  "29039": {
   "name": "Blue moon tassets",
-  "weight": 8.0,
+  "weight": 1.36,
   "equipable": true,
   "slot": 7,
   "amagic": 22,
   "dcrush": 23,
-  "dmagic": 22,
-  "str": 1
+  "dmagic": 32,
+  "str": 1,
+  "mdmg": 1
+ },
+ "29041": {
+  "name": "Blue moon helm",
+  "weight": 0.453,
+  "equipable": true,
+  "slot": 0,
+  "amagic": 6,
+  "dcrush": 10,
+  "dmagic": 6,
+  "str": 3,
+  "mdmg": 1
  },
  "29043": {
   "name": "Blood moon chestplate",
-  "weight": 12.0,
+  "weight": 5.443,
   "equipable": true,
   "slot": 4,
   "amagic": -15,
@@ -46239,7 +46330,7 @@
  },
  "29045": {
   "name": "Blood moon tassets",
-  "weight": 8.0,
+  "weight": 4.082,
   "equipable": true,
   "slot": 7,
   "amagic": -21,
@@ -46251,9 +46342,23 @@
   "drange": 46,
   "str": 2
  },
+ "29047": {
+  "name": "Blood moon helm",
+  "weight": 0.907,
+  "equipable": true,
+  "slot": 0,
+  "amagic": -6,
+  "arange": -2,
+  "dstab": 20,
+  "dslash": 31,
+  "dcrush": 34,
+  "dmagic": 7,
+  "drange": 29,
+  "str": 4
+ },
  "29049": {
   "name": "Eclipse moon chestplate",
-  "weight": 12.0,
+  "weight": 3.0,
   "equipable": true,
   "slot": 4,
   "amagic": -15,
@@ -46267,7 +46372,7 @@
  },
  "29052": {
   "name": "Eclipse moon tassets",
-  "weight": 8.0,
+  "weight": 1.0,
   "equipable": true,
   "slot": 7,
   "amagic": -15,
@@ -46295,27 +46400,40 @@
  },
  "29058": {
   "name": "Blue moon chestplate",
-  "weight": 12.0,
+  "weight": 3.175,
   "equipable": true,
   "slot": 4,
   "amagic": 30,
   "dcrush": 51,
   "dmagic": 28,
-  "str": 2
+  "str": 2,
+  "mdmg": 1
  },
  "29061": {
   "name": "Blue moon tassets",
-  "weight": 8.0,
+  "weight": 1.36,
   "equipable": true,
   "slot": 7,
   "amagic": 22,
   "dcrush": 23,
-  "dmagic": 22,
-  "str": 1
+  "dmagic": 32,
+  "str": 1,
+  "mdmg": 1
+ },
+ "29064": {
+  "name": "Blue moon helm",
+  "weight": 0.453,
+  "equipable": true,
+  "slot": 0,
+  "amagic": 6,
+  "dcrush": 10,
+  "dmagic": 6,
+  "str": 3,
+  "mdmg": 1
  },
  "29067": {
   "name": "Blood moon chestplate",
-  "weight": 12.0,
+  "weight": 5.443,
   "equipable": true,
   "slot": 4,
   "amagic": -15,
@@ -46329,7 +46447,7 @@
  },
  "29070": {
   "name": "Blood moon tassets",
-  "weight": 8.0,
+  "weight": 4.082,
   "equipable": true,
   "slot": 7,
   "amagic": -21,
@@ -46340,6 +46458,20 @@
   "dmagic": 32,
   "drange": 46,
   "str": 2
+ },
+ "29073": {
+  "name": "Blood moon helm",
+  "weight": 0.907,
+  "equipable": true,
+  "slot": 0,
+  "amagic": -6,
+  "arange": -2,
+  "dstab": 20,
+  "dslash": 31,
+  "dcrush": 34,
+  "dmagic": 7,
+  "drange": 29,
+  "str": 4
  },
  "29084": {
   "name": "Sulphur blades",
@@ -46477,5 +46609,13 @@
   "weight": 0.3,
   "equipable": true,
   "slot": 0
+ },
+ "29486": {
+  "name": "Cursed amulet of magic",
+  "weight": 0.01,
+  "equipable": true,
+  "slot": 2,
+  "amagic": -3,
+  "mdmg": -80
  }
 }
