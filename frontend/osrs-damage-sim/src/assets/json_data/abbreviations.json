@@ -532,6 +532,7 @@
   "Welfare",
   "Safer",
   "NH",
+  "NHer",
   "PK",
   "PKer",
   "PKing"
@@ -541,6 +542,7 @@
   "Welfare",
   "Safer",
   "NH",
+  "NHer",
   "PK",
   "PKer",
   "PKing"
@@ -550,6 +552,7 @@
   "Welfare",
   "Safer",
   "NH",
+  "NHer",
   "PK",
   "PKer",
   "PKing"
@@ -1211,7 +1214,8 @@
   "ZGS"
  ],
  "Verzik Vitur": [
-  "Zik"
+  "Zik",
+  "Verz"
  ],
  "Commander Zilyana": [
   "Zily",
@@ -1482,6 +1486,12 @@
  "Old School RuneScape": [
   "GP",
   "OSRS"
+ ],
+ "quest": [
+  "Grind"
+ ],
+ "quest cape": [
+  "Grind"
  ],
  "Godsword": [
   "GS"
@@ -2038,6 +2048,12 @@
  ],
  "Staff of light": [
   "SoL"
+ ],
+ "food": [
+  "Solid(s)"
+ ],
+ "shark": [
+  "Solid(s)"
  ],
  "Stronghold of Security": [
   "SoS",
@@ -2931,6 +2947,16 @@
  "RuneScape Official Forums": [
   "RSOF"
  ],
+ "bones": [
+  "Runner",
+  "Ess",
+  "Essence"
+ ],
+ "pure essence": [
+  "Runner",
+  "Ess",
+  "Essence"
+ ],
  "spec": [
   "Rush",
   "Rusher"
@@ -2981,10 +3007,6 @@
   "Essence"
  ],
  "Rune": [
-  "Ess",
-  "Essence"
- ],
- "pure essence": [
   "Ess",
   "Essence"
  ],
